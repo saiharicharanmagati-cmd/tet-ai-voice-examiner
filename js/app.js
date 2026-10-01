@@ -44,7 +44,8 @@ class AppController {
       modePractice: document.getElementById('modePractice'),
       modeVault: document.getElementById('modeVault'),
       vaultBadge: document.getElementById('vaultBadge'),
-      subjectPills: document.querySelectorAll('.subject-pill'),
+      subjectPills: document.querySelectorAll('.sub-tab, .subject-pill'),
+      userSpeechRow: document.getElementById('userSpeechRow'),
       topicSelect: document.getElementById('topicSelect'),
       searchInput: document.getElementById('searchInput'),
       browserSubjectTitle: document.getElementById('browserSubjectTitle'),
@@ -241,25 +242,27 @@ class AppController {
 
   setupVoiceCallbacks() {
     voiceExaminer.onStateChange = (state) => {
-      this.dom.examinerOrb.className = `examiner-orb ${state}`;
-      this.dom.voiceStatusBadge.className = `voice-badge ${state}`;
-      this.dom.btnVoiceAnswer.classList.toggle('listening', state === 'listening');
+      if (this.dom.examinerOrb) this.dom.examinerOrb.className = `examiner-avatar-box ${state}`;
+      if (this.dom.voiceStatusBadge) this.dom.voiceStatusBadge.className = `voice-badge ${state}`;
+      if (this.dom.btnVoiceAnswer) this.dom.btnVoiceAnswer.classList.toggle('listening', state === 'listening');
 
       if (state === 'speaking') {
-        this.dom.examinerStatus.textContent = "Examiner asking question out loud...";
-        this.dom.voiceStatusBadge.querySelector('.status-label').textContent = "Speaking";
-        this.dom.visualizer.className = "visualizer-container active-speaking";
+        if (this.dom.examinerStatus) this.dom.examinerStatus.textContent = "Examiner reading question and options...";
+        if (this.dom.voiceStatusBadge) this.dom.voiceStatusBadge.querySelector('.status-label').textContent = "Speaking";
+        if (this.dom.visualizer) this.dom.visualizer.className = "visualizer-container active-speaking";
         if (this.dom.micLevelContainer) this.dom.micLevelContainer.style.display = 'none';
+        if (this.dom.userSpeechRow) this.dom.userSpeechRow.style.display = 'none';
       } else if (state === 'listening') {
-        this.dom.examinerStatus.textContent = "Strict Examiner listening... Speak Option 1, 2, 3, or 4";
-        this.dom.voiceStatusBadge.querySelector('.status-label').textContent = "Listening";
-        this.dom.visualizer.className = "visualizer-container active-listening";
+        if (this.dom.examinerStatus) this.dom.examinerStatus.textContent = "Strict Examiner listening... Speak Option 1, 2, 3, or 4";
+        if (this.dom.voiceStatusBadge) this.dom.voiceStatusBadge.querySelector('.status-label').textContent = "Listening";
+        if (this.dom.visualizer) this.dom.visualizer.className = "visualizer-container active-listening";
         if (this.dom.micLevelContainer) this.dom.micLevelContainer.style.display = 'flex';
-        this.dom.userSpeechText.textContent = "(Listening... say 'Option 1', 'Option 2', or your answer)";
+        if (this.dom.userSpeechRow) this.dom.userSpeechRow.style.display = 'flex';
+        if (this.dom.userSpeechText) this.dom.userSpeechText.textContent = "(Listening... say 'Option 1', 'Option 2', or your answer)";
       } else {
-        this.dom.examinerStatus.textContent = "Examiner ready";
-        this.dom.voiceStatusBadge.querySelector('.status-label').textContent = "Standby";
-        this.dom.visualizer.className = "visualizer-container";
+        if (this.dom.examinerStatus) this.dom.examinerStatus.textContent = "Examiner ready to test";
+        if (this.dom.voiceStatusBadge) this.dom.voiceStatusBadge.querySelector('.status-label').textContent = "Standby";
+        if (this.dom.visualizer) this.dom.visualizer.className = "visualizer-container";
         if (this.dom.micLevelContainer) this.dom.micLevelContainer.style.display = 'none';
       }
     };

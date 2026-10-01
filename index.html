@@ -1,421 +1,378 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="te">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TET Strict AI Voice Examiner | Paper 1A MCQ Master</title>
-  <meta name="description" content="Strict AI Voice Examiner Platform for TET Paper 1A MCQs covering English, Telugu, EVS, Mathematics, and CDP with zero hints and strict answer evaluation.">
+  <title>TET Master | Official Paper 1A AI Voice Examiner & Practice Portal</title>
+  <meta name="description" content="Professional Examination and AI Voice Oral Test Portal for TET Paper 1A Aspirants. Covering English, Telugu, EVS, Mathematics, and CDP with strict MCQ evaluation.">
   
-  <!-- Modern Typography -->
+  <!-- Professional Typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Ramabhadra&family=Gautami&family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Telugu:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
   
   <!-- FontAwesome Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   
-  <!-- QRCode.js for instant mobile phone testing -->
+  <!-- QRCode.js -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 
   <link rel="stylesheet" href="./css/style.css">
 </head>
-<body class="dark-theme">
-  <!-- Top Navigation Header -->
-  <header class="app-header">
-    <div class="header-left">
-      <div class="brand-badge">
-        <div class="brand-icon">
+<body class="academic-theme">
+
+  <!-- Top Institutional Bar -->
+  <header class="gov-topbar">
+    <div class="gov-container">
+      <div class="gov-brand">
+        <div class="gov-emblem">
           <i class="fa-solid fa-graduation-cap"></i>
         </div>
-        <div class="brand-text">
-          <span class="brand-title">TET Master AI</span>
-          <span class="brand-sub">Strict Voice Examiner (Paper 1A MCQs)</span>
+        <div class="gov-title-group">
+          <h1 class="portal-main-title">TET EXAM PORTAL &bull; PAPER 1A</h1>
+          <p class="portal-sub-title">AI Oral Examiner &amp; MCQ Revision System for Educators</p>
         </div>
       </div>
-      <div class="strict-pill">
-        <i class="fa-solid fa-shield-halved"></i>
-        <span>Strict Mode: No Hints</span>
-      </div>
-    </div>
 
-    <!-- Center Mode Switcher -->
-    <div class="header-center">
-      <div class="mode-tabs" role="tablist">
-        <button class="mode-tab active" id="modeViva" data-mode="viva" title="Examiner speaks question & listens">
-          <i class="fa-solid fa-microphone-lines"></i>
-          <span>Voice Viva Mode</span>
+      <!-- Center System Mode Selector -->
+      <div class="portal-modes" role="tablist">
+        <button class="portal-mode-btn active" id="modeViva" data-mode="viva">
+          <i class="fa-solid fa-headphones"></i>
+          <span>Oral Viva Examination</span>
         </button>
-        <button class="mode-tab" id="modePractice" data-mode="practice" title="Interactive click & voice mode">
-          <i class="fa-solid fa-bolt"></i>
-          <span>Practice Mode</span>
+        <button class="portal-mode-btn" id="modePractice" data-mode="practice">
+          <i class="fa-solid fa-pen-to-square"></i>
+          <span>Self-Paced Practice</span>
         </button>
-        <button class="mode-tab" id="modeVault" data-mode="vault" title="Strict re-revision of wrong answers">
-          <i class="fa-solid fa-triangle-exclamation"></i>
+        <button class="portal-mode-btn" id="modeVault" data-mode="vault">
+          <i class="fa-solid fa-clock-rotate-left"></i>
           <span>Mistake Vault (<span id="vaultBadge">0</span>)</span>
         </button>
       </div>
-    </div>
 
-    <!-- Header Actions -->
-    <div class="header-right">
-      <button class="btn-phone-connect" id="btnPhoneConnect" title="Open on Mobile Phone">
-        <i class="fa-solid fa-mobile-screen-button"></i>
-        <span>Test on Phone</span>
-      </button>
-
-      <button class="btn-icon" id="btnVoiceSettings" title="Voice & Examiner Settings">
-        <i class="fa-solid fa-sliders"></i>
-      </button>
+      <!-- Right Utility Actions -->
+      <div class="gov-actions">
+        <button class="btn-clean-action" id="btnPhoneConnect" title="Open on Mobile Phone">
+          <i class="fa-solid fa-mobile-screen"></i>
+          <span>Phone Practice</span>
+        </button>
+        <button class="btn-clean-action" id="btnVoiceSettings" title="Voice & Cadence Settings">
+          <i class="fa-solid fa-sliders"></i>
+          <span>Settings</span>
+        </button>
+      </div>
     </div>
   </header>
 
-  <!-- Subject Selector Strip -->
-  <nav class="subject-strip">
-    <div class="subject-pills-container">
-      <button class="subject-pill active" data-subject="English">
-        <span class="pill-icon">🔤</span>
-        <span class="pill-name">English</span>
-        <span class="pill-count" id="countEnglish">0 Qs</span>
-      </button>
-      <button class="subject-pill" data-subject="Telugu">
-        <span class="pill-icon">📜</span>
-        <span class="pill-name">తెలుగు (Telugu)</span>
-        <span class="pill-count" id="countTelugu">0 Qs</span>
-      </button>
-      <button class="subject-pill" data-subject="EVS">
-        <span class="pill-icon">🌿</span>
-        <span class="pill-name">EVS</span>
-        <span class="pill-count" id="countEVS">0 Qs</span>
-      </button>
-      <button class="subject-pill" data-subject="Maths">
-        <span class="pill-icon">📐</span>
-        <span class="pill-name">Mathematics</span>
-        <span class="pill-count" id="countMaths">0 Qs</span>
-      </button>
-      <button class="subject-pill" data-subject="CDP">
-        <span class="pill-icon">🧠</span>
-        <span class="pill-name">CDP</span>
-        <span class="pill-count" id="countCDP">0 Qs</span>
-      </button>
-    </div>
-
-    <!-- Search & Filter Controls -->
-    <div class="nav-controls-right">
-      <div class="search-input-box">
-        <i class="fa-solid fa-magnifying-glass"></i>
-        <input type="text" id="searchInput" placeholder="Search MCQs...">
-      </div>
-      <div class="topic-filter-box">
-        <i class="fa-solid fa-filter"></i>
-        <select id="topicSelect">
-          <option value="all">All Topics</option>
-        </select>
+  <!-- Subject Selection Navigation -->
+  <nav class="subject-nav">
+    <div class="subject-nav-inner">
+      <div class="subject-list" role="tablist">
+        <button class="sub-tab active" data-subject="English">
+          <span class="sub-icon"><i class="fa-solid fa-language"></i></span>
+          <span class="sub-name">English Language</span>
+          <span class="sub-count" id="countEnglish">86 MCQs</span>
+        </button>
+        <button class="sub-tab" data-subject="Telugu">
+          <span class="sub-icon"><i class="fa-solid fa-book-open-reader"></i></span>
+          <span class="sub-name">తెలుగు (Telugu)</span>
+          <span class="sub-count" id="countTelugu">68 MCQs</span>
+        </button>
+        <button class="sub-tab" data-subject="EVS">
+          <span class="sub-icon"><i class="fa-solid fa-leaf"></i></span>
+          <span class="sub-name">Environmental Studies (EVS)</span>
+          <span class="sub-count" id="countEVS">65 MCQs</span>
+        </button>
+        <button class="sub-tab" data-subject="Maths">
+          <span class="sub-icon"><i class="fa-solid fa-calculator"></i></span>
+          <span class="sub-name">Mathematics</span>
+          <span class="sub-count" id="countMaths">60 MCQs</span>
+        </button>
+        <button class="sub-tab" data-subject="CDP">
+          <span class="sub-icon"><i class="fa-solid fa-brain"></i></span>
+          <span class="sub-name">Child Development &amp; Pedagogy</span>
+          <span class="sub-count" id="countCDP">45 MCQs</span>
+        </button>
       </div>
     </div>
   </nav>
 
-  <!-- Main Content Layout: Split Panel (Questions Browser on Left, Active MCQ on Right) -->
-  <main class="app-layout">
+  <!-- Main Professional Split-View Workspace -->
+  <main class="portal-body">
     
-    <!-- Left Column: MCQ Questions Browser (Click on any question to load & hear) -->
-    <aside class="questions-browser-pane">
-      <div class="browser-header">
-        <div class="browser-title-row">
-          <h3><i class="fa-solid fa-list-check"></i> <span id="browserSubjectTitle">English</span> MCQs</h3>
-          <span class="browser-badge" id="browserCountBadge">0 Questions</span>
+    <!-- Left: Question Bank Directory / Master List -->
+    <aside class="q-directory-panel">
+      <div class="directory-header">
+        <div class="dir-title-row">
+          <h2 class="dir-heading"><i class="fa-solid fa-table-list"></i> Question Directory</h2>
+          <span class="dir-badge" id="browserCountBadge">0 Questions</span>
         </div>
-        <p class="browser-hint">Click on any question below to test yourself and choose the options:</p>
+
+        <div class="filter-controls">
+          <div class="search-box">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" id="searchInput" placeholder="Search questions or keywords...">
+          </div>
+          <div class="select-box">
+            <select id="topicSelect">
+              <option value="all">All Topics</option>
+            </select>
+          </div>
+        </div>
       </div>
 
+      <!-- Question List Items -->
       <div class="questions-scroll-list" id="questionsScrollList">
-        <!-- Dynamically rendered list of MCQ items with preview and status -->
+        <!-- Dynamically rendered clean questions -->
       </div>
     </aside>
 
-    <!-- Center/Right Column: Active MCQ Arena + Talkative Voice Examiner HUD -->
-    <section class="main-mcq-area">
-      <!-- Talkative Strict Examiner Card -->
-      <div class="examiner-banner-card">
-        <div class="examiner-header">
-          <div class="avatar-container">
-            <div class="examiner-orb" id="examinerOrb">
-              <div class="orb-ring"></div>
-              <div class="orb-core">
-                <i class="fa-solid fa-robot" id="examinerFaceIcon"></i>
-              </div>
-            </div>
-            <div class="examiner-info">
-              <h3 class="examiner-name">AI Strict Voice Examiner</h3>
-              <p class="examiner-status" id="examinerStatus">Ready to ask questions</p>
-            </div>
+    <!-- Right: Active Examination & Voice Examiner Hub -->
+    <section class="examination-workspace">
+      
+      <!-- Professional Voice Examiner Console -->
+      <div class="examiner-console">
+        <div class="console-left">
+          <div class="examiner-avatar-box" id="examinerOrb">
+            <i class="fa-solid fa-user-tie"></i>
           </div>
-          <div class="voice-badge" id="voiceStatusBadge">
-            <span class="status-dot"></span>
-            <span class="status-label">Standby</span>
-          </div>
-        </div>
-
-        <!-- Real-time Audio Visualizer Waves & Mic Level -->
-        <div class="visualizer-wrapper">
-          <div class="visualizer-container">
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-            <div class="wave-bar"></div>
-          </div>
-          <!-- Live Mic Volume Meter -->
-          <div class="mic-level-container" id="micLevelContainer" style="display: none;">
-            <div class="mic-level-label">
-              <i class="fa-solid fa-microphone-lines"></i> Mic Level:
+          <div class="examiner-meta">
+            <div class="examiner-title-row">
+              <h3 class="examiner-title">Oral Examiner</h3>
+              <span class="strict-tag"><i class="fa-solid fa-circle-check"></i> Strict Mode (Zero Hints)</span>
             </div>
-            <div class="mic-level-track">
-              <div class="mic-level-fill" id="micLevelFill" style="width: 0%;"></div>
-            </div>
-            <span class="mic-level-val" id="micLevelVal">0%</span>
-          </div>
-        </div>
-
-        <!-- Live Dialogue Transcript -->
-        <div class="dialogue-box">
-          <div class="dialogue-line ai-line">
-            <div class="dialogue-sender">
-              <i class="fa-solid fa-volume-high"></i> Examiner Voice:
-            </div>
-            <div class="dialogue-text" id="aiSpeechText">
-              "Click on any question from the list on the left or tap 'Speak Question'. I will read the MCQ and all 4 options. Answer by voice or click."
-            </div>
-          </div>
-          <div class="dialogue-line user-line" id="userSpeechLine">
-            <div class="dialogue-sender">
-              <i class="fa-solid fa-microphone"></i> Your Spoken Answer:
-            </div>
-            <div class="dialogue-text" id="userSpeechText">
-              (Ready to listen. Tap 'Speak Your Answer' and say 'Option 1', 'Option 2', etc.)
+            <div class="examiner-live-status" id="examinerStatus">
+              Examiner ready to test
             </div>
           </div>
         </div>
 
-        <!-- Mic Permission Alert Banner (Hidden by default) -->
-        <div class="mic-alert-banner" id="micAlertBanner" style="display: none;">
-          <i class="fa-solid fa-triangle-exclamation"></i>
-          <span id="micAlertText">Microphone permission is needed. Please click 'Allow' in your browser.</span>
-        </div>
-
-        <!-- Strict Voice Action Buttons -->
-        <div class="examiner-actions">
-          <button class="btn btn-primary" id="btnAskVoice">
-            <i class="fa-solid fa-bullhorn"></i>
-            <span>Speak Question & Options</span>
+        <!-- Voice Actions -->
+        <div class="console-controls">
+          <button class="voice-btn btn-read" id="btnAskVoice" title="Listen to question and all options">
+            <i class="fa-solid fa-volume-high"></i>
+            <span>Read Question Out Loud</span>
           </button>
-          <button class="btn btn-mic" id="btnVoiceAnswer">
+          <button class="voice-btn btn-answer" id="btnVoiceAnswer" title="Start voice recognition to speak your option">
             <i class="fa-solid fa-microphone"></i>
-            <span>Speak Your Answer</span>
+            <span>Answer by Voice</span>
           </button>
-          <button class="btn btn-secondary" id="btnRepeatVoice" title="Repeat Current Question">
+          <button class="voice-btn btn-neutral" id="btnRepeatVoice" title="Repeat spoken question">
             <i class="fa-solid fa-rotate-right"></i>
             <span>Repeat</span>
           </button>
-          <button class="btn btn-secondary" id="btnStopVoice" title="Stop Audio">
-            <i class="fa-solid fa-circle-stop"></i>
-            <span>Stop Voice</span>
+          <button class="voice-btn btn-neutral" id="btnStopVoice" title="Stop audio playback">
+            <i class="fa-solid fa-stop"></i>
+            <span>Stop</span>
           </button>
         </div>
       </div>
 
-      <!-- Active Question Card -->
-      <div class="question-card" id="questionCard">
-        <!-- Card Meta Info -->
-        <div class="card-meta">
-          <div class="meta-left">
-            <span class="badge badge-subject" id="currentSubjectTag">English</span>
-            <span class="badge badge-topic" id="currentTopicTag">Synonyms</span>
-            <span class="question-counter" id="questionCounter">Question 1 of 86</span>
+      <!-- Live Dialogue & Audio VU Monitor Bar -->
+      <div class="audio-feedback-strip">
+        <div class="mic-vu-meter" id="micLevelContainer" style="display: none;">
+          <span class="vu-label"><i class="fa-solid fa-microphone-lines"></i> Input Level:</span>
+          <div class="vu-track">
+            <div class="vu-bar" id="micLevelFill" style="width: 0%;"></div>
           </div>
-          <div class="meta-right">
-            <button class="btn-icon-subtle" id="btnBookmark" title="Save / Bookmark">
+          <span class="vu-num" id="micLevelVal">0%</span>
+        </div>
+
+        <div class="transcript-line">
+          <span class="trans-speaker"><i class="fa-solid fa-comment-dots"></i> Audio Transcript:</span>
+          <span class="trans-content" id="aiSpeechText">"Click any question from the list on the left. I will read the MCQ and all 4 options for your firm revision."</span>
+        </div>
+
+        <div class="transcript-line" id="userSpeechRow" style="display: none;">
+          <span class="trans-speaker" style="color: var(--color-success);"><i class="fa-solid fa-microphone"></i> You Said:</span>
+          <span class="trans-content" id="userSpeechText">(Listening...)</span>
+        </div>
+
+        <div class="mic-alert-box" id="micAlertBanner" style="display: none;">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          <span id="micAlertText">Microphone permission needed. Please allow microphone in your browser address bar.</span>
+        </div>
+      </div>
+
+      <!-- Active MCQ Card -->
+      <div class="mcq-card" id="questionCard">
+        <!-- Question Meta -->
+        <div class="mcq-header">
+          <div class="mcq-breadcrumbs">
+            <span class="badge-subject" id="currentSubjectTag">English Language</span>
+            <span class="badge-topic" id="currentTopicTag">Synonyms</span>
+            <span class="badge-num" id="questionCounter">Question 1 of 86</span>
+          </div>
+
+          <div class="mcq-quick-tools">
+            <button class="tool-btn" id="btnBookmark" title="Bookmark for later revision">
               <i class="fa-regular fa-bookmark"></i>
             </button>
-            <button class="btn-icon-subtle" id="btnRandomQuestion" title="Random Question">
+            <button class="tool-btn" id="btnRandomQuestion" title="Random Question">
               <i class="fa-solid fa-shuffle"></i>
             </button>
           </div>
         </div>
 
-        <!-- Progress Indicator -->
-        <div class="question-progress-bar">
-          <div class="progress-fill" id="questionProgressFill" style="width: 1%;"></div>
+        <div class="progress-bar-wrapper">
+          <div class="progress-bar-fill" id="questionProgressFill" style="width: 1%;"></div>
         </div>
 
-        <!-- Question Prompt Text -->
-        <div class="question-body">
-          <h2 class="question-text" id="questionText">Loading question...</h2>
+        <!-- Question Text -->
+        <div class="mcq-question-wrapper">
+          <h2 class="mcq-text" id="questionText">Loading question...</h2>
         </div>
 
-        <!-- 4 Options Grid -->
-        <div class="options-container-label">
-          <span><i class="fa-solid fa-hand-pointer"></i> Choose an option (or say "Option 1", "Option 2", etc.):</span>
-        </div>
-        <div class="options-grid" id="optionsGrid">
-          <!-- Dynamically populated options -->
+        <!-- Instructions -->
+        <div class="options-guideline">
+          <span><i class="fa-solid fa-hand-pointer"></i> Select your answer below or speak <strong>"Option 1"</strong>, <strong>"Option 2"</strong>, <strong>"Option 3"</strong>, or <strong>"Option 4"</strong>:</span>
         </div>
 
-        <!-- Strict Evaluation Feedback Panel -->
-        <div class="feedback-panel" id="feedbackPanel" style="display: none;">
-          <div class="feedback-header" id="feedbackHeader">
-            <div class="feedback-icon" id="feedbackIcon"></div>
-            <div class="feedback-title" id="feedbackTitle">Strict Evaluation Result</div>
+        <!-- 4 Multiple Choice Options Grid -->
+        <div class="options-container" id="optionsGrid">
+          <!-- Populated dynamically with clean Option A, B, C, D cards -->
+        </div>
+
+        <!-- Strict Verification Result Panel -->
+        <div class="strict-result-panel" id="feedbackPanel" style="display: none;">
+          <div class="result-title-bar" id="feedbackHeader">
+            <span class="result-icon" id="feedbackIcon"></span>
+            <span class="result-status-text" id="feedbackTitle">Verification Verdict</span>
           </div>
-          <div class="feedback-correct-answer" id="feedbackCorrectAnswer"></div>
-          <div class="feedback-explanation" id="feedbackExplanation"></div>
+          <div class="result-correct-display" id="feedbackCorrectAnswer"></div>
+          <div class="result-explanation" id="feedbackExplanation"></div>
         </div>
 
-        <!-- Bottom Controls -->
-        <div class="question-nav-bar">
-          <button class="btn btn-secondary" id="btnPrev">
+        <!-- Footer Navigation Controls -->
+        <div class="mcq-footer-nav">
+          <button class="nav-btn secondary-nav" id="btnPrev">
             <i class="fa-solid fa-arrow-left"></i>
-            <span>Previous</span>
+            <span>Previous Question</span>
           </button>
-          
-          <div class="nav-middle">
-            <button class="btn btn-accent" id="btnAutoViva">
-              <i class="fa-solid fa-play"></i>
-              <span>Auto-Advance Viva</span>
+
+          <div class="auto-viva-toggle-box">
+            <button class="nav-btn auto-viva-btn" id="btnAutoViva">
+              <i class="fa-solid fa-forward-step"></i>
+              <span>Continuous Viva Examination</span>
             </button>
           </div>
 
-          <button class="btn btn-primary" id="btnNext">
+          <button class="nav-btn primary-nav" id="btnNext">
             <span>Next Question</span>
             <i class="fa-solid fa-arrow-right"></i>
           </button>
         </div>
       </div>
 
-      <!-- Quick Performance Stats Strip -->
-      <div class="session-stats-card">
-        <div class="stat-item">
-          <span class="stat-label">Accuracy</span>
-          <span class="stat-value text-accent" id="statAccuracy">0%</span>
+      <!-- Performance Summary Bar -->
+      <div class="performance-summary">
+        <div class="perf-metric">
+          <span class="metric-label">Subject Accuracy</span>
+          <span class="metric-val text-primary" id="statAccuracy">0%</span>
         </div>
-        <div class="stat-item">
-          <span class="stat-label">Correct</span>
-          <span class="stat-value text-success" id="statCorrect">0</span>
+        <div class="perf-metric">
+          <span class="metric-label">Correct Answers</span>
+          <span class="metric-val text-success" id="statCorrect">0</span>
         </div>
-        <div class="stat-item">
-          <span class="stat-label">Wrong</span>
-          <span class="stat-value text-danger" id="statWrong">0</span>
+        <div class="perf-metric">
+          <span class="metric-label">Wrong Answers</span>
+          <span class="metric-val text-danger" id="statWrong">0</span>
         </div>
-        <div class="stat-item">
-          <span class="stat-label">Total Answered</span>
-          <span class="stat-value" id="statAnswered">0</span>
+        <div class="perf-metric">
+          <span class="metric-label">Total Attempted</span>
+          <span class="metric-val" id="statAnswered">0</span>
         </div>
       </div>
     </section>
   </main>
 
-  <!-- Mobile Testing Modal with QR Code and URL -->
+  <!-- Mobile Testing Modal (Clean & Professional) -->
   <div class="modal-overlay" id="phoneModal">
     <div class="modal-card">
       <div class="modal-header">
         <div class="modal-title">
           <i class="fa-solid fa-mobile-screen"></i>
-          <span>Open on your Mobile Phone</span>
+          <span>Practice on Your Smartphone</span>
         </div>
         <button class="modal-close" id="btnClosePhoneModal">&times;</button>
       </div>
       <div class="modal-body">
         <p class="modal-desc">
-          Test the AI Voice Assistant right on your phone! Mobile browsers (Chrome/Safari) <strong>strictly require HTTPS</strong> to allow microphone voice input.
+          You can practice on your phone hands-free using voice recognition. Both your phone and laptop must be connected to the same Wi-Fi network.
         </p>
 
         <div class="qr-container">
           <div id="qrcode"></div>
         </div>
 
-        <div class="phone-url-box">
-          <span class="phone-url-label">📱 Recommended HTTPS URL (Enables Mobile Microphone):</span>
-          <div class="url-copy-row">
+        <div class="phone-url-group">
+          <label class="url-label"><i class="fa-solid fa-lock"></i> HTTPS URL (Microphone Voice Enabled):</label>
+          <div class="url-input-row">
             <input type="text" id="phoneUrlInput" readonly value="https://192.168.0.102:8443">
-            <button class="btn btn-sm btn-accent" id="btnCopyPhoneUrl">
-              <i class="fa-regular fa-copy"></i> Copy
-            </button>
+            <button class="btn-copy" id="btnCopyPhoneUrl"><i class="fa-regular fa-copy"></i> Copy</button>
           </div>
-          <small class="text-subtle" style="font-size: 0.76rem; color: #cbd5e1; margin-top: 4px;">
-            <i class="fa-solid fa-lock"></i> Note: When opening in mobile browser for the first time, tap <strong>"Advanced" &rarr; "Proceed"</strong> to accept the local SSL certificate.
+          <small class="ssl-note">
+            When opening in mobile Chrome/Safari, tap <em>"Advanced" &rarr; "Proceed"</em> to approve the local certificate.
           </small>
         </div>
 
-        <div class="phone-url-box" style="margin-top: 8px;">
-          <span class="phone-url-label">Alternative HTTP URL:</span>
-          <div class="url-copy-row">
+        <div class="phone-url-group">
+          <label class="url-label">Alternative HTTP Link:</label>
+          <div class="url-input-row">
             <input type="text" id="phoneHttpUrlInput" readonly value="http://192.168.0.102:8080">
-            <button class="btn btn-sm btn-secondary" id="btnCopyHttpUrl">
-              <i class="fa-regular fa-copy"></i> Copy
-            </button>
+            <button class="btn-copy" id="btnCopyHttpUrl"><i class="fa-regular fa-copy"></i> Copy</button>
           </div>
-        </div>
-
-        <div class="phone-tip">
-          <i class="fa-solid fa-circle-info"></i>
-          <span>Tip: Tap 'Speak Your Answer' and say <strong>"Option 1"</strong>, <strong>"Option 2"</strong>, or the answer text.</span>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Settings Modal (Voice & Examiner Controls) -->
+  <!-- Settings Modal -->
   <div class="modal-overlay" id="settingsModal">
     <div class="modal-card">
       <div class="modal-header">
         <div class="modal-title">
           <i class="fa-solid fa-sliders"></i>
-          <span>Examiner & Voice Preferences</span>
+          <span>Examiner Voice &amp; Test Preferences</span>
         </div>
         <button class="modal-close" id="btnCloseSettings">&times;</button>
       </div>
       <div class="modal-body">
-        <div class="setting-row">
-          <label for="voiceSelect">Examiner Voice:</label>
-          <select id="voiceSelect" class="form-select"></select>
+        <div class="setting-field">
+          <label for="voiceSelect">Examiner Voice Profile:</label>
+          <select id="voiceSelect" class="form-input"></select>
         </div>
 
-        <div class="setting-row">
-          <label for="voiceRate">Speaking Speed: <span id="rateVal">1.0x</span></label>
-          <input type="range" id="voiceRate" min="0.7" max="1.4" step="0.05" value="1.0">
+        <div class="setting-field">
+          <label for="voiceRate">Speaking Speed: <span id="rateVal">0.92x (Clear Cadence)</span></label>
+          <input type="range" id="voiceRate" min="0.75" max="1.3" step="0.05" value="0.92">
         </div>
 
-        <div class="setting-row">
-          <label for="voicePitch">Examiner Pitch: <span id="pitchVal">1.0</span></label>
-          <input type="range" id="voicePitch" min="0.8" max="1.3" step="0.05" value="1.0">
+        <div class="setting-field">
+          <label for="voicePitch">Voice Pitch: <span id="pitchVal">1.0</span></label>
+          <input type="range" id="voicePitch" min="0.85" max="1.2" step="0.05" value="1.0">
         </div>
 
-        <div class="setting-row-toggle">
+        <div class="setting-checkbox-row">
           <div>
-            <strong>Auto-Listen after reading question</strong>
-            <p class="text-subtle">Immediately starts microphone when examiner finishes speaking</p>
+            <strong>Automatic Microphone Activation</strong>
+            <p>Automatically listen for your spoken option as soon as the examiner finishes reading.</p>
           </div>
           <input type="checkbox" id="checkAutoListen" checked>
         </div>
 
-        <div class="setting-row-toggle">
+        <div class="setting-checkbox-row">
           <div>
-            <strong>Auto-advance to next question</strong>
-            <p class="text-subtle">Automatically load next question after correct verbal answer</p>
+            <strong>Auto-Advance after Correct Answer</strong>
+            <p>Proceed to the next question automatically after a correct response.</p>
           </div>
           <input type="checkbox" id="checkAutoAdvance" checked>
         </div>
 
-        <div class="setting-row-toggle">
+        <div class="setting-checkbox-row">
           <div>
-            <strong>Sound Effects (Chimes / Buzzers)</strong>
-            <p class="text-subtle">Play procedural Web Audio chimes on correct/wrong answers</p>
+            <strong>Audio Chimes &amp; Alert Buzzers</strong>
+            <p>Auditory confirmation tones on correct and incorrect responses.</p>
           </div>
           <input type="checkbox" id="checkSoundFX" checked>
         </div>
