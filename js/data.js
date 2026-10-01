@@ -39,14 +39,37 @@ export class QuestionRepo {
     return this.data;
   }
 
+  getAllQuestions() {
+    let all = [];
+    for (const sub of this.subjects) {
+      if (Array.isArray(this.data[sub])) {
+        all = all.concat(this.data[sub]);
+      }
+    }
+    return all;
+  }
+
   getBySubject(subject) {
+    if (!subject || subject === 'All') {
+      return this.getAllQuestions();
+    }
     return this.data[subject] || [];
   }
 
   getTopics(subject) {
     const list = this.getBySubject(subject);
     const topics = new Set(list.map(q => q.topic).filter(Boolean));
-    return Array.from(topics);
+    return Array.from(topics).sort();
+  }
+
+  getTopicCounts(subject) {
+    const list = this.getBySubject(subject);
+    const counts = {};
+    list.forEach(q => {
+      const t = q.topic || 'General';
+      counts[t] = (counts[t] || 0) + 1;
+    });
+    return counts;
   }
 
   getQuestionById(subject, id) {

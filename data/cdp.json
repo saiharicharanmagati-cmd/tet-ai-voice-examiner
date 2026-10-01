@@ -16,7 +16,7 @@
   {
     "id": 4,
     "subject": "CDP",
-    "topic": "Child Rights & Constitution",
+    "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
     "question": "The Constitution of India provides free and compulsory Education for all children in this age group (in years):",
     "options": [
       "0 to 14 years",
@@ -30,7 +30,7 @@
   {
     "id": 5,
     "subject": "CDP",
-    "topic": "Child Welfare",
+    "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
     "question": "National Child Helpline Service Number in India / భారతదేశంలో పిల్లల సహాయార్థం జాతీయ టోల్ ఫ్రీ నంబర్:",
     "options": [
       "100",
@@ -44,7 +44,7 @@
   {
     "id": 8,
     "subject": "CDP",
-    "topic": "Developmental Stages",
+    "topic": "Growth, Development & Maturation Principles",
     "question": "The developmental stage between Infancy and Adolescence is / శైశవ దశ, కౌమార దశ ల మధ్య గల దశ:",
     "options": [
       "Adulthood (వయోజన దశ)",
@@ -58,7 +58,7 @@
   {
     "id": 12,
     "subject": "CDP",
-    "topic": "Parenting Styles",
+    "topic": "Guidance, Counseling & Classroom Management",
     "question": "This is the most successful and healthy parenting style / ఇది బాగా విజయవంతమైన పెంపక శైలి:",
     "options": [
       "Authoritative style (సాధికారతత్వ శైలి)",
@@ -86,7 +86,7 @@
   {
     "id": 50,
     "subject": "CDP",
-    "topic": "Principles of Development",
+    "topic": "Growth, Development & Maturation Principles",
     "question": "According to this principle, 'Development starts from head and proceeds towards heel' / వికాసం శిరస్సు నుండి ప్రారంభమై పాదాభిముఖంగా సాగుతుంది:",
     "options": [
       "Cephalo caudal (శిరోపాద నియమం)",
@@ -100,7 +100,7 @@
   {
     "id": 51,
     "subject": "CDP",
-    "topic": "Principles of Development",
+    "topic": "Growth, Development & Maturation Principles",
     "question": "According to this principle of development, 'Development proceeds from centre to periphery' / వికాసం శరీర మధ్యస్థం నుండి ప్రారంభమై వెలుపల దూరాలకు విస్తరిస్తుంది:",
     "options": [
       "Cephalo caudal (శిరోపాద నియమం)",
@@ -114,7 +114,7 @@
   {
     "id": 83,
     "subject": "CDP",
-    "topic": "Emotions",
+    "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
     "question": "The word 'Emovere' is derived from this language / 'ఎమోవర్' అను పదము ఈ భాష నుండి ఉద్భవించింది:",
     "options": [
       "French",
@@ -142,7 +142,7 @@
   {
     "id": 140,
     "subject": "CDP",
-    "topic": "Moral Development",
+    "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
     "question": "According to Kohlberg’s Moral developmental theory, 'the good boy good girl attitude' reflects in this stage:",
     "options": [
       "Stage 1",
@@ -170,7 +170,7 @@
   {
     "id": 170,
     "subject": "CDP",
-    "topic": "Creativity",
+    "topic": "Intelligence, Creativity & Individual Differences",
     "question": "The correct order of creativity stages / సృజనాత్మక దశల యొక్క సరైన వరుసక్రమం:",
     "options": [
       "Preparation, Incubation/Latency, Insight/Illumination, Verification/Proving",
@@ -184,7 +184,7 @@
   {
     "id": 173,
     "subject": "CDP",
-    "topic": "Cognitive Processes",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
     "question": "Thinking about one’s own thoughts is called / ఒక వ్యక్తి తన ఆలోచనల గురించి తానే ఆలోచించడాన్ని ఏమంటారు?",
     "options": [
       "Meta cognition (స్వబుద్ధి)",
@@ -198,7 +198,7 @@
   {
     "id": 190,
     "subject": "CDP",
-    "topic": "Intelligence",
+    "topic": "Intelligence, Creativity & Individual Differences",
     "question": "The concept of Intelligence Quotient (IQ) was proposed by / 'ప్రజ్ఞా లబ్ధి' భావనను ప్రతిపాదించిన వారు:",
     "options": [
       "Stern (స్టెర్న్)",
@@ -212,7 +212,7 @@
   {
     "id": 193,
     "subject": "CDP",
-    "topic": "Intelligence",
+    "topic": "Intelligence, Creativity & Individual Differences",
     "question": "Formula for Intelligence Quotient (IQ) is:",
     "options": [
       "(Mental Age / Chronological Age) × 100",
@@ -226,7 +226,7 @@
   {
     "id": 232,
     "subject": "CDP",
-    "topic": "Piaget's Theory",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
     "question": "According to Jean Piaget, basic cognitive building blocks/structures are called as / సంజ్ఞానాత్మక నిర్మాణాన్ని పిలుస్తారు:",
     "options": [
       "Schema (స్కీమాటా)",
@@ -240,7 +240,7 @@
   {
     "id": 235,
     "subject": "CDP",
-    "topic": "Piaget's Theory",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
     "question": "According to Jean Piaget’s Theory, a child gains 'Object Permanence' in this stage / 'వస్తు స్థిరత్వ భావన' ఏ దశలో పొందుతాడు?",
     "options": [
       "Pre operational Stage",
@@ -268,7 +268,7 @@
   {
     "id": 341,
     "subject": "CDP",
-    "topic": "Defense Mechanisms",
+    "topic": "Personality, Adjustment & Defense Mechanisms",
     "question": "A clerk who is angry at his boss shows it on his wife. It is an example for this defense mechanism / అధికారి మీద కోపాన్ని భార్యపై చూపించడం ఏ రక్షకతంత్రం?",
     "options": [
       "Projection (ప్రక్షేపణం)",
@@ -282,7 +282,7 @@
   {
     "id": 349,
     "subject": "CDP",
-    "topic": "Defense Mechanisms",
+    "topic": "Personality, Adjustment & Defense Mechanisms",
     "question": "When the fox could not get grapes it remarks them as sour grapes. This is an example of which defense mechanism?",
     "options": [
       "Repression (దమనం)",
@@ -296,7 +296,7 @@
   {
     "id": 422,
     "subject": "CDP",
-    "topic": "Learning Theories",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
     "question": "Pavlov's experiment on dog salivation is related to which conditioning theory?",
     "options": [
       "Classical Conditioning (శాస్త్రీయ నిబంధనం)",
@@ -310,7 +310,7 @@
   {
     "id": 424,
     "subject": "CDP",
-    "topic": "Learning Theories",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
     "question": "B.F. Skinner conducted his Operant Conditioning experiments primarily on:",
     "options": [
       "Rat (ఎలుక)",
@@ -338,7 +338,7 @@
   {
     "id": 465,
     "subject": "CDP",
-    "topic": "Vygotsky's Theory",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
     "question": "The difference between what a learner can do without help and what they can achieve with guidance is known as:",
     "options": [
       "Scaffolding (స్కాఫోల్డింగ్)",
@@ -394,7 +394,7 @@
   {
     "id": 77,
     "subject": "CDP",
-    "topic": "Emotions",
+    "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
     "question": "If parents constantly compare their children with other children, the children exhibit / తల్లిదండ్రులు పిల్లలను ఇతరులతో పోల్చినప్పుడు వారు ప్రదర్శించేది:",
     "options": [
       "Anger (కోపం / అసూయ)",
@@ -408,7 +408,7 @@
   {
     "id": 78,
     "subject": "CDP",
-    "topic": "Emotions",
+    "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
     "question": "Jealousy is a/an / అసూయ అనేది ఒక:",
     "options": [
       "pleasant emotion",
@@ -436,7 +436,7 @@
   {
     "id": 87,
     "subject": "CDP",
-    "topic": "Behaviorism",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
     "question": "'Give me a dozen healthy infants... and I will train them to become any type of specialist (doctor, lawyer, artist, merchant-chief)' was proclaimed by:",
     "options": [
       "Freeman",
@@ -464,7 +464,7 @@
   {
     "id": 113,
     "subject": "CDP",
-    "topic": "Developmental Stages",
+    "topic": "Growth, Development & Maturation Principles",
     "question": "According to psychologists, 'Pre-Gang Age' corresponds to / మనోవిజ్ఞాన శాస్త్రవేత్తల ప్రకారం పూర్వ ముఠా దశ:",
     "options": [
       "Adulthood",
@@ -478,7 +478,7 @@
   {
     "id": 114,
     "subject": "CDP",
-    "topic": "Developmental Stages",
+    "topic": "Growth, Development & Maturation Principles",
     "question": "According to psychologists, which of the following is NOT a feature of Early Childhood?",
     "options": [
       "Pre Gang age",
@@ -520,7 +520,7 @@
   {
     "id": 343,
     "subject": "CDP",
-    "topic": "Defense Mechanisms",
+    "topic": "Personality, Adjustment & Defense Mechanisms",
     "question": "A grown man reverting to bed-wetting under extreme stress uses which defense mechanism? / రాత్రిపూట పక్క తడిపే యువకుడు ఉపయోగించే రక్షక తంత్రం:",
     "options": [
       "Regression (ప్రతిగమనం)",
@@ -534,7 +534,7 @@
   {
     "id": 354,
     "subject": "CDP",
-    "topic": "Defense Mechanisms",
+    "topic": "Personality, Adjustment & Defense Mechanisms",
     "question": "A student backward in studies shows great talent and excels in sports. This defense mechanism is:",
     "options": [
       "Regression",
@@ -576,7 +576,7 @@
   {
     "id": 489,
     "subject": "CDP",
-    "topic": "Special Education",
+    "topic": "Inclusive Education & Children with Special Needs",
     "question": "Learning disability specifically associated with reading difficulties is / చదవడంలో అభ్యసన వైకల్యం:",
     "options": [
       "Dyslexia (డిస్లెక్సియా)",
@@ -590,7 +590,7 @@
   {
     "id": 494,
     "subject": "CDP",
-    "topic": "Special Education",
+    "topic": "Inclusive Education & Children with Special Needs",
     "question": "Learning disability specifically related to writing difficulties is / రాయడానికి సంబంధించిన వైకల్యం:",
     "options": [
       "Alexia",
@@ -604,7 +604,7 @@
   {
     "id": 498,
     "subject": "CDP",
-    "topic": "Special Education",
+    "topic": "Inclusive Education & Children with Special Needs",
     "question": "Learning disability related to mathematical calculations and arithmetic concepts is:",
     "options": [
       "Dysphasia",
@@ -618,7 +618,7 @@
   {
     "id": 512,
     "subject": "CDP",
-    "topic": "Curriculum Frameworks",
+    "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
     "question": "Which of the following is NOT recommended by NCF-2005? / NCF 2005 మార్గదర్శక సూత్రాలలో లేని వాక్యం:",
     "options": [
       "Simplification of examination pattern",
@@ -628,5 +628,1013 @@
     ],
     "answer": 3,
     "explanation": "NCF-2005 explicitly recommends shifting away from rote memorization methods."
+  },
+  {
+    "id": 2,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "According to Elizabeth Hurlock, childhood belongs to this age range (in years):",
+    "options": [
+      "10 to 20",
+      "15 to 25",
+      "3 to 10",
+      "20 to 30"
+    ],
+    "answer": 3,
+    "explanation": "Hurlock defines early childhood (2-6) and late childhood (6-10/12)."
+  },
+  {
+    "id": 3,
+    "subject": "CDP",
+    "topic": "Psychology",
+    "question": "According to Psychology, the age of childhood extends up to:",
+    "options": [
+      "Up to 20 years",
+      "Up to 25 years",
+      "Up to 30 years",
+      "Up to 14 years"
+    ],
+    "answer": 4,
+    "explanation": "Childhood in classical developmental psychology extends up to puberty / 12-14 years."
+  },
+  {
+    "id": 6,
+    "subject": "CDP",
+    "topic": "Developmental Factors",
+    "question": "According to Rodke, housing, nutrition and living facilities belong to which category of factors?",
+    "options": [
+      "School Factors",
+      "Moral Factors",
+      "Economic Factors (ఆర్థిక కారకాలు)",
+      "Political Factors"
+    ],
+    "answer": 3,
+    "explanation": "Living facilities, nutrition, and home shelter are categorized as socio-economic factors."
+  },
+  {
+    "id": 10,
+    "subject": "CDP",
+    "topic": "Acronyms & Organizations",
+    "question": "Expand ILO / ILO ను విస్తరించండి:",
+    "options": [
+      "International Labour Organisation",
+      "Indian Labour Organisation",
+      "Inter Labour Organisation",
+      "Indian Land Organisation"
+    ],
+    "answer": 1,
+    "explanation": "ILO stands for International Labour Organization."
+  },
+  {
+    "id": 16,
+    "subject": "CDP",
+    "topic": "Guidance, Counseling & Classroom Management",
+    "question": "In which parenting style are children often lack self-dependence and self-reliance?",
+    "options": [
+      "Authoritative style",
+      "Authoritarian style (నిరంకుశతత్వ శైలి)",
+      "Permissive Style",
+      "Uninvolved Style"
+    ],
+    "answer": 2,
+    "explanation": "Strict authoritarian parenting often deprives children of independent decision making."
+  },
+  {
+    "id": 22,
+    "subject": "CDP",
+    "topic": "Research Methods",
+    "question": "Past facts are systematically collected through primary and secondary historical sources in:",
+    "options": [
+      "Historical Research (చారిత్రాత్మక పరిశోధన)",
+      "Correlation Research",
+      "Descriptive Research",
+      "Experimental Research"
+    ],
+    "answer": 1,
+    "explanation": "Historical research investigates past events using primary relics and secondary documents."
+  },
+  {
+    "id": 24,
+    "subject": "CDP",
+    "topic": "Research Methods",
+    "question": "The most objective scientific method used in psychological investigations is:",
+    "options": [
+      "Historical method",
+      "Correlation method",
+      "Descriptive method",
+      "Experimental method (ప్రయోగాత్మక పద్ధతి)"
+    ],
+    "answer": 4,
+    "explanation": "The experimental method controls variables rigorously, achieving maximum objectivity."
+  },
+  {
+    "id": 26,
+    "subject": "CDP",
+    "topic": "Experimental Variables",
+    "question": "Which of the following is NOT a recognized type of variable in psychological experiments?",
+    "options": [
+      "Independent variable (స్వతంత్ర చరం)",
+      "Dependent variable (పరతంత్ర చరం)",
+      "Intervening variable (జోక్య చరం)",
+      "Freedom variable (స్వేచ్ఛా చరం)"
+    ],
+    "answer": 4,
+    "explanation": "Standard psychological research variables are Independent, Dependent, and Intervening / Controlled."
+  },
+  {
+    "id": 30,
+    "subject": "CDP",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
+    "question": "The specific action or behavior exhibited by an organism in response to a stimulus is called a:",
+    "options": [
+      "Stimuli (ఉద్దీపనలు)",
+      "Response (ప్రతిస్పందన)",
+      "Experimenter",
+      "Subject"
+    ],
+    "answer": 2,
+    "explanation": "In behavioral psychology, a stimulus produces an observable Response."
+  },
+  {
+    "id": 33,
+    "subject": "CDP",
+    "topic": "Assessment Tools",
+    "question": "The data collection instrument where the respondent self-completes a series of printed questions is a:",
+    "options": [
+      "Observation",
+      "Introspection",
+      "Questionnaire (ప్రశ్నావళి)",
+      "Narrations"
+    ],
+    "answer": 3,
+    "explanation": "A Questionnaire is a self-report tool filled out directly by the participant."
+  },
+  {
+    "id": 36,
+    "subject": "CDP",
+    "topic": "Action Research",
+    "question": "The research conducted by a teacher to identify and solve immediate day-to-day classroom problems is:",
+    "options": [
+      "Historical Research",
+      "Interview",
+      "Narrations",
+      "Action Research (చర్యాత్మక పరిశోధన)"
+    ],
+    "answer": 4,
+    "explanation": "Action research is carried out by practitioners to solve immediate classroom pedagogical issues."
+  },
+  {
+    "id": 64,
+    "subject": "CDP",
+    "topic": "Socialization",
+    "question": "A child’s lifelong socialization process begins first with his/her:",
+    "options": [
+      "Mother (అమ్మ)",
+      "Brother",
+      "Teacher",
+      "Friend"
+    ],
+    "answer": 1,
+    "explanation": "The mother is the primary social agent of the child."
+  },
+  {
+    "id": 68,
+    "subject": "CDP",
+    "topic": "Guidance, Counseling & Classroom Management",
+    "question": "In this type of play, young children play side by side with similar toys without interacting directly:",
+    "options": [
+      "Parallel Play (సమాంతర క్రీడ)",
+      "Gang Play",
+      "Associative Play",
+      "Solitary play"
+    ],
+    "answer": 1,
+    "explanation": "Mildred Parten classified Parallel Play as playing adjacent to peers without mutual influence."
+  },
+  {
+    "id": 99,
+    "subject": "CDP",
+    "topic": "Guidance, Counseling & Classroom Management",
+    "question": "“Culture is the man-made part of the environment” was famously defined by:",
+    "options": [
+      "Dugdale",
+      "M.J. Herskovits (ఎం. జె. హెర్కోవ్ట్స్)",
+      "Pearson",
+      "W.C. Bagley"
+    ],
+    "answer": 2,
+    "explanation": "Anthropologist Melville J. Herskovits coined this classic definition of culture."
+  },
+  {
+    "id": 101,
+    "subject": "CDP",
+    "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
+    "question": "According to Kohlberg, the correct sequence of gender concept development in children is:",
+    "options": [
+      "Gender Identity -> Gender Stability -> Gender Consistency",
+      "Gender Stability -> Gender Identity -> Gender Consistency",
+      "Gender Consistency -> Gender Stability -> Gender Identity",
+      "Gender Stability -> Gender Consistency -> Gender Identity"
+    ],
+    "answer": 1,
+    "explanation": "Kohlberg's 3 stages of gender development: Gender Identity (ages 2-3) -> Gender Stability (ages 3-4) -> Gender Consistency (ages 5-7)."
+  },
+  {
+    "id": 201,
+    "subject": "CDP",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
+    "question": "According to Jean Piaget, the stage where a child develops 'Object Permanence' (వస్తు స్థిరత్వ భావన) is:",
+    "options": [
+      "Sensori-motor Stage (ఇంద్రియ ప్రచాలక దశ)",
+      "Pre-operational Stage (పూర్వ ప్రచాలక దశ)",
+      "Concrete Operational Stage (మూర్త ప్రచాలక దశ)",
+      "Formal Operational Stage (అమూర్త ప్రచాలక దశ)"
+    ],
+    "answer": 1,
+    "explanation": "Object permanence develops during the Sensorimotor stage (birth to 2 years)."
+  },
+  {
+    "id": 202,
+    "subject": "CDP",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
+    "question": "Lev Vygotsky coined the term 'Zone of Proximal Development' (ZPD), which refers to:",
+    "options": [
+      "What a learner can do without any assistance",
+      "The difference between what a learner can do without help and what they can do with guidance",
+      "The physical zone inside the classroom",
+      "The age at which a child achieves formal schooling"
+    ],
+    "answer": 2,
+    "explanation": "ZPD is the distance between actual developmental level and potential developmental level under adult guidance or peer collaboration."
+  },
+  {
+    "id": 203,
+    "subject": "CDP",
+    "topic": "Cognitive Development (Piaget, Vygotsky, Bruner)",
+    "question": "Jerome Bruner proposed three modes of cognitive representation in the following sequence:",
+    "options": [
+      "Enactive -> Iconic -> Symbolic",
+      "Iconic -> Enactive -> Symbolic",
+      "Symbolic -> Iconic -> Enactive",
+      "Enactive -> Symbolic -> Iconic"
+    ],
+    "answer": 1,
+    "explanation": "Bruner's representation modes: Enactive (action-based) -> Iconic (image-based) -> Symbolic (language/symbol-based)."
+  },
+  {
+    "id": 204,
+    "subject": "CDP",
+    "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
+    "question": "In Lawrence Kohlberg's theory of moral development, 'Good boy - Nice girl orientation' belongs to which level?",
+    "options": [
+      "Pre-conventional Morality",
+      "Conventional Morality (సాంప్రదాయక స్థాయి)",
+      "Post-conventional Morality",
+      "Autonomous Morality"
+    ],
+    "answer": 2,
+    "explanation": "Stage 3 (Good boy/nice girl) is part of Conventional Morality (Level 2), where approval from others guides moral choices."
+  },
+  {
+    "id": 205,
+    "subject": "CDP",
+    "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
+    "question": "According to Erik Erikson's Psychosocial stages, the psychosocial crisis during Adolescence is:",
+    "options": [
+      "Trust vs Mistrust",
+      "Autonomy vs Shame",
+      "Identity vs Role Confusion (గుర్తింపు vs పాత్ర సందిగ్ధత)",
+      "Intimacy vs Isolation"
+    ],
+    "answer": 3,
+    "explanation": "Adolescents (ages 12-18) grapple with 'Identity vs Role Confusion' to develop a coherent sense of self."
+  },
+  {
+    "id": 206,
+    "subject": "CDP",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
+    "question": "Which psychologist placed a hungry cat in a puzzle box to formulate the 'Trial and Error' theory of learning?",
+    "options": [
+      "E.L. Thorndike",
+      "B.F. Skinner",
+      "Ivan Pavlov",
+      "Wolfgang Kohler"
+    ],
+    "answer": 1,
+    "explanation": "Edward L. Thorndike formulated the Laws of Learning (Readiness, Exercise, Effect) using cats in puzzle boxes."
+  },
+  {
+    "id": 207,
+    "subject": "CDP",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
+    "question": "Wolfgang Kohler conducted experiments with chimpanzees (Sultan) on the island of Tenerife to discover:",
+    "options": [
+      "Classical Conditioning",
+      "Operant Conditioning",
+      "Insight Learning (అంతర్దృష్టి అభ్యసనం)",
+      "Observational Learning"
+    ],
+    "answer": 3,
+    "explanation": "Kohler demonstrated that problem-solving occurs through sudden insight (aha! moment)."
+  },
+  {
+    "id": 208,
+    "subject": "CDP",
+    "topic": "Learning Theories (Thorndike, Skinner, Pavlov, Kohler)",
+    "question": "In Pavlov's Classical Conditioning experiment, the unconditioned stimulus (UCS) is:",
+    "options": [
+      "Salivation",
+      "Sound of the bell",
+      "Food (ఆహారం)",
+      "Light signal"
+    ],
+    "answer": 3,
+    "explanation": "Food is the Unconditioned Stimulus (UCS) that naturally produces salivation (UCR)."
+  },
+  {
+    "id": 209,
+    "subject": "CDP",
+    "topic": "Intelligence, Creativity & Individual Differences",
+    "question": "Howard Gardner proposed the 'Multiple Intelligences Theory'. How many distinct intelligences were initially proposed in 1983?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Gardner initially identified 7 distinct intelligences in 'Frames of Mind' (1983), later adding Naturalist as the 8th."
+  },
+  {
+    "id": 210,
+    "subject": "CDP",
+    "topic": "Intelligence, Creativity & Individual Differences",
+    "question": "The formula to calculate Intelligence Quotient (IQ) developed by William Stern and refined by Lewis Terman is:",
+    "options": [
+      "(CA / MA) × 100",
+      "(MA / CA) × 100",
+      "(MA × CA) / 100",
+      "(MA + CA) × 10"
+    ],
+    "answer": 2,
+    "explanation": "IQ = (Mental Age / Chronological Age) × 100."
+  },
+  {
+    "id": 211,
+    "subject": "CDP",
+    "topic": "Personality, Adjustment & Defense Mechanisms",
+    "question": "An employee who is scolded by his boss comes home and shouts at his innocent child. This defense mechanism is:",
+    "options": [
+      "Projection (ప్రక్షేపణం)",
+      "Displacement (విస్థాపనం)",
+      "Rationalization (యుక్తికీకరణం)",
+      "Sublimation (ఉదాత్తీకరణం)"
+    ],
+    "answer": 2,
+    "explanation": "Displacement is redirecting anger or aggressive impulses toward a less threatening or safer target."
+  },
+  {
+    "id": 212,
+    "subject": "CDP",
+    "topic": "Personality, Adjustment & Defense Mechanisms",
+    "question": "A student who fails an exam blames the question paper for being out of syllabus. This defense mechanism is:",
+    "options": [
+      "Rationalization (యుక్తికీకరణం)",
+      "Regression",
+      "Identification",
+      "Repression"
+    ],
+    "answer": 1,
+    "explanation": "Rationalization involves creating plausible but untrue excuses to justify failure."
+  },
+  {
+    "id": 213,
+    "subject": "CDP",
+    "topic": "Inclusive Education & Children with Special Needs",
+    "question": "A learning disability characterized by severe difficulty in reading and decoding words is known as:",
+    "options": [
+      "Dyscalculia",
+      "Dysgraphia",
+      "Dyslexia (డిస్లెక్సియా)",
+      "Dyspraxia"
+    ],
+    "answer": 3,
+    "explanation": "Dyslexia is a language-based learning disability that affects reading fluency and word comprehension."
+  },
+  {
+    "id": 214,
+    "subject": "CDP",
+    "topic": "Inclusive Education & Children with Special Needs",
+    "question": "A learning disability specifically affecting a child's mathematical calculations and number comprehension is:",
+    "options": [
+      "Dyspraxia",
+      "Dyscalculia (డిస్కాల్క్యులియా)",
+      "Dysphasia",
+      "Dysgraphia"
+    ],
+    "answer": 2,
+    "explanation": "Dyscalculia refers to specific learning difficulties in grasping math concepts, arithmetic symbols, and calculations."
+  },
+  {
+    "id": 215,
+    "subject": "CDP",
+    "topic": "Assessment, Evaluation & CCE",
+    "question": "In Continuous and Comprehensive Evaluation (CCE), Formative Assessment (నిర్మాణాత్మక మూల్యాంకనం) carries what total weightage?",
+    "options": [
+      "20%",
+      "40%",
+      "50%",
+      "80%"
+    ],
+    "answer": 2,
+    "explanation": "Under AP CCE guidelines, Formative Assessment carries 50 marks (or 20%/40% depending on pattern, specifically 4 formative tests carrying 50 marks each evaluated for continuous improvement)."
+  },
+  {
+    "id": 216,
+    "subject": "CDP",
+    "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
+    "question": "Under the Right to Education (RTE) Act 2009, the mandated Pupil-Teacher Ratio (PTR) for Primary Schools (Classes 1 to 5) is:",
+    "options": [
+      "25:1",
+      "30:1",
+      "35:1",
+      "40:1"
+    ],
+    "answer": 2,
+    "explanation": "Under RTE Act 2009, the teacher-pupil ratio for primary schools is 1:30 for up to 60 students."
+  },
+  {
+    "id": 217,
+    "subject": "CDP",
+    "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
+    "question": "The Right to Education (RTE) Act 2009 came into force in India on:",
+    "options": [
+      "15th August 2009",
+      "1st April 2010",
+      "26th January 2010",
+      "2nd October 2009"
+    ],
+    "answer": 2,
+    "explanation": "RTE Act 2009 was enacted in 2009 and officially came into force across India on 1st April 2010."
+  },
+  {
+    "id": 218,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The principle of development stating that development proceeds from head to toe (శిరస్సు నుండి పాదాల వైపు) is known as:",
+    "options": [
+      "Proximodistal principle",
+      "Cephalocaudal principle (శిరోపాదాభిముఖ సూత్రం)",
+      "Spiral development principle",
+      "Inter-individual difference"
+    ],
+    "answer": 2,
+    "explanation": "Cephalocaudal development means head-to-tail / head-to-toe progression."
+  },
+  {
+    "id": 219,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "Development proceeding from the center of the body outward to the extremities is governed by:",
+    "options": [
+      "Cephalocaudal trend",
+      "Proximodistal trend (సమీప-దూరస్థ సూత్రం)",
+      "Linear trend",
+      "Discrete trend"
+    ],
+    "answer": 2,
+    "explanation": "Proximodistal development proceeds from the central torso outwards towards fingers and toes."
+  },
+  {
+    "id": 220,
+    "subject": "CDP",
+    "topic": "Guidance, Counseling & Classroom Management",
+    "question": "Non-directive counseling (నిర్దేశక రహిత మంత్రాంగం) was propounded by:",
+    "options": [
+      "E.G. Williamson",
+      "Carl Rogers (కార్ల్ రోజర్స్)",
+      "F.C. Thorne",
+      "Sigmund Freud"
+    ],
+    "answer": 2,
+    "explanation": "Carl Rogers developed Person-Centered / Client-Centered / Non-Directive Counseling."
+  },
+  {
+    "id": 301,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "‘Tabula Rasa’ means ‘ట్యాబ్యాలా రసా’ అనగా",
+    "options": [
+      "Blank Slate ఖాళీ పలక",
+      "Blank Book ఖాళీ పుస్తకం",
+      "Blank Table ఖాళీ టేబ్యల్",
+      "Blank Bench ఖాళీ బంచ్"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Blank Slate ఖాళీ పలక'."
+  },
+  {
+    "id": 302,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "According to Elizebeth Hurlock, the childhood belongs to this age ( in years) ఎలిజబత్ హర్లాక్ ప్రకారం, బాలాదశవయస్సు (స్ంవత్ుర్లలలో)",
+    "options": [
+      "10 20",
+      "15 25",
+      "3 to 10",
+      "20 to"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - '3 to 10'."
+  },
+  {
+    "id": 303,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "According to Psychology, the age of childhood is మనోవిజ్ఞాన శాస్రం ప్రకారం బాలా దశ వయస్సు",
+    "options": [
+      "Up to 20 years",
+      "Up to 25 years",
+      "Up to 30 years",
+      "Up to 14 years"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Up to 14 years'."
+  },
+  {
+    "id": 304,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The Constitution of India provides free and compulsory Education for all the children in this age group (in years) మన భారత్ ర్లజ్ఞాంగం ప్రకారం, ఉచిత్ నిరబంధ విదా అందంచే పిలాల వయస్సు",
+    "options": [
+      "0 to 14 years",
+      "6 to 14 years",
+      "6 to 20 years",
+      "0 to 20 years"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - '6 to 14 years'."
+  },
+  {
+    "id": 306,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "According to Rodke, House, food and facilities are ర్లడ్కీ ప్రకారం, ఇల్లా, ఆహారం, స్దుపాయాల్ల అనునవి",
+    "options": [
+      "School Factors పాఠశాల కారకాల్ల",
+      "Moral Factors నైతిక కారకాల్ల",
+      "Economic Factors ఆర్ధధక కారకాల్ల",
+      "Political Factors ర్లజకీయ కారకాల్ల"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Economic Factors ఆర్ధధక కారకాల్ల'."
+  },
+  {
+    "id": 307,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The first teacher of a child పిలలాకు మొదటి గురువు",
+    "options": [
+      "Mother త్లిా",
+      "Father త్ండ్రి",
+      "Teacher గురువు",
+      "Friends స్నేహితుల్ల"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Mother త్లిా'."
+  },
+  {
+    "id": 308,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The stage between Infancy and Adolescence శైశవ దశ, కౌమార దశ ల మధా గల దశ",
+    "options": [
+      "Adulthood వయోజన దశ",
+      "Old age వృద్ధధపాం",
+      "Childhood బాలాము",
+      "Prenatal Stage జనన పూరవ దశ"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Childhood బాలాము'."
+  },
+  {
+    "id": 309,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "Foundations of social behaviour are laid at this stage సాంఘిక ప్రవరతనకు పునాదుల్ల పడే దశ",
+    "options": [
+      "Infancy శైశవ దశ",
+      "Childhood బాలాము",
+      "Adulthood వయోజన దశ",
+      "Adolescence కౌమారము"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Infancy శైశవ దశ'."
+  },
+  {
+    "id": 310,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "Expand ILO ILO ను విస్తర్ధంచండి.",
+    "options": [
+      "International Labour Organisation",
+      "Indian Labour Organisation",
+      "Inter Labour Organisation",
+      "Indian Land Organisation"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'International Labour Organisation'."
+  },
+  {
+    "id": 311,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "According to Philippe Aries, the age of childhood is in between ఫిలిప్ ఏర్ధస్ ప్రకారం, బాలాదశ వయస్సు",
+    "options": [
+      "Birth to Adolescence పుట్టుక నుండి కౌమారం వరకు",
+      "Birth to Middle Age పుట్టుక నుండి మధా వయస్సు వరకు",
+      "Infancy to Adolescence శైశవం నుండి కౌమారం వరకు",
+      "Infancy to Middle Age శైశవం నుండి మధా వయస్సు వరకు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Infancy to Adolescence శైశవం నుండి కౌమారం వరకు'."
+  },
+  {
+    "id": 312,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "This is the most successful parenting style ఇద బాగా విజయవంత్మైన పంపక శైలి",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకారహిత్ శైలి"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Authoritative style సాధికారత్త్వ శైలి'."
+  },
+  {
+    "id": 313,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, children and parents exhibit specific, accurate rational behaviour ఈ పంపక శైలిలో పిలాల్ల, త్లిాదండ్రుల్ల నిర్ధధష్ుమైన, ఖచిిత్మైన, స్హేతుక ప్రవరతనను ప్రదర్ధిసాతరు.",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకారహిత్ శైలి"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Authoritative style సాధికారత్త్వ శైలి'."
+  },
+  {
+    "id": 314,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, parents allow autonomy to children ఈ పంపక శైలిలో త్లిాదండ్రుల్ల పిలాలకు స్వయం ప్రతిపతితని ఇసాతరు",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకారహిత్ శైలి"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Authoritative style సాధికారత్త్వ శైలి'."
+  },
+  {
+    "id": 315,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, parents are not confident enough to influence their children ఈ పంపక శైలిలో త్లిాదండ్రుల్ల పిలాలను ప్రభావిత్ం చేస్నంత్గా త్మపట్ా నమమకం కలిగి ఉండరు",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకారహిత్ శైలి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Permissive Style అంగీకారత్త్వ శైలి'."
+  },
+  {
+    "id": 316,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, children are not selfdependant ఈ పంపక శైలిలో పిలాల్ల త్కుీవ సావవలంబన కలిగి ఉండరు",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకారహిత్ శైలి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Authoritarian style నిరంకుశత్త్వ శైలి'."
+  },
+  {
+    "id": 317,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, parents allow less freedom to children ఈ పంపక శైలిలో త్లిాదండ్రుల్ల పిలాలకు త్కుీవ స్నవచఛను ఇసాతరు",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకారహిత్ శైలి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Authoritarian style నిరంకుశత్త్వ శైలి'."
+  },
+  {
+    "id": 318,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, children show limited love towards their parents and protest them ఈ పంపక శైలిలో పిలాల్ల త్లిాదండ్రుల పట్ా త్కుీవ ప్రేమను, తిరసాీర ధోరణిని కలిగి ఉంట్యరు.",
+    "options": [
+      "Uninvolved Style జోకారహిత్ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Authoritative style సాధికారత్త్వ శైలి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Authoritarian style నిరంకుశత్త్వ శైలి'."
+  },
+  {
+    "id": 319,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, parents have low control over their children’s behaviour ఈ పంపక శైలిలో త్లిాదండ్రుల్ల పిలాల ప్రవరతనపై త్కుీవ నియంత్రణ కలిగి ఉంట్యరు.",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకా రహిత్ శైలి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Permissive Style అంగీకారత్త్వ శైలి'."
+  },
+  {
+    "id": 320,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, abundant freedom is given to children ఈ పంపక శైలిలో పిలాలకు అధిక స్నవచఛను ఇసాతరు",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకా రహిత్ శైలి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Permissive Style అంగీకారత్త్వ శైలి'."
+  },
+  {
+    "id": 321,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this parenting style, the parents have withdrawing nature ఈ రకమైన పంపక శైలిలో త్లిాదండ్రుల్ల ఉపస్ంహరణ ధోరణి కలిగి ఉంట్యరు.",
+    "options": [
+      "Authoritative style సాధికారత్త్వ శైలి",
+      "Authoritarian style నిరంకుశత్త్వ శైలి",
+      "Permissive Style అంగీకారత్త్వ శైలి",
+      "Uninvolved Style జోకా రహిత్ శైలి"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Uninvolved Style జోకా రహిత్ శైలి'."
+  },
+  {
+    "id": 322,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "Past facts are collected through primary sources or secondary sources in ఈ పర్ధశోధనలో ‘గత్ వాస్తవాలను ప్రాథమిక మర్ధయు గౌణ మూలాల ద్ధవర్ల స్నకర్ధసాతరు.’",
+    "options": [
+      "Historical Research చార్ధత్రాత్మక పర్ధశోధన",
+      "Correlation Research స్హస్ంబంధ పర్ధశోధన",
+      "Descriptive Research వరణనాత్మక పర్ధశోధన",
+      "Experimental Research ప్రయోగాత్మక పర్ధశోధన"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Historical Research చార్ధత్రాత్మక పర్ధశోధన'."
+  },
+  {
+    "id": 323,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "In this research, changes among children are identified from Ancient, Medieval, Modern and present day are being identified ఈ పర్ధశోధనలో ప్రాచీన, మధా, ఆధునిక, నవీన కాలాలలో పిలాల పట్ా జర్ధగిన మారుుల్ల గుర్ధతంచబడతాయి",
+    "options": [
+      "Historical Research చార్ధత్రాత్మక పర్ధశోధన",
+      "Correlation Research స్హస్ంబంధ పర్ధశోధన",
+      "Action Research చర్లాత్మక పర్ధశోధన",
+      "Experimental Research ప్రయోగాత్మక పర్ధశోధన"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Historical Research చార్ధత్రాత్మక పర్ధశోధన'."
+  },
+  {
+    "id": 327,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "It helps children to selfevaluate their thoughts and feelings ఇద పిలాల స్వవయ అనుభూతులకు మర్ధయు స్వవయ ఆలోచనలకు ఉపయోగపడుతుంద",
+    "options": [
+      "Interview పర్ధపృచఛ",
+      "Observation పర్ధశీలన",
+      "Narrations కథనాల్ల",
+      "Reflective journals పర్లావలోచక పత్రికల్ల"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Reflective journals పర్లావలోచక పత్రికల్ల'."
+  },
+  {
+    "id": 328,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "This method records the behaviour or actions of the children in the order of its occurrence. పిలాల ప్రవరతనను లేద్ధ చరాలను అవి జర్ధగే క్రమంలో నమోదు చేస్న పదదతి.",
+    "options": [
+      "Observation పర్ధశీలన",
+      "Reflective journals పర్లావలోచన పత్రికల్ల",
+      "Narrations కథనాల్ల",
+      "Teacher’s Diary టీచర్ డైరీ"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Narrations కథనాల్ల'."
+  },
+  {
+    "id": 329,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "Observation of children’s behaviour without their notice when they are playing is an example of పిలాల్ల ఆడుతునేప్పుడు వార్ధకి తెలియకుండా వార్ధ ప్రవరత నను పర్ధశీలించడం దీనికి ఉద్ధహరణ",
+    "options": [
+      "Controlled Observation నియంత్రిత్ పర్ధశీలన",
+      "Experimental Observation ప్రయోగాత్మక పర్ధశీలన",
+      "Interview పర్ధపుచఛ",
+      "Natural Observation స్హజ పర్ధశీలన"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Controlled Observation నియంత్రిత్ పర్ధశీలన'."
+  },
+  {
+    "id": 330,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The behaviour shown by an individual in accordance with the stimulus is called ఉదీదపనకు అనుగుణంగా వాకిత చూపే ప్రవరతన",
+    "options": [
+      "Stimuli ఉదీదపనల్ల",
+      "Response ప్రతిస్ుందన",
+      "Experimenter ప్రయోకత",
+      "Subject ప్రయోజ్యాడు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Response ప్రతిస్ుందన'."
+  },
+  {
+    "id": 331,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "This method is called as ‘Clinical method’ ఈ పదధతిని చికితాు పధధతి అంట్యరు",
+    "options": [
+      "Interview Method పర్ధపృఛ్ి పదధతి",
+      "Observation Method పర్ధశీలన పదధతి",
+      "Experimental Method ప్రయోగాత్మక పదధతి",
+      "Case Study Method వాకిత అధాయన పదధతి"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Case Study Method వాకిత అధాయన పదధతి'."
+  },
+  {
+    "id": 332,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "It is used to know the children’s traits బాలల లక్షణంశాలను తెల్లస్సకోవడానికి ఉపయోగపడేద",
+    "options": [
+      "Interview పర్ధపృఛ్ి",
+      "Rating Scales వైఖర్ధ మాపనుల్ల",
+      "Observation పర్ధశీలన",
+      "Narrations కథనాల్ల"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Interview పర్ధపృఛ్ి'."
+  },
+  {
+    "id": 333,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The tool to collect the data where the respondent fills the answers to the provided questions by himself/herself is ప్రయోజ్యానిచే స్వయంగా ప్రశేలకు స్మాధానాలను పూర్ధత చేయుట్ ద్ధవర్ల దతాతంశ స్నకరణ చేయు సాధనము.",
+    "options": [
+      "Observation పర్ధశీలన",
+      "Introspection అంత్ః పర్ధశీలన",
+      "Questionnaire ప్రశాేవళి",
+      "Narrations కథనాల్ల"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Questionnaire ప్రశాేవళి'."
+  },
+  {
+    "id": 334,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "A thing that evokes changes in the behaviour of an individual is వాకితలోని ప్రవరతన మారుుకు కారణమైయ్యాద",
+    "options": [
+      "Stimulus ఉదీదపన",
+      "Response ప్రతిస్ుందన",
+      "V ariable చరం",
+      "Subject ప్రయోజ్యాడు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Stimulus ఉదీదపన'."
+  },
+  {
+    "id": 335,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "A person who conducts an experiment is called ప్రయోగం చేస్న వాకితని ఇలా అంట్యరు",
+    "options": [
+      "Stimulus ఉదీదపన",
+      "Response ప్రతిస్ుందన",
+      "Experimenter ప్రయోకత",
+      "V ariable చరం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Experimenter ప్రయోకత'."
+  },
+  {
+    "id": 336,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "It helps a teacher to overcome the problem in teaching learning process బోధనాభ్ాస్న ప్రక్రియలో ఎదురయ్యా అడడంకులను అధిగమించడానికి ఇద స్హయపడుతుంద",
+    "options": [
+      "Historical Research చార్ధత్రాత్మక పర్ధశోధన",
+      "Interview పర్ధపుఛ్ి",
+      "Narrations కథనాల్ల",
+      "Action Research చర్లాత్మక పర్ధశోధన"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Action Research చర్లాత్మక పర్ధశోధన'."
+  },
+  {
+    "id": 337,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The research that explains and interprets the present situation and reflects it ఈ పర్ధశోధన విధానం ప్రస్సతత్ పర్ధస్థితులను వివర్ధస్తత, వాాఖాానిస్తత ద్ధనిని ప్రతిబంబస్తత ఉంట్టంద",
+    "options": [
+      "Historical Research చార్ధత్రక పర్ధశోధన",
+      "Correlation Research స్హస్ంబంధ పర్ధశోధన",
+      "Descriptive Research వరణనాత్మక పర్ధశోధన",
+      "Experimental Method ప్రయోగాత్మక పధధతి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Descriptive Research వరణనాత్మక పర్ధశోధన'."
+  },
+  {
+    "id": 338,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "Person who is influenced by the experiment is ప్రయోగ ప్రభానికి గుర్ధకాబడేవారు",
+    "options": [
+      "Observer పర్ధశీలకుడు",
+      "Experiment ప్రయోకత",
+      "Subject ప్రయోజ్యాడు",
+      "Interviewee పర్ధపృచికుడు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Subject ప్రయోజ్యాడు'."
+  },
+  {
+    "id": 339,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "According to Young (1977), this is the systematic study of incidents that occur at the time యంగ్ ప్రకారం, ఒక స్మయంలో జర్ధగేట్ట్టవంటి స్ంఘట్నలను ఒక క్రమ పధధతిలో అధాయనం చేయడానిే ఇలా అంట్యరు",
+    "options": [
+      "Observation పర్ధశీలన",
+      "Interview పర్ధపుఛ్ి",
+      "Narrations కథనాల్ల",
+      "Case Study కేస్ స్ుడ్క"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Observation పర్ధశీలన'."
+  },
+  {
+    "id": 340,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "The study conducted in an artificial and controlled situations for the purpose of observation is called పర్ధశీలన కోస్ం కృత్రిమంగా కలిుంచబడిన, నియంత్రిత్ పర్ధస్థితులలో జర్ధగే అధాయనానిే ఇలా అంట్యరు",
+    "options": [
+      "Narrations కథనాల్ల",
+      "Interview పర్ధపుఛ్ి",
+      "Case Study కేస్ స్ుడ్క",
+      "Controlled Observation నియంత్రిత్ పర్ధశీలన"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Controlled Observation నియంత్రిత్ పర్ధశీలన'."
+  },
+  {
+    "id": 341,
+    "subject": "CDP",
+    "topic": "Growth, Development & Maturation Principles",
+    "question": "A face to face verbal interaction in which a person elicits information from the other person is called ఒక వాకిత మరొక వాకితతో ముఖాముఖీ స్ంభాషంచడం ద్ధవర్ల స్మాచార్లనిే ర్లబట్ుడానిే ఇలా అంట్యరు",
+    "options": [
+      "Observation పర్ధశీలన",
+      "Interview పర్ధపృఛ్ి",
+      "Case Study వాకిత అధాయనం",
+      "Narrations కథనాల్ల"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Interview పర్ధపృఛ్ి'."
   }
 ]

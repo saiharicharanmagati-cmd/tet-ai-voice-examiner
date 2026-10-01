@@ -71,27 +71,27 @@
         <button class="sub-tab active" data-subject="English">
           <span class="sub-icon"><i class="fa-solid fa-language"></i></span>
           <span class="sub-name">English Language</span>
-          <span class="sub-count" id="countEnglish">86 MCQs</span>
+          <span class="sub-count" id="countEnglish">120 MCQs</span>
         </button>
         <button class="sub-tab" data-subject="Telugu">
           <span class="sub-icon"><i class="fa-solid fa-book-open-reader"></i></span>
           <span class="sub-name">తెలుగు (Telugu)</span>
-          <span class="sub-count" id="countTelugu">68 MCQs</span>
+          <span class="sub-count" id="countTelugu">102 MCQs</span>
         </button>
         <button class="sub-tab" data-subject="EVS">
           <span class="sub-icon"><i class="fa-solid fa-leaf"></i></span>
           <span class="sub-name">Environmental Studies (EVS)</span>
-          <span class="sub-count" id="countEVS">65 MCQs</span>
+          <span class="sub-count" id="countEVS">218 MCQs</span>
         </button>
         <button class="sub-tab" data-subject="Maths">
           <span class="sub-icon"><i class="fa-solid fa-calculator"></i></span>
           <span class="sub-name">Mathematics</span>
-          <span class="sub-count" id="countMaths">60 MCQs</span>
+          <span class="sub-count" id="countMaths">112 MCQs</span>
         </button>
         <button class="sub-tab" data-subject="CDP">
           <span class="sub-icon"><i class="fa-solid fa-brain"></i></span>
           <span class="sub-name">Child Development &amp; Pedagogy</span>
-          <span class="sub-count" id="countCDP">45 MCQs</span>
+          <span class="sub-count" id="countCDP">117 MCQs</span>
         </button>
       </div>
     </div>
@@ -104,7 +104,7 @@
     <aside class="q-directory-panel">
       <div class="directory-header">
         <div class="dir-title-row">
-          <h2 class="dir-heading"><i class="fa-solid fa-table-list"></i> Question Directory</h2>
+          <h2 class="dir-heading"><i class="fa-solid fa-table-list"></i> <span id="browserSubjectTitle">English Language</span></h2>
           <span class="dir-badge" id="browserCountBadge">0 Questions</span>
         </div>
 
@@ -113,9 +113,25 @@
             <i class="fa-solid fa-magnifying-glass"></i>
             <input type="text" id="searchInput" placeholder="Search questions or keywords...">
           </div>
-          <div class="select-box">
+          
+          <!-- Dropdown 1: Subject Selection Dropdown -->
+          <div class="select-box select-subject-box">
+            <label for="subjectSelect" class="select-label"><i class="fa-solid fa-graduation-cap"></i> Select Subject:</label>
+            <select id="subjectSelect">
+              <option value="English">English Language (120 Qs)</option>
+              <option value="Telugu">తెలుగు - Telugu (102 Qs)</option>
+              <option value="EVS">Environmental Studies - EVS (218 Qs)</option>
+              <option value="Maths">Mathematics (112 Qs)</option>
+              <option value="CDP">Child Development &amp; Pedagogy (117 Qs)</option>
+              <option value="All">All Subjects (Combined 669 Qs)</option>
+            </select>
+          </div>
+
+          <!-- Dropdown 2: Topic Selection inside Subject -->
+          <div class="select-box select-topic-box">
+            <label for="topicSelect" class="select-label"><i class="fa-solid fa-layer-group"></i> Select Unit / Topic:</label>
             <select id="topicSelect">
-              <option value="all">All Topics</option>
+              <option value="all">All Topics in this Subject</option>
             </select>
           </div>
         </div>

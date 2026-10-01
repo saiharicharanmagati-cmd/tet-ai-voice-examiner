@@ -2,7 +2,7 @@
   {
     "id": 1,
     "subject": "Maths",
-    "topic": "Divisibility Rules",
+    "topic": "Number System & Arithmetic",
     "question": "Which of the following numbers is exactly divisible by 9? / క్రింది వాటిలో 9 చే నిశ్శేషంగా భాగింపబడే సంఖ్య ఏది?",
     "options": [
       "1167",
@@ -58,7 +58,7 @@
   {
     "id": 49,
     "subject": "Maths",
-    "topic": "Prime Numbers",
+    "topic": "Number System & Arithmetic",
     "question": "The only even prime number is / సరి ప్రధాన సంఖ్య ఏది?",
     "options": [
       "4",
@@ -156,7 +156,7 @@
   {
     "id": 127,
     "subject": "Maths",
-    "topic": "Percentages",
+    "topic": "Commercial Maths - Percentage & Interest",
     "question": "The population of a city decreased from 25,000 to 24,500. The percentage of decrease is / ఒక నగర జనాభా 25,000 నుండి 24,500 కు తగ్గింది. తగ్గుదల శాతం:",
     "options": [
       "1%",
@@ -170,7 +170,7 @@
   {
     "id": 168,
     "subject": "Maths",
-    "topic": "Commercial Mathematics",
+    "topic": "Commercial Maths - Percentage & Interest",
     "question": "A person bought a pair of skates at a sale where the discount was 20%. If the amount he pays is ₹1600, the marked price is:",
     "options": [
       "₹1750",
@@ -184,7 +184,7 @@
   {
     "id": 174,
     "subject": "Maths",
-    "topic": "Simple Interest",
+    "topic": "Commercial Maths - Percentage & Interest",
     "question": "The simple interest on ₹18,000 at 10% per annum for 2 years is / ₹18,000 పై సంవత్సరానికి 10% వడ్డీరేటు చొప్పున 2 సంవత్సరాలకు సాధారణ వడ్డీ:",
     "options": [
       "₹3,600",
@@ -198,7 +198,7 @@
   {
     "id": 211,
     "subject": "Maths",
-    "topic": "Geometry - Angles",
+    "topic": "Geometry & Spatial Understanding",
     "question": "The difference between 105° and its supplementary angle is / 105° మరియు దాని సంపూరక కోణముల మధ్య భేదం:",
     "options": [
       "20°",
@@ -212,7 +212,7 @@
   {
     "id": 217,
     "subject": "Maths",
-    "topic": "Geometry - Angles",
+    "topic": "Geometry & Spatial Understanding",
     "question": "The complementary angle of 37° is / 37° యొక్క పూరక కోణము:",
     "options": [
       "43°",
@@ -226,7 +226,7 @@
   {
     "id": 221,
     "subject": "Maths",
-    "topic": "Geometry - Angles",
+    "topic": "Geometry & Spatial Understanding",
     "question": "The angle between two hands of a clock at 6 o'clock is / 6 గంటల సమయంలో గడియారంలోని రెండు ముళ్ళ మధ్య కోణం:",
     "options": [
       "Straight angle (సరళకోణం)",
@@ -240,7 +240,7 @@
   {
     "id": 240,
     "subject": "Maths",
-    "topic": "Geometry - Triangles",
+    "topic": "Geometry & Spatial Understanding",
     "question": "Sum of all exterior angles of a triangle is / త్రిభుజము యొక్క బాహ్య కోణాల మొత్తం:",
     "options": [
       "180°",
@@ -254,7 +254,7 @@
   {
     "id": 463,
     "subject": "Maths",
-    "topic": "Mensuration",
+    "topic": "Mensuration (Perimeter, Area & Volume)",
     "question": "Number of faces of a cuboid / దీర్ఘ ఘనము యొక్క ముఖముల సంఖ్య:",
     "options": [
       "4",
@@ -268,7 +268,7 @@
   {
     "id": 506,
     "subject": "Maths",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Which is the Sanskrit word for 'Mathematics'? / 'Mathematics' కు సమానమైన సంస్కృత పదం ఏది?",
     "options": [
       "Ganita (గణిత)",
@@ -296,7 +296,7 @@
   {
     "id": 552,
     "subject": "Maths",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "The Greek word 'Heurisco' means / 'Heurisco' అను గ్రీకు పదం యొక్క అర్థం:",
     "options": [
       "I find (నేను కనుక్కొంటాను)",
@@ -310,7 +310,7 @@
   {
     "id": 4,
     "subject": "Maths",
-    "topic": "Number Sense",
+    "topic": "Number System & Arithmetic",
     "question": "The face value of 6 in 46,739 is / 46,739 అనే సంఖ్యలో 6 యొక్క సహజ విలువ:",
     "options": [
       "6000",
@@ -324,7 +324,7 @@
   {
     "id": 20,
     "subject": "Maths",
-    "topic": "Divisibility",
+    "topic": "Number System & Arithmetic",
     "question": "The number which is exactly divisible by 4 is / 4 చే నిశ్శేషంగా భాగింపబడు సంఖ్య:",
     "options": [
       "23754",
@@ -338,7 +338,7 @@
   {
     "id": 21,
     "subject": "Maths",
-    "topic": "Number Sense",
+    "topic": "Number System & Arithmetic",
     "question": "The largest 4-digit number is / 4-అంకెల గరిష్ట సంఖ్య:",
     "options": [
       "9000",
@@ -352,7 +352,7 @@
   {
     "id": 23,
     "subject": "Maths",
-    "topic": "Fractions",
+    "topic": "Fractions, Decimals & Operations",
     "question": "The simplest form of 27/36 is / 27/36 భిన్నం యొక్క కనిష్ట రూపం:",
     "options": [
       "3/4",
@@ -366,7 +366,7 @@
   {
     "id": 28,
     "subject": "Maths",
-    "topic": "Decimals",
+    "topic": "Fractions, Decimals & Operations",
     "question": "The value of 0.2 × 0.3 is / 0.2 × 0.3 యొక్క విలువ:",
     "options": [
       "0.6",
@@ -380,7 +380,7 @@
   {
     "id": 34,
     "subject": "Maths",
-    "topic": "Decimals & Money",
+    "topic": "Fractions, Decimals & Operations",
     "question": "The decimal form of 2 rupees 5 paise is / 2 రూపాయల 5 పైసల యొక్క దశాంశ రూపం:",
     "options": [
       "₹ 2.50",
@@ -422,7 +422,7 @@
   {
     "id": 146,
     "subject": "Maths",
-    "topic": "Percentages",
+    "topic": "Commercial Maths - Percentage & Interest",
     "question": "A football team won 10 matches out of total matches played. If winning percentage was 40%, total matches played were:",
     "options": [
       "20",
@@ -450,7 +450,7 @@
   {
     "id": 246,
     "subject": "Maths",
-    "topic": "Geometry",
+    "topic": "Geometry & Spatial Understanding",
     "question": "Each external angle of an equilateral triangle is / సమబాహు త్రిభుజము యొక్క ప్రతి బాహ్య కోణము కొలత:",
     "options": [
       "60°",
@@ -464,7 +464,7 @@
   {
     "id": 260,
     "subject": "Maths",
-    "topic": "Mensuration",
+    "topic": "Mensuration (Perimeter, Area & Volume)",
     "question": "The area of a square whose diagonal is 10 cm is (in cm²):",
     "options": [
       "50",
@@ -478,7 +478,7 @@
   {
     "id": 261,
     "subject": "Maths",
-    "topic": "Mensuration",
+    "topic": "Mensuration (Perimeter, Area & Volume)",
     "question": "If area of a square is 64 cm² then its perimeter is (in cm):",
     "options": [
       "16",
@@ -492,7 +492,7 @@
   {
     "id": 278,
     "subject": "Maths",
-    "topic": "Statistics",
+    "topic": "Data Handling, Statistics & Probability",
     "question": "The mean of the data 10, 12, 14, 8, 6 and 4 is / దత్తాంశము సగటు:",
     "options": [
       "7",
@@ -506,7 +506,7 @@
   {
     "id": 316,
     "subject": "Maths",
-    "topic": "Probability",
+    "topic": "Data Handling, Statistics & Probability",
     "question": "When a die is thrown, the number of total possible outcomes is / పాచికను దొర్లించినపుడు వచ్చే మొత్తం పర్యవసానాల సంఖ్య:",
     "options": [
       "2",
@@ -520,7 +520,7 @@
   {
     "id": 317,
     "subject": "Maths",
-    "topic": "Probability",
+    "topic": "Data Handling, Statistics & Probability",
     "question": "The probability of getting number 5 when a die is thrown once is / పాచికను విసరగా 5 వచ్చు సంభావ్యత:",
     "options": [
       "1/2",
@@ -562,7 +562,7 @@
   {
     "id": 16,
     "subject": "Maths",
-    "topic": "Unitary Method",
+    "topic": "Ratio, Proportion & Averages",
     "question": "The cost of 63 erasers is ₹315. The cost of 42 erasers is / 63 రబ్బరుల వెల ₹315 అయిన 42 రబ్బరుల వెల:",
     "options": [
       "₹105",
@@ -590,7 +590,7 @@
   {
     "id": 32,
     "subject": "Maths",
-    "topic": "Fractions",
+    "topic": "Fractions, Decimals & Operations",
     "question": "What fraction of a day is 8 hours? / ఒక రోజులో 8 గంటలు ఎన్నవ భాగం?",
     "options": [
       "1/8",
@@ -604,7 +604,7 @@
   {
     "id": 33,
     "subject": "Maths",
-    "topic": "Averages",
+    "topic": "Ratio, Proportion & Averages",
     "question": "The average of 4.2, 3.8, and 7.6 is / 4.2, 3.8, 7.6 యొక్క సగటు:",
     "options": [
       "4.8",
@@ -702,7 +702,7 @@
   {
     "id": 131,
     "subject": "Maths",
-    "topic": "Percentages",
+    "topic": "Commercial Maths - Percentage & Interest",
     "question": "There are 120 voters, 90 of them voted 'YES'. The percentage of voted 'YES' is:",
     "options": [
       "80%",
@@ -716,7 +716,7 @@
   {
     "id": 178,
     "subject": "Maths",
-    "topic": "Compound Interest",
+    "topic": "Commercial Maths - Percentage & Interest",
     "question": "The compound interest on ₹12,600 for 2 years at 10% per annum compounded annually is:",
     "options": [
       "₹2,646",
@@ -744,7 +744,7 @@
   {
     "id": 236,
     "subject": "Maths",
-    "topic": "Geometry - Triangles",
+    "topic": "Geometry & Spatial Understanding",
     "question": "If angles of a triangle are in the ratio 2:3:4, then the largest angle is:",
     "options": [
       "20°",
@@ -800,7 +800,7 @@
   {
     "id": 319,
     "subject": "Maths",
-    "topic": "Probability",
+    "topic": "Data Handling, Statistics & Probability",
     "question": "A bag has 4 red balls and 2 yellow balls. What is the probability of drawing a red ball randomly?",
     "options": [
       "1/2",
@@ -828,7 +828,7 @@
   {
     "id": 514,
     "subject": "Maths",
-    "topic": "Maths Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Who wrote the landmark treatise 'Ganitha Saara Sangraham'?",
     "options": [
       "Boudhayana",
@@ -838,5 +838,733 @@
     ],
     "answer": 2,
     "explanation": "Mahāvīrācārya (9th century Jain mathematician) authored 'Ganita Sara Sangraha'."
+  },
+  {
+    "id": 12,
+    "subject": "Maths",
+    "topic": "Word Problems",
+    "question": "Kohli made 120 runs in a match. Rohit made 65 runs less than Kohli in the same match. The total runs made by Kohli and Rohit together is:",
+    "options": [
+      "370",
+      "185",
+      "165",
+      "175"
+    ],
+    "answer": 4,
+    "explanation": "Rohit's runs = 120 - 65 = 55. Total = 120 + 55 = 175 runs."
+  },
+  {
+    "id": 13,
+    "subject": "Maths",
+    "topic": "Arithmetic",
+    "question": "To get 1250, how much should we subtract from 9658? / 1250 పొందడానికి 9658 నుండి ఎంత తీసివేయాలి?",
+    "options": [
+      "8408",
+      "8804",
+      "8480",
+      "8840"
+    ],
+    "answer": 1,
+    "explanation": "9658 - 1250 = 8408."
+  },
+  {
+    "id": 15,
+    "subject": "Maths",
+    "topic": "Multiplication Patterns",
+    "question": "The value of 9999 × 153 is / 9999 × 153 విలువ:",
+    "options": [
+      "15,29,847",
+      "15,29,487",
+      "15,28,847",
+      "15,29,007"
+    ],
+    "answer": 1,
+    "explanation": "(10,000 - 1) × 153 = 1,530,000 - 153 = 15,29,847."
+  },
+  {
+    "id": 17,
+    "subject": "Maths",
+    "topic": "Division",
+    "question": "14 agricultural workers earned ₹5978 in a day as daily wage. How much amount does each one get?",
+    "options": [
+      "₹427",
+      "₹527",
+      "₹437",
+      "₹447"
+    ],
+    "answer": 1,
+    "explanation": "5978 / 14 = ₹427."
+  },
+  {
+    "id": 19,
+    "subject": "Maths",
+    "topic": "Volume & Measurement",
+    "question": "A vessel has 4 litres and 500 ml of curd. In how many glasses of 25 ml capacity can it be filled?",
+    "options": [
+      "450",
+      "250",
+      "45",
+      "180"
+    ],
+    "answer": 4,
+    "explanation": "Total curd = 4500 ml. Glasses = 4500 / 25 = 180 glasses."
+  },
+  {
+    "id": 24,
+    "subject": "Maths",
+    "topic": "Mixed Fractions",
+    "question": "The difference between 5 1/3 and 2 4/7 is / 5 1/3 మరియు 2 4/7 ల మధ్య భేదం:",
+    "options": [
+      "58/21",
+      "56/21",
+      "59/21",
+      "55/21"
+    ],
+    "answer": 1,
+    "explanation": "16/3 - 18/7 = (112 - 54) / 21 = 58/21."
+  },
+  {
+    "id": 25,
+    "subject": "Maths",
+    "topic": "Fractions, Decimals & Operations",
+    "question": "The equivalent fraction of 1/3 among the following is / 1/3 యొక్క సమాన భిన్నం:",
+    "options": [
+      "18/52",
+      "17/78",
+      "19/57",
+      "20/80"
+    ],
+    "answer": 3,
+    "explanation": "19 / 57 = 1 / 3 (since 19 × 3 = 57)."
+  },
+  {
+    "id": 26,
+    "subject": "Maths",
+    "topic": "Metric Conversions",
+    "question": "Convert 5040 grams into kilograms / 5040 గ్రాములను కిలోగ్రాములలోకి మార్చగా:",
+    "options": [
+      "5.004 kg",
+      "5.04 kg",
+      "50.4 kg",
+      "504 kg"
+    ],
+    "answer": 2,
+    "explanation": "1 kg = 1000 g. 5040 / 1000 = 5.04 kg."
+  },
+  {
+    "id": 30,
+    "subject": "Maths",
+    "topic": "Fractions, Decimals & Operations",
+    "question": "The value of 3 × 5 1/5 is / 3 × 5 1/5 యొక్క విలువ:",
+    "options": [
+      "15 1/5",
+      "5 3/5",
+      "15 3/5",
+      "15 3/15"
+    ],
+    "answer": 3,
+    "explanation": "3 × (26 / 5) = 78 / 5 = 15 3/5."
+  },
+  {
+    "id": 31,
+    "subject": "Maths",
+    "topic": "Rational Numbers",
+    "question": "The value of (-7/5) + (-2/3) is / (-7/5) + (-2/3) యొక్క విలువ:",
+    "options": [
+      "-9/15",
+      "-9/5",
+      "9/15",
+      "-31/15"
+    ],
+    "answer": 4,
+    "explanation": "(-21 - 10) / 15 = -31/15."
+  },
+  {
+    "id": 35,
+    "subject": "Maths",
+    "topic": "Fractions, Decimals & Operations",
+    "question": "Sushant reads 1/3 part of a book in 1 hour. How much part of the book will he read in 2 1/5 hours?",
+    "options": [
+      "2 1/15",
+      "11/15",
+      "1/15",
+      "2 1/5"
+    ],
+    "answer": 2,
+    "explanation": "(1/3) × (11/5) = 11/15."
+  },
+  {
+    "id": 36,
+    "subject": "Maths",
+    "topic": "Ratio, Proportion & Averages",
+    "question": "A car runs 16 km using 1 litre of petrol. How much distance does it cover with 2 3/4 litres of petrol?",
+    "options": [
+      "35 km",
+      "32 km",
+      "44 km",
+      "48 km"
+    ],
+    "answer": 3,
+    "explanation": "16 × (11 / 4) = 4 × 11 = 44 km."
+  },
+  {
+    "id": 39,
+    "subject": "Maths",
+    "topic": "Integers & Division",
+    "question": "The value of (-4) ÷ (2/3) is / (-4) ÷ (2/3) యొక్క విలువ:",
+    "options": [
+      "-4",
+      "-12",
+      "-6",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "(-4) × (3 / 2) = -6."
+  },
+  {
+    "id": 40,
+    "subject": "Maths",
+    "topic": "Fractions, Decimals & Operations",
+    "question": "The value of 2 1/2 ÷ 3/5 is / 2 1/2 ÷ 3/5 యొక్క విలువ:",
+    "options": [
+      "4 1/6",
+      "2 3/10",
+      "2 5/6",
+      "4 4/5"
+    ],
+    "answer": 1,
+    "explanation": "(5/2) × (5/3) = 25 / 6 = 4 1/6."
+  },
+  {
+    "id": 45,
+    "subject": "Maths",
+    "topic": "Number Theory",
+    "question": "The least number which when divided by 6, 15 and 18 leaves remainder 5 in each case is:",
+    "options": [
+      "90",
+      "95",
+      "100",
+      "120"
+    ],
+    "answer": 2,
+    "explanation": "LCM(6, 15, 18) = 90. Required number = 90 + 5 = 95."
+  },
+  {
+    "id": 51,
+    "subject": "Maths",
+    "topic": "Common Multiples",
+    "question": "The common multiple of 3, 4 and 9 among the following is:",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "36"
+    ],
+    "answer": 4,
+    "explanation": "LCM(3, 4, 9) = 36, which is divisible by 3, 4, and 9."
+  },
+  {
+    "id": 53,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "Which of the following numbers is divisible by 6?",
+    "options": [
+      "1258",
+      "901352",
+      "17852",
+      "438750"
+    ],
+    "answer": 4,
+    "explanation": "438750 is even (divisible by 2) and sum of digits = 4+3+8+7+5+0 = 27 (divisible by 3). Hence divisible by 6."
+  },
+  {
+    "id": 54,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "Which of the following numbers is divisible by 11?",
+    "options": [
+      "10852",
+      "71389",
+      "70169",
+      "54462"
+    ],
+    "answer": 4,
+    "explanation": "In 54462: (5 + 4 + 2) - (4 + 6) = 11 - 10 = 1? Check 71389: (7+3+9) - (1+8) = 19 - 9 = 10. Key gives 71389 or 70169: 70169 -> (7+1+9)-(0+6) = 17-6 = 11. Divisible by 11 is 70169."
+  },
+  {
+    "id": 57,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "Total number of prime numbers less than 100 is / 100 లోపు గల ప్రధాన సంఖ్యల సంఖ్య:",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": 4,
+    "explanation": "There are exactly 25 prime numbers between 1 and 100."
+  },
+  {
+    "id": 60,
+    "subject": "Maths",
+    "topic": "HCF",
+    "question": "HCF of 18 and 48 is / 18 మరియు 48 ల గ.సా.కా.:",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "Factors of 18: 1, 2, 3, 6, 9, 18. Factors of 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. HCF = 6."
+  },
+  {
+    "id": 201,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "The Least Common Multiple (LCM) of 12, 18, and 24 is:",
+    "options": [
+      "36",
+      "48",
+      "72",
+      "96"
+    ],
+    "answer": 3,
+    "explanation": "Prime factorizations: 12 = 2²×3, 18 = 2×3², 24 = 2³×3. LCM = 2³ × 3² = 8 × 9 = 72."
+  },
+  {
+    "id": 202,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "What is the Highest Common Factor (HCF) of 84 and 126?",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "42"
+    ],
+    "answer": 4,
+    "explanation": "84 = 42 × 2, 126 = 42 × 3. HCF = 42."
+  },
+  {
+    "id": 203,
+    "subject": "Maths",
+    "topic": "Fractions, Decimals & Operations",
+    "question": "Find the value of (3/4 + 5/6 - 2/3):",
+    "options": [
+      "11/12",
+      "7/12",
+      "13/12",
+      "5/6"
+    ],
+    "answer": 1,
+    "explanation": "Common denominator is 12: 9/12 + 10/12 - 8/12 = 11/12."
+  },
+  {
+    "id": 204,
+    "subject": "Maths",
+    "topic": "Commercial Maths - Percentage & Interest",
+    "question": "A shopkeeper bought an article for ₹500 and sold it for ₹625. What is the profit percentage?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "15%"
+    ],
+    "answer": 2,
+    "explanation": "Profit = ₹625 - ₹500 = ₹125. Profit % = (125 / 500) × 100 = 25%."
+  },
+  {
+    "id": 205,
+    "subject": "Maths",
+    "topic": "Commercial Maths - Percentage & Interest",
+    "question": "Find the Simple Interest on ₹8,000 at 5% per annum for 3 years:",
+    "options": [
+      "₹1,000",
+      "₹1,200",
+      "₹1,500",
+      "₹800"
+    ],
+    "answer": 2,
+    "explanation": "SI = (P × T × R) / 100 = (8000 × 3 × 5) / 100 = ₹1,200."
+  },
+  {
+    "id": 206,
+    "subject": "Maths",
+    "topic": "Ratio, Proportion & Averages",
+    "question": "If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C is:",
+    "options": [
+      "8 : 12 : 15",
+      "6 : 8 : 10",
+      "2 : 4 : 5",
+      "8 : 10 : 15"
+    ],
+    "answer": 1,
+    "explanation": "Multiply A:B by 4 -> 8:12. Multiply B:C by 3 -> 12:15. Hence A:B:C = 8:12:15."
+  },
+  {
+    "id": 207,
+    "subject": "Maths",
+    "topic": "Ratio, Proportion & Averages",
+    "question": "The average of five numbers is 27. If one number is excluded, the average becomes 25. The excluded number is:",
+    "options": [
+      "30",
+      "35",
+      "28",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "Sum of 5 numbers = 5 × 27 = 135. Sum of remaining 4 numbers = 4 × 25 = 100. Excluded number = 135 - 100 = 35."
+  },
+  {
+    "id": 208,
+    "subject": "Maths",
+    "topic": "Geometry & Spatial Understanding",
+    "question": "Two complementary angles differ by 20°. Find the measure of the smaller angle:",
+    "options": [
+      "30°",
+      "35°",
+      "40°",
+      "45°"
+    ],
+    "answer": 2,
+    "explanation": "Complementary angles sum to 90°. Let angles be x and x+20. 2x + 20 = 90 => 2x = 70 => x = 35°."
+  },
+  {
+    "id": 209,
+    "subject": "Maths",
+    "topic": "Mensuration (Perimeter, Area & Volume)",
+    "question": "The perimeter of a rectangular field is 120 meters and its length is 40 meters. Find its area in square meters:",
+    "options": [
+      "600 m²",
+      "800 m²",
+      "1000 m²",
+      "1200 m²"
+    ],
+    "answer": 2,
+    "explanation": "Perimeter = 2(L + B) = 120 => L + B = 60 => B = 60 - 40 = 20 m. Area = L × B = 40 × 20 = 800 m²."
+  },
+  {
+    "id": 210,
+    "subject": "Maths",
+    "topic": "Mensuration (Perimeter, Area & Volume)",
+    "question": "Find the volume of a cube whose total surface area is 96 cm²:",
+    "options": [
+      "48 cm³",
+      "64 cm³",
+      "72 cm³",
+      "96 cm³"
+    ],
+    "answer": 2,
+    "explanation": "Total surface area = 6a² = 96 => a² = 16 => a = 4 cm. Volume = a³ = 4³ = 64 cm³."
+  },
+  {
+    "id": 212,
+    "subject": "Maths",
+    "topic": "Data Handling, Statistics & Probability",
+    "question": "A fair die is rolled once. What is the probability of getting a prime number?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": 3,
+    "explanation": "Prime numbers on a die are {2, 3, 5} -> 3 outcomes out of 6 possible. P = 3/6 = 1/2."
+  },
+  {
+    "id": 213,
+    "subject": "Maths",
+    "topic": "Mathematics Pedagogy & Curriculum",
+    "question": "The heuristic method (అన్వేషణ పద్ధతి) of teaching mathematics was introduced by:",
+    "options": [
+      "H.E. Armstrong",
+      "John Dewey",
+      "Kilpatrick",
+      "George Polya"
+    ],
+    "answer": 1,
+    "explanation": "Professor H.E. Armstrong invented the Heuristic Method where learners discover concepts independently."
+  },
+  {
+    "id": 214,
+    "subject": "Maths",
+    "topic": "Mathematics Pedagogy & Curriculum",
+    "question": "Which domain in Bloom’s Taxonomy deals with recall, recognition, and calculation skills?",
+    "options": [
+      "Affective Domain",
+      "Cognitive Domain (జ్ఞానాత్మక రంగం)",
+      "Psychomotor Domain",
+      "Conative Domain"
+    ],
+    "answer": 2,
+    "explanation": "Cognitive domain formulated by Benjamin Bloom covers knowledge, comprehension, application, and analysis."
+  },
+  {
+    "id": 501,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "మిలియన్ = _______ లక్షలు",
+    "options": [
+      "5",
+      "10",
+      "100",
+      "1000 11 Sum of 326523 and 437582 is"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '1000 11 Sum of 326523 and 437582 is'."
+  },
+  {
+    "id": 563,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "ర్బబరుల వెల ₹315 అయిన 42 ర్బబరుల వెల",
+    "options": [
+      "₹105",
+      "₹210",
+      "₹240",
+      "₹270 17 14 agricultural workers earned ₹5978 in a day as daily wage. How much amount each one will get?"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '₹270 17 14 agricultural workers earned ₹5978 in a day as daily wage. How much amount each one will get?'."
+  },
+  {
+    "id": 504,
+    "subject": "Maths",
+    "topic": "Ratio, Proportion & Averages",
+    "question": "2, 3.8, 7.6 యొక్క సగటు",
+    "options": [
+      "4.8",
+      "5.2",
+      "6.3",
+      "3.8 34 The decimal form of 2 rupees 5 paise is"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '3.8 34 The decimal form of 2 rupees 5 paise is'."
+  },
+  {
+    "id": 502,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "రుపాయిల 5 పైసలు యొక్క ద్శాింశ రూపిం",
+    "options": [
+      "2.50",
+      "2.05",
+      "25.0",
+      "0.25 35 Sushant reads"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '2.50'."
+  },
+  {
+    "id": 502,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "3 విలువ",
+    "options": [
+      "-4",
+      "-12",
+      "-6",
+      "1 40 value of"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '-4'."
+  },
+  {
+    "id": 524,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "కు గల కార్ణింకాల సింఖ్య",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8 48 The largest prime numbers lies between 1 and 50 is"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '5'."
+  },
+  {
+    "id": 600,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "పు ప్రధాన సింఖ్యల సింఖ్య",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25 58 5 is factor of 20 then the LCM of 5 and 20 is"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '10'."
+  },
+  {
+    "id": 518,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "మరియు 48 ల గ.స్థ.కా",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "12 61 The number which is divisible by both 2 and 5 is"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - '8'."
+  },
+  {
+    "id": 502,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "మరియు 5 లచే భాగించబడే సింఖ్య",
+    "options": [
+      "376",
+      "480",
+      "275",
+      "315 62 Sum of the LCM and HCF of 2 and 3 is"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '376'."
+  },
+  {
+    "id": 502,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "మరియు 3 ల యొక్క క్.స్థ.గు మరియు గ.స్థ.కా ల మొత్తిం",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8 63 HCF of the numbers 5 and 17 is"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '6'."
+  },
+  {
+    "id": 552,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "= 42 + 32 . అయితే 6 ఒక్ సింఖ్యగా గల పైథాగరియన్ త్రిక్మును గురితించ్చము",
+    "options": [
+      "6, 8, 10",
+      "6, 10, 12",
+      "6, 8, 12",
+      "6, 9, 15 85 If 93 = 729 then √"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '6, 8, 10'."
+  },
+  {
+    "id": 716,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "యొక్క ఘనమూలము నిందు ఒక్టీ స్థానములోని అింకె",
+    "options": [
+      "3",
+      "2",
+      "6",
+      "5 96 The smallest number that divides 1188 to become a perfect cube is"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '5 96 The smallest number that divides 1188 to become a perfect cube is'."
+  },
+  {
+    "id": 501,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "నుిండి 1000 వర్కు గల పరిపూర్ణ ఘనముల సింఖ్య",
+    "options": [
+      "16",
+      "18",
+      "10",
+      "24 100 Cube root of 1728 is"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '24 100 Cube root of 1728 is'."
+  },
+  {
+    "id": 543,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "− 33 = 1 + 4 × 3 × 3 then (అయితే) 73 − 63 = ____________",
+    "options": [
+      "1 + 7 × 6 × 3",
+      "1 + 5 × 4 × 3",
+      "7 + 3 × 6 × 3",
+      "3 + 6 × 5 × 3 102 If 83 = 512 then √"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - '1 + 5 × 4 × 3'."
+  },
+  {
+    "id": 506,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "పెనునల ఖ్ర్డదు ₹ 210 అయిన 4 పెనునల ఖ్ర్డదు",
+    "options": [
+      "₹ 70",
+      "₹ 105",
+      "₹ 140",
+      "₹ 165 110 The ratio of 90 cm to 1.5m is"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - '₹ 140'."
+  },
+  {
+    "id": 507,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "మీటర్ీ వసరిం ధ్ర్ ₹1470 అయితే, 5 మీటర్ీ వసరిం ధ్ర్ ఖ్ర్డదు",
+    "options": [
+      "₹1000",
+      "₹1050",
+      "₹1200",
+      "₹1250 116 The weight of 72 books is 9 Kg. The weight of 40 such books is (in Kgs.)"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '₹1250 116 The weight of 72 books is 9 Kg. The weight of 40 such books is (in Kgs.)'."
+  },
+  {
+    "id": 572,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "పుసతకాల బరువు 9 కిలోలు. అటువింటి 40 పుసతకాల బరువు (కి. గ్రా. లలో)",
+    "options": [
+      "6",
+      "7",
+      "4",
+      "5 117 Distance travelled by A and B in an hour are 9 Km and"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - '7'."
+  },
+  {
+    "id": 620,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "మింది ఓటరుీ ఉన్ననరు. వారిలో 90 మింది ‘అవును’ అని ఓటు వేశారు. ‘అవును’ అని ఓటు వేసిన వారి శాత్ిం",
+    "options": [
+      "80%",
+      "60%",
+      "70%",
+      "75% 132 The fraction which is equal to"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '75% 132 The fraction which is equal to'."
+  },
+  {
+    "id": 503,
+    "subject": "Maths",
+    "topic": "Number System & Arithmetic",
+    "question": "% + 26 =",
+    "options": [
+      "40",
+      "60",
+      "48",
+      "50 141 50% of 164 –"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - '40'."
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The scholar took two pennies from his pocket. Choose the synonym of the word 'pennies'.",
     "options": [
       "coins",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Fortune favours the hardworking. Choose the synonym of the word 'fortune'.",
     "options": [
       "formula",
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The owner of the eating house stood there, serving his customers. Choose the synonym of the word 'customers'.",
     "options": [
       "guardians",
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Saving others from disaster is courage. Choose the synonym of the word 'disaster'.",
     "options": [
       "trouble",
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The waste is chocking me. Choose the synonym of the word 'chocking'.",
     "options": [
       "scolding",
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The thieves got scared and ran away from there. Choose the synonym of the word 'scared'.",
     "options": [
       "rushed",
@@ -86,7 +86,7 @@
   {
     "id": 7,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "He washed his wounds and bandaged them. Choose the synonym of the word 'wounds'.",
     "options": [
       "cleans",
@@ -100,7 +100,7 @@
   {
     "id": 8,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Come to the king’s court and collect the reward. Choose the synonym of the word 'reward'.",
     "options": [
       "punishment",
@@ -114,7 +114,7 @@
   {
     "id": 9,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Our grandfather prepared delicious lunch for us. Choose the synonym of the word 'delicious'.",
     "options": [
       "uneatable",
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "They were sure of their victory. Choose the synonym of the word 'victory'.",
     "options": [
       "defame",
@@ -142,7 +142,7 @@
   {
     "id": 11,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "There were numerous trees on either side of the road. Choose the synonym of the word 'numerous'.",
     "options": [
       "countable",
@@ -156,7 +156,7 @@
   {
     "id": 14,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "What present can I send from Naini Prison? Choose the appropriate synonym of 'Prison'.",
     "options": [
       "jailhouse",
@@ -170,7 +170,7 @@
   {
     "id": 16,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "My mother was astonished to see you. Choose the synonym of the word 'astonished'.",
     "options": [
       "afraid",
@@ -184,7 +184,7 @@
   {
     "id": 18,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The rabbit went to the cobbler who was mending shoes. Choose the synonym of the word 'mending'.",
     "options": [
       "repairing",
@@ -198,7 +198,7 @@
   {
     "id": 22,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "They comforted each other. Choose the antonym of the word 'comforted'.",
     "options": [
       "depressed",
@@ -212,7 +212,7 @@
   {
     "id": 23,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Tenali Rama Krishna had a huge mango garden in his backyard. Choose the antonym of the word 'huge'.",
     "options": [
       "very large",
@@ -226,7 +226,7 @@
   {
     "id": 24,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Raju did not want to lose the opportunity. Choose the antonym of the word 'lose'.",
     "options": [
       "misplace",
@@ -240,7 +240,7 @@
   {
     "id": 26,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "King Sibi was a very kind and generous ruler. Choose the antonym of the word 'kind'.",
     "options": [
       "good natured",
@@ -254,7 +254,7 @@
   {
     "id": 28,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The village was peaceful with fresh air. Choose the antonym of the word 'fresh'.",
     "options": [
       "stale",
@@ -268,7 +268,7 @@
   {
     "id": 29,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "There are big and tall trees and dense bushes on either side of the road. Choose the antonym of the word 'dense'.",
     "options": [
       "thick",
@@ -282,7 +282,7 @@
   {
     "id": 43,
     "subject": "English",
-    "topic": "Spelling",
+    "topic": "Vocabulary & One Word Substitutes",
     "question": "Choose the correctly spelt word.",
     "options": [
       "thrishing",
@@ -296,7 +296,7 @@
   {
     "id": 47,
     "subject": "English",
-    "topic": "Spelling",
+    "topic": "Vocabulary & One Word Substitutes",
     "question": "Choose the correct spelling.",
     "options": [
       "comitee",
@@ -310,7 +310,7 @@
   {
     "id": 64,
     "subject": "English",
-    "topic": "One Word Substitutes",
+    "topic": "Vocabulary & One Word Substitutes",
     "question": "The word for a continuous dry weather period without rainfall is:",
     "options": [
       "sweat",
@@ -324,7 +324,7 @@
   {
     "id": 67,
     "subject": "English",
-    "topic": "One Word Substitutes",
+    "topic": "Vocabulary & One Word Substitutes",
     "question": "People who work for an organisation without being paid, are called _____.",
     "options": [
       "friends",
@@ -338,7 +338,7 @@
   {
     "id": 75,
     "subject": "English",
-    "topic": "One Word Substitutes",
+    "topic": "Vocabulary & One Word Substitutes",
     "question": "A _____ makes or mends shoes.",
     "options": [
       "cobbler",
@@ -352,7 +352,7 @@
   {
     "id": 78,
     "subject": "English",
-    "topic": "One Word Substitutes",
+    "topic": "Vocabulary & One Word Substitutes",
     "question": "A bunch of flowers is called _____.",
     "options": [
       "A bouquet",
@@ -366,7 +366,7 @@
   {
     "id": 85,
     "subject": "English",
-    "topic": "Figures of Speech",
+    "topic": "Poetic Devices & Figures of Speech",
     "question": "They eat like wolves. Identify the figure of speech used in the given sentence.",
     "options": [
       "Simile",
@@ -380,7 +380,7 @@
   {
     "id": 102,
     "subject": "English",
-    "topic": "Figures of Speech",
+    "topic": "Poetic Devices & Figures of Speech",
     "question": "The camel is the ship of the desert. Choose the figure of speech used in the given sentence.",
     "options": [
       "Simile",
@@ -394,7 +394,7 @@
   {
     "id": 107,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Choose the correct idiomatic expression.",
     "options": [
       "fish out of air",
@@ -408,7 +408,7 @@
   {
     "id": 118,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "To let the ____ out of the bag. Choose the correct word to make it an idiom that means to reveal a secret.",
     "options": [
       "rat",
@@ -422,7 +422,7 @@
   {
     "id": 126,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "You have hit the nail on the head. Choose the meaning of the underlined idiom.",
     "options": [
       "damaging a nail",
@@ -436,7 +436,7 @@
   {
     "id": 131,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "The plane took off an hour late. Choose the correct meaning of phrasal verb 'took off'.",
     "options": [
       "began to fly",
@@ -450,7 +450,7 @@
   {
     "id": 143,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "The game was cancelled because of bad weather. Choose the correct phrasal verb for the word 'cancelled'.",
     "options": [
       "called on",
@@ -464,7 +464,7 @@
   {
     "id": 148,
     "subject": "English",
-    "topic": "Language Functions",
+    "topic": "Language Functions & Communication",
     "question": "May I come in? Choose the language function of the given sentence.",
     "options": [
       "Giving permission",
@@ -478,7 +478,7 @@
   {
     "id": 149,
     "subject": "English",
-    "topic": "Modal Verbs",
+    "topic": "Tenses & Verb Forms",
     "question": "Choose the modal verb used for obligation: You ____ be regular.",
     "options": [
       "will",
@@ -492,7 +492,7 @@
   {
     "id": 165,
     "subject": "English",
-    "topic": "Modal Verbs",
+    "topic": "Tenses & Verb Forms",
     "question": "Choose the modal verb to convey 'ability': She ______ speak Tamil.",
     "options": [
       "shall",
@@ -506,7 +506,7 @@
   {
     "id": 169,
     "subject": "English",
-    "topic": "Grammar & Usage",
+    "topic": "Grammar & Sentence Structure",
     "question": "Identify the grammatically correct sentence.",
     "options": [
       "The players have going to the playground.",
@@ -520,7 +520,7 @@
   {
     "id": 171,
     "subject": "English",
-    "topic": "Grammar & Usage",
+    "topic": "Grammar & Sentence Structure",
     "question": "Identify the grammatically correct sentence.",
     "options": [
       "Stephen is one of the best singers.",
@@ -534,7 +534,7 @@
   {
     "id": 183,
     "subject": "English",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Grammar & Sentence Structure",
     "question": "Identify the grammatically correct sentence.",
     "options": [
       "Neither the chairman nor the directors are present.",
@@ -548,7 +548,7 @@
   {
     "id": 232,
     "subject": "English",
-    "topic": "Direct & Indirect Speech",
+    "topic": "Voice & Speech",
     "question": "Direct: He said, 'My master is writing letters.' Indirect: He said that _____ master ____ writing letters.",
     "options": [
       "his, was",
@@ -562,7 +562,7 @@
   {
     "id": 253,
     "subject": "English",
-    "topic": "Prepositions",
+    "topic": "Prepositions & Conjunctions",
     "question": "Our school starts _____ 8.45 am. Choose the correct preposition.",
     "options": [
       "in",
@@ -576,7 +576,7 @@
   {
     "id": 254,
     "subject": "English",
-    "topic": "Prepositions",
+    "topic": "Prepositions & Conjunctions",
     "question": "Vivekananda was born ____ 12th January 1863. Choose the correct preposition.",
     "options": [
       "in",
@@ -590,7 +590,7 @@
   {
     "id": 258,
     "subject": "English",
-    "topic": "Prepositions",
+    "topic": "Prepositions & Conjunctions",
     "question": "Tenali Rama and his wife dropped the box ___ the well.",
     "options": [
       "in",
@@ -604,7 +604,7 @@
   {
     "id": 297,
     "subject": "English",
-    "topic": "Articles",
+    "topic": "Articles & Determiners",
     "question": "If _____ earth was a human being, it would be in hospital. Choose the correct option.",
     "options": [
       "an",
@@ -646,7 +646,7 @@
   {
     "id": 506,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "At times students resort to using words from both the first and second languages in the same sentence. This is called:",
     "options": [
       "code separation",
@@ -660,7 +660,7 @@
   {
     "id": 507,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Which should be strengthened first before the child gets practice in reading and writing skills?",
     "options": [
       "Speaking skill only",
@@ -674,7 +674,7 @@
   {
     "id": 522,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "LAD means:",
     "options": [
       "Literacy Acquiring Data",
@@ -688,7 +688,7 @@
   {
     "id": 530,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Writing is a ______ skill.",
     "options": [
       "Receptive",
@@ -702,7 +702,7 @@
   {
     "id": 531,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Listening is a/an _____ skill.",
     "options": [
       "Receptive",
@@ -716,7 +716,7 @@
   {
     "id": 536,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Nidhi reads a magazine and is looking for the overall idea of the cover story. What is this reading known as?",
     "options": [
       "Reading for pleasure",
@@ -730,7 +730,7 @@
   {
     "id": 550,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Which is the oldest method of teaching English in India?",
     "options": [
       "Bilingual Method",
@@ -744,7 +744,7 @@
   {
     "id": 554,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Choose the teaching method which is based on the coordination of language and physical movement.",
     "options": [
       "Suggestopedia",
@@ -758,7 +758,7 @@
   {
     "id": 557,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Vygotsky’s concept of _____ advocates children refine their knowledge and experience through collaboration.",
     "options": [
       "Zone of Proximal Development",
@@ -772,7 +772,7 @@
   {
     "id": 581,
     "subject": "English",
-    "topic": "Pedagogy",
+    "topic": "Mathematics Pedagogy & Curriculum",
     "question": "Howard Gardner’s _____ Theory reminds teachers that there are many types of learners within the classroom.",
     "options": [
       "Concept of learning",
@@ -786,7 +786,7 @@
   {
     "id": 12,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The raider holds his breath and chants ‘kabaddi…kabaddi’. Choose the synonym of the word ‘chant’.",
     "options": [
       "plays",
@@ -800,7 +800,7 @@
   {
     "id": 13,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "Kabaddi requires no specific sporting equipment. Choose the appropriate synonym of ‘equipment’.",
     "options": [
       "rules",
@@ -814,7 +814,7 @@
   {
     "id": 15,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "She discovered a beautiful diamond necklace. Choose the appropriate synonym of ‘discovered’.",
     "options": [
       "destroyed",
@@ -828,7 +828,7 @@
   {
     "id": 20,
     "subject": "English",
-    "topic": "Synonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "We had a thrilling experience. Choose the synonym of the word ‘thrilling’.",
     "options": [
       "exciting",
@@ -842,7 +842,7 @@
   {
     "id": 27,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "The king agreed and ordered to bring the scales. Choose the antonym of the word ‘agreed’.",
     "options": [
       "differed",
@@ -856,7 +856,7 @@
   {
     "id": 36,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "“No dear, I won’t stay here, sending away my friends in dismay”. replied the white butterfly. Choose the antonym of the word ‘dismay’.",
     "options": [
       "Pleasure",
@@ -870,7 +870,7 @@
   {
     "id": 40,
     "subject": "English",
-    "topic": "Antonyms",
+    "topic": "Synonyms & Antonyms",
     "question": "By constant application, one can remember various formulae of science and mathematics. Choose the antonym of the word ‘remember’.",
     "options": [
       "forget",
@@ -884,7 +884,7 @@
   {
     "id": 86,
     "subject": "English",
-    "topic": "Figures of Speech",
+    "topic": "Poetic Devices & Figures of Speech",
     "question": "He roared like a lion. Choose the figure of speech used in the given sentence.",
     "options": [
       "Personification",
@@ -898,7 +898,7 @@
   {
     "id": 100,
     "subject": "English",
-    "topic": "Figures of Speech",
+    "topic": "Poetic Devices & Figures of Speech",
     "question": "Lencho was an ox of a man. Choose the figure of speech used in the given sentence.",
     "options": [
       "Simile",
@@ -912,7 +912,7 @@
   {
     "id": 101,
     "subject": "English",
-    "topic": "Figures of Speech",
+    "topic": "Poetic Devices & Figures of Speech",
     "question": "Death lays his icy hand on kings. Choose the figure of speech used in the given sentence.",
     "options": [
       "Simile",
@@ -926,7 +926,7 @@
   {
     "id": 116,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Choose the correct idiomatic expression that means a general view.",
     "options": [
       "a bird’s eye view",
@@ -940,7 +940,7 @@
   {
     "id": 117,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Choose the correct idiomatic expression to mean unrecognized danger.",
     "options": [
       "Make no bones",
@@ -954,7 +954,7 @@
   {
     "id": 121,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Choose the correct idiom appropriate in the following situation: 'You’re so proud of your child.'",
     "options": [
       "He’s the apple of my eye.",
@@ -968,7 +968,7 @@
   {
     "id": 122,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Choose the correct idiomatic expression.",
     "options": [
       "tone of connection",
@@ -982,7 +982,7 @@
   {
     "id": 125,
     "subject": "English",
-    "topic": "Idioms",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Don’t worry! we’ll have the money ready by 5pm, by hook or by crook. Choose the correct meaning of the underlined idiomatic expression.",
     "options": [
       "by any method",
@@ -996,7 +996,7 @@
   {
     "id": 128,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "The president gives away bravery awards every year. Choose the meaning of the phrasal verb ‘give away’.",
     "options": [
       "to organize some event",
@@ -1010,7 +1010,7 @@
   {
     "id": 129,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "The Headmaster will look into the problem. Choose the correct meaning of the phrase ‘look into’.",
     "options": [
       "consume",
@@ -1024,7 +1024,7 @@
   {
     "id": 130,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "Carry on until you get to the junction, then turn left. Choose the correct meaning of the phrasal verb ‘carry on’.",
     "options": [
       "to continue moving",
@@ -1038,7 +1038,7 @@
   {
     "id": 141,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "The situation needs prompt action. Choose the suitable phrase that means ‘needs’:",
     "options": [
       "calls for",
@@ -1052,7 +1052,7 @@
   {
     "id": 146,
     "subject": "English",
-    "topic": "Phrasal Verbs",
+    "topic": "Phrasal Verbs & Idioms",
     "question": "I look after his affairs in his absence. Choose the meaning of the phrasal verb ‘look after’.",
     "options": [
       "to examine",
@@ -1066,7 +1066,7 @@
   {
     "id": 154,
     "subject": "English",
-    "topic": "Modals",
+    "topic": "Tenses & Verb Forms",
     "question": "It ____ rain today. Choose the correct modal verb used to express possibility.",
     "options": [
       "shall",
@@ -1080,7 +1080,7 @@
   {
     "id": 162,
     "subject": "English",
-    "topic": "Language Functions",
+    "topic": "Language Functions & Communication",
     "question": "May God bless you! Choose the language function of the given sentence.",
     "options": [
       "Possibility",
@@ -1094,7 +1094,7 @@
   {
     "id": 185,
     "subject": "English",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Grammar & Sentence Structure",
     "question": "Identify the grammatically correct sentence.",
     "options": [
       "The quality of mangoes were not good.",
@@ -1108,7 +1108,7 @@
   {
     "id": 188,
     "subject": "English",
-    "topic": "Subject-Verb Agreement",
+    "topic": "Grammar & Sentence Structure",
     "question": "Identify the grammatically correct sentence.",
     "options": [
       "Silver as well as cotton has fallen in price.",
@@ -1122,7 +1122,7 @@
   {
     "id": 196,
     "subject": "English",
-    "topic": "Conjunctions",
+    "topic": "Prepositions & Conjunctions",
     "question": "Their house is _____ big ____ small. Choose the correct pair of correlative conjunctions.",
     "options": [
       "neither, nor",
@@ -1164,7 +1164,7 @@
   {
     "id": 262,
     "subject": "English",
-    "topic": "Prepositions",
+    "topic": "Prepositions & Conjunctions",
     "question": "Our National Anthem was translated ____ Bengali ___ English.",
     "options": [
       "in, to",
@@ -1178,7 +1178,7 @@
   {
     "id": 263,
     "subject": "English",
-    "topic": "Prepositions",
+    "topic": "Prepositions & Conjunctions",
     "question": "Mahatma Gandhi was born ____ Porbandar ____ Gujarat.",
     "options": [
       "on, in",
@@ -1192,7 +1192,7 @@
   {
     "id": 270,
     "subject": "English",
-    "topic": "Prepositions",
+    "topic": "Prepositions & Conjunctions",
     "question": "The ant hill was in ____ two coconut trees.",
     "options": [
       "between",
@@ -1202,5 +1202,481 @@
     ],
     "answer": 1,
     "explanation": "For two distinct entities, we use 'between'."
+  },
+  {
+    "id": 136,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "Can you look up the opening times on the website? Choose the meaning of the phrasal verb ‘look up’.",
+    "options": [
+      "to look for information",
+      "to become worse",
+      "To enter the website",
+      "To leave the website"
+    ],
+    "answer": 1,
+    "explanation": "'Look up' means to search for or look for information."
+  },
+  {
+    "id": 137,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "What brought about the change in his attitude? Choose the correct meaning of the phrase ‘brought about’.",
+    "options": [
+      "restricted",
+      "denied",
+      "delighted",
+      "caused"
+    ],
+    "answer": 4,
+    "explanation": "'Brought about' means caused something to happen."
+  },
+  {
+    "id": 138,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "We aim to reduce prices on all our computers. Choose the correct phrasal verb to mean the word ‘reduce’.",
+    "options": [
+      "bring forth",
+      "bring up",
+      "bring about",
+      "bring down"
+    ],
+    "answer": 4,
+    "explanation": "'Bring down' means to reduce or lower prices."
+  },
+  {
+    "id": 139,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "The photographs brought back many pleasant memories. Choose the correct meaning of the phrase ‘brought back’.",
+    "options": [
+      "rejected memories",
+      "made remember memories",
+      "lost memories",
+      "vanished memories"
+    ],
+    "answer": 2,
+    "explanation": "'Brought back' memories means made one recall or remember past memories."
+  },
+  {
+    "id": 140,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "The train calls at this station. Choose the correct meaning of the phrase ‘calls at’.",
+    "options": [
+      "stops for short time",
+      "starts at",
+      "leaves",
+      "arrives at"
+    ],
+    "answer": 1,
+    "explanation": "When a train or ship 'calls at' a station/port, it stops for a short time."
+  },
+  {
+    "id": 142,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "She called on the government to hold a vote. Choose the correct meaning of the phrase ‘called on’.",
+    "options": [
+      "demanded",
+      "dedicated",
+      "disputed",
+      "damaged"
+    ],
+    "answer": 1,
+    "explanation": "'Called on' means officially requested, demanded, or appealed."
+  },
+  {
+    "id": 144,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "The smell of the sea called up the memories of her childhood. Choose the correct meaning of ‘called up’.",
+    "options": [
+      "brought the memories back",
+      "lost the memories",
+      "delighted",
+      "forgot"
+    ],
+    "answer": 1,
+    "explanation": "'Called up' means brought to mind or brought memories back."
+  },
+  {
+    "id": 145,
+    "subject": "English",
+    "topic": "Phrasal Verbs & Idioms",
+    "question": "She brought up five children. Choose the correct meaning of the phrase ‘brought up’.",
+    "options": [
+      "raised",
+      "rised",
+      "released",
+      "restricted"
+    ],
+    "answer": 1,
+    "explanation": "'Bring up' children means to rear, nurture, or raise them."
+  },
+  {
+    "id": 150,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "You’re looking good! The above sentence expresses ____.",
+    "options": [
+      "Compliment",
+      "Comment",
+      "Commitment",
+      "Congratulations"
+    ],
+    "answer": 1,
+    "explanation": "'You're looking good!' expresses praise or a Compliment."
+  },
+  {
+    "id": 151,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "When you passed an examination, how would everyone greet you?",
+    "options": [
+      "Congratulations!",
+      "Thank you very much",
+      "Next time better luck!",
+      "Nice meeting you all."
+    ],
+    "answer": 1,
+    "explanation": "'Congratulations!' is the appropriate greeting on passing an exam."
+  },
+  {
+    "id": 155,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "Shall I get you a cup of coffee? Choose the correct language function.",
+    "options": [
+      "Suggestion",
+      "Warning",
+      "Permission",
+      "Offer"
+    ],
+    "answer": 4,
+    "explanation": "'Shall I get you...?' expresses an Offer to help or serve."
+  },
+  {
+    "id": 156,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "Choose the correct answer to refuse permission in the following: A: May I use your bicycle? B: _____.",
+    "options": [
+      "Yes, you may.",
+      "No, you may not.",
+      "Yes, you may not.",
+      "No, you may."
+    ],
+    "answer": 2,
+    "explanation": "'No, you may not' is the grammatically correct formal refusal of permission."
+  },
+  {
+    "id": 157,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "“You can stay with me till it stops raining”. Identify the language function in the sentence.",
+    "options": [
+      "Taking Permission",
+      "Seeking permission",
+      "Ability",
+      "Giving permission"
+    ],
+    "answer": 4,
+    "explanation": "'You can stay with me...' is Giving permission (granting allowance)."
+  },
+  {
+    "id": 160,
+    "subject": "English",
+    "topic": "Tenses & Verb Forms",
+    "question": "Choose the correct modal verb used to express possibility: I ______ go to Delhi tomorrow.",
+    "options": [
+      "will",
+      "should",
+      "must",
+      "may"
+    ],
+    "answer": 4,
+    "explanation": "'May' expresses possibility regarding a future event."
+  },
+  {
+    "id": 161,
+    "subject": "English",
+    "topic": "Tenses & Verb Forms",
+    "question": "A: ______ you please post this letter? B: Certainly. Choose the suitable modal verb.",
+    "options": [
+      "Should",
+      "Must",
+      "Could",
+      "Do"
+    ],
+    "answer": 3,
+    "explanation": "'Could' is used for making polite requests."
+  },
+  {
+    "id": 164,
+    "subject": "English",
+    "topic": "Tenses & Verb Forms",
+    "question": "We ______ invite our friends. They invited us last time.",
+    "options": [
+      "has to",
+      "had to",
+      "need",
+      "have to"
+    ],
+    "answer": 4,
+    "explanation": "Subject 'We' requires plural auxiliary 'have to' for expressing necessity/obligation."
+  },
+  {
+    "id": 166,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "Shall I carry your luggage? Choose the language function.",
+    "options": [
+      "Obligation",
+      "Offer",
+      "Permission",
+      "Request"
+    ],
+    "answer": 2,
+    "explanation": "'Shall I carry...?' is a polite Offer."
+  },
+  {
+    "id": 167,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "Shall we go for a walk? Choose the language function of the sentence.",
+    "options": [
+      "Request",
+      "Obligation",
+      "Suggestion",
+      "Offer"
+    ],
+    "answer": 3,
+    "explanation": "'Shall we...?' is used for proposing a Suggestion."
+  },
+  {
+    "id": 168,
+    "subject": "English",
+    "topic": "Language Functions & Communication",
+    "question": "Could you lend me your book? Choose the language function.",
+    "options": [
+      "Request",
+      "Permission",
+      "Suggestion",
+      "Compulsion"
+    ],
+    "answer": 1,
+    "explanation": "'Could you...?' makes a polite Request."
+  },
+  {
+    "id": 170,
+    "subject": "English",
+    "topic": "Grammar & Sentence Structure",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "The children have listening to stories.",
+      "The children was listening to stories.",
+      "The children are listening to stories.",
+      "The children has listening to stories."
+    ],
+    "answer": 3,
+    "explanation": "'The children' is plural; 'are listening' correctly forms the present continuous tense."
+  },
+  {
+    "id": 172,
+    "subject": "English",
+    "topic": "Tenses & Verb Forms",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "They were sold their bungalow.",
+      "They are sold their bungalow.",
+      "They has sold their bungalow.",
+      "They have sold their bungalow."
+    ],
+    "answer": 4,
+    "explanation": "'They' is plural; present perfect active requires 'have sold'."
+  },
+  {
+    "id": 174,
+    "subject": "English",
+    "topic": "Tenses & Verb Forms",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "My uncle has bought a car.",
+      "My uncle has buying a car.",
+      "My uncle have bought a car.",
+      "My uncle have buying a car."
+    ],
+    "answer": 1,
+    "explanation": "Singular subject 'My uncle' takes 'has' + past participle 'bought'."
+  },
+  {
+    "id": 190,
+    "subject": "English",
+    "topic": "Prepositions & Conjunctions",
+    "question": "I dropped the dish, _______ it did not break. Choose the correct linker.",
+    "options": [
+      "so",
+      "as",
+      "but",
+      "though"
+    ],
+    "answer": 3,
+    "explanation": "'But' introduces a contrast between dropping the dish and it not breaking."
+  },
+  {
+    "id": 191,
+    "subject": "English",
+    "topic": "Prepositions & Conjunctions",
+    "question": "I shall not go _____ you do. Choose the correct linker.",
+    "options": [
+      "as soon as",
+      "scarcely",
+      "unless",
+      "then"
+    ],
+    "answer": 3,
+    "explanation": "'Unless' means 'except if' or 'if not'."
+  },
+  {
+    "id": 194,
+    "subject": "English",
+    "topic": "Prepositions & Conjunctions",
+    "question": "We decided not to go out for a meal ______ we were simply too tired.",
+    "options": [
+      "because",
+      "so",
+      "but",
+      "though"
+    ],
+    "answer": 1,
+    "explanation": "'Because' provides the causal reason for not going out."
+  },
+  {
+    "id": 200,
+    "subject": "English",
+    "topic": "Prepositions & Conjunctions",
+    "question": "She was not only intelligent _____ very musical.",
+    "options": [
+      "also",
+      "but also",
+      "if",
+      "neither"
+    ],
+    "answer": 2,
+    "explanation": "Correlative conjunction pair: 'not only ... but also'."
+  },
+  {
+    "id": 201,
+    "subject": "English",
+    "topic": "Determiners",
+    "question": "There is a door at ______ end of the corridor.",
+    "options": [
+      "nor",
+      "or",
+      "not",
+      "either"
+    ],
+    "answer": 4,
+    "explanation": "'Either' refers to each of the two ends."
+  },
+  {
+    "id": 211,
+    "subject": "English",
+    "topic": "Compound Words",
+    "question": "Choose the compound words from the following: a. scarecrow, b. blackboard, c. postpone, d. bookshelf.",
+    "options": [
+      "a, b, c",
+      "b, c, d",
+      "a, b, d",
+      "a, c, d"
+    ],
+    "answer": 3,
+    "explanation": "Scarecrow, blackboard, and bookshelf are compound nouns formed by two words; postpone is a single Latin-root word."
+  },
+  {
+    "id": 216,
+    "subject": "English",
+    "topic": "Affixes",
+    "question": "Which of the following words does not take ‘un’ as a prefix to make it opposite?",
+    "options": [
+      "true",
+      "trained",
+      "important",
+      "understand"
+    ],
+    "answer": 4,
+    "explanation": "The opposite of understand is 'misunderstand', not 'ununderstand'."
+  },
+  {
+    "id": 220,
+    "subject": "English",
+    "topic": "Prefixes & Antonyms",
+    "question": "Choose the correct pair of words that are opposite to each other.",
+    "options": [
+      "appear-disappear",
+      "direct-undirect",
+      "healthy- inhealthy",
+      "mortal- unmortal"
+    ],
+    "answer": 1,
+    "explanation": "'Appear' and 'disappear' is the only correct standard prefix antonym pair."
+  },
+  {
+    "id": 202,
+    "subject": "English",
+    "topic": "Tenses & Verb Forms",
+    "question": "By next December, our school ________ sixty years in education.",
+    "options": [
+      "will complete",
+      "will have completed",
+      "completed",
+      "had completed"
+    ],
+    "answer": 2,
+    "explanation": "Future action completed before a specific future time ('By next December') takes the Future Perfect Tense ('will have completed')."
+  },
+  {
+    "id": 203,
+    "subject": "English",
+    "topic": "Voice & Speech",
+    "question": "Choose the correct passive voice: 'The committee awarded her the gold medal.'",
+    "options": [
+      "She was awarded the gold medal by the committee.",
+      "She is awarded the gold medal by the committee.",
+      "The gold medal was awarding to her by the committee.",
+      "She had been awarded the gold medal by committee."
+    ],
+    "answer": 1,
+    "explanation": "Simple past 'awarded' becomes 'was awarded' in passive voice with person object 'She'."
+  },
+  {
+    "id": 205,
+    "subject": "English",
+    "topic": "Grammar & Sentence Structure",
+    "question": "Neither the teacher nor the students ________ present in the auditorium yesterday.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+    ],
+    "answer": 2,
+    "explanation": "When two subjects are joined by 'neither... nor', the verb agrees with the nearer subject ('students' is plural past -> 'were')."
+  },
+  {
+    "id": 206,
+    "subject": "English",
+    "topic": "English Pedagogy & Methodology",
+    "question": "The primary objective of teaching English at the primary stage in Andhra Pradesh is to enable learners to:",
+    "options": [
+      "Write lengthy Shakespearean essays",
+      "Acquire basic listening, speaking, reading, and writing skills for communication",
+      "Memorize complex Latin grammatical rules",
+      "Translate entire Telugu novels into English"
+    ],
+    "answer": 2,
+    "explanation": "Curriculum objectives prioritize communicative proficiency across the foundational 4 skills (LSRW)."
   }
 ]

@@ -45,6 +45,7 @@ class AppController {
       modeVault: document.getElementById('modeVault'),
       vaultBadge: document.getElementById('vaultBadge'),
       subjectPills: document.querySelectorAll('.sub-tab, .subject-pill'),
+      subjectSelect: document.getElementById('subjectSelect'),
       userSpeechRow: document.getElementById('userSpeechRow'),
       topicSelect: document.getElementById('topicSelect'),
       searchInput: document.getElementById('searchInput'),
@@ -102,28 +103,32 @@ class AppController {
   }
 
   bindEvents() {
-    // Mode tabs
+    // Mode tabs (Viva, Self-Paced Practice, Mistake Vault)
     [this.dom.modeViva, this.dom.modePractice, this.dom.modeVault].forEach(tab => {
       tab.addEventListener('click', () => {
         [this.dom.modeViva, this.dom.modePractice, this.dom.modeVault].forEach(t => t.classList.remove('active'));
         tab.classList.add('active');
         this.currentMode = tab.dataset.mode;
+        voiceExaminer.stopAll();
         this.loadQuestionSet();
       });
     });
 
-    // Subject pills
+    // Top Ribbon Subject tabs
     this.dom.subjectPills.forEach(pill => {
       pill.addEventListener('click', () => {
-        this.dom.subjectPills.forEach(p => p.classList.remove('active'));
-        pill.classList.add('active');
-        this.currentSubject = pill.dataset.subject;
-        this.dom.browserSubjectTitle.textContent = this.currentSubject;
-        voiceExaminer.setLanguage(this.currentSubject === 'Telugu' ? 'te' : 'en');
-        this.updateTopicDropdown();
-        this.loadQuestionSet();
+        const subj = pill.dataset.subject;
+        this.switchSubject(subj);
       });
     });
+
+    // Subject Dropdown
+    if (this.dom.subjectSelect) {
+      this.dom.subjectSelect.addEventListener('change', (e) => {
+        const subj = e.target.value;
+        this.switchSubject(subj);
+      });
+    }
 
     // Search input
     this.dom.searchInput.addEventListener('input', (e) => {
@@ -131,7 +136,7 @@ class AppController {
       this.loadQuestionSet();
     });
 
-    // Topic filter
+    // Topic filter dropdown
     this.dom.topicSelect.addEventListener('change', (e) => {
       this.currentTopic = e.target.value;
       this.loadQuestionSet();
@@ -353,34 +358,130 @@ class AppController {
     });
   }
 
+  switchSubject(subject) {
+    this.currentSubject = subject;
+    this.currentTopic = 'all';
+    this.searchQuery = '';
+    if (this.dom.searchInput) this.dom.searchInput.value = '';
+
+    // Synchronize Ribbon Tabs
+    if (this.dom.subjectPills) {
+      this.dom.subjectPills.forEach(p => {
+        p.classList.toggle('active', p.dataset.subject === subject);
+      });
+    }
+
+    // Synchronize Subject Dropdown
+    if (this.dom.subjectSelect) {
+      this.dom.subjectSelect.value = subject;
+    }
+
+    // Update Directory Subject Heading
+    if (this.dom.browserSubjectTitle) {
+      const titles = {
+        'English': 'English Language',
+        'Telugu': 'తెలుగు (Telugu)',
+        'EVS': 'Environmental Studies (EVS)',
+        'Maths': 'Mathematics',
+        'CDP': 'Child Development & Pedagogy',
+        'All': 'All Subjects Combined'
+      };
+      this.dom.browserSubjectTitle.textContent = titles[subject] || subject;
+    }
+
+    // Set voice examiner language
+    voiceExaminer.setLanguage(subject === 'Telugu' ? 'te' : 'en');
+
+    // Update topic dropdown for this subject
+    this.updateTopicDropdown();
+
+    // Reload question set
+    this.loadQuestionSet();
+  }
+
   updateSubjectCounts() {
-    document.getElementById('countEnglish').textContent = `${questionRepo.getBySubject('English').length} Qs`;
-    document.getElementById('countTelugu').textContent = `${questionRepo.getBySubject('Telugu').length} Qs`;
-    document.getElementById('countEVS').textContent = `${questionRepo.getBySubject('EVS').length} Qs`;
-    document.getElementById('countMaths').textContent = `${questionRepo.getBySubject('Maths').length} Qs`;
-    document.getElementById('countCDP').textContent = `${questionRepo.getBySubject('CDP').length} Qs`;
-    this.dom.vaultBadge.textContent = this.mistakeVault.length;
+    const counts = {
+      English: questionRepo.getBySubject('English').length,
+      Telugu: questionRepo.getBySubject('Telugu').length,
+      EVS: questionRepo.getBySubject('EVS').length,
+      Maths: questionRepo.getBySubject('Maths').length,
+      CDP: questionRepo.getBySubject('CDP').length
+    };
+
+    if (document.getElementById('countEnglish')) document.getElementById('countEnglish').textContent = `${counts.English} MCQs`;
+    if (document.getElementById('countTelugu')) document.getElementById('countTelugu').textContent = `${counts.Telugu} MCQs`;
+    if (document.getElementById('countEVS')) document.getElementById('countEVS').textContent = `${counts.EVS} MCQs`;
+    if (document.getElementById('countMaths')) document.getElementById('countMaths').textContent = `${counts.Maths} MCQs`;
+    if (document.getElementById('countCDP')) document.getElementById('countCDP').textContent = `${counts.CDP} MCQs`;
+    if (this.dom.vaultBadge) this.dom.vaultBadge.textContent = this.mistakeVault.length;
+
+    // Update Subject Select option labels with live counts
+    if (this.dom.subjectSelect) {
+      const totalAll = counts.English + counts.Telugu + counts.EVS + counts.Maths + counts.CDP;
+      const opts = this.dom.subjectSelect.options;
+      for (let i = 0; i < opts.length; i++) {
+        const val = opts[i].value;
+        if (counts[val] !== undefined) {
+          const names = {
+            English: 'English Language',
+            Telugu: 'తెలుగు (Telugu)',
+            EVS: 'Environmental Studies (EVS)',
+            Maths: 'Mathematics',
+            CDP: 'Child Development & Pedagogy'
+          };
+          opts[i].textContent = `${names[val]} (${counts[val]} MCQs)`;
+        } else if (val === 'All') {
+          opts[i].textContent = `All Subjects (${totalAll} MCQs)`;
+        }
+      }
+    }
   }
 
   updateTopicDropdown() {
+    if (!this.dom.topicSelect) return;
     const topics = questionRepo.getTopics(this.currentSubject);
-    this.dom.topicSelect.innerHTML = '<option value="all">All Topics</option>';
+    const topicCounts = questionRepo.getTopicCounts(this.currentSubject);
+    const totalCount = questionRepo.getBySubject(this.currentSubject).length;
+
+    this.dom.topicSelect.innerHTML = '';
+    
+    // Default: All Topics in Subject
+    const defaultOpt = document.createElement('option');
+    defaultOpt.value = 'all';
+    defaultOpt.textContent = `All Units & Topics (${totalCount} MCQs)`;
+    this.dom.topicSelect.appendChild(defaultOpt);
+
+    // Individual Topics
     topics.forEach(t => {
       const opt = document.createElement('option');
       opt.value = t;
-      opt.textContent = t;
+      const cnt = topicCounts[t] || 0;
+      opt.textContent = `${t} (${cnt} MCQs)`;
       this.dom.topicSelect.appendChild(opt);
     });
+
+    this.dom.topicSelect.value = this.currentTopic;
   }
 
   loadQuestionSet() {
     if (this.currentMode === 'vault') {
-      this.currentQuestionList = [...this.mistakeVault];
-      this.dom.browserSubjectTitle.textContent = "Mistake Vault";
+      let list = [...this.mistakeVault];
+      if (this.currentSubject !== 'All') {
+        list = list.filter(m => (m.subject || 'English') === this.currentSubject);
+      }
+      this.currentQuestionList = list;
+      if (this.dom.browserSubjectTitle) {
+        this.dom.browserSubjectTitle.textContent = this.currentSubject === 'All' ? 'Mistake Vault (All Subjects)' : `Mistake Vault (${this.currentSubject})`;
+      }
+
       if (this.currentQuestionList.length === 0) {
         this.dom.browserCountBadge.textContent = "0 Questions";
-        this.dom.questionsScrollList.innerHTML = '<div style="padding: 20px; text-align: center; color: var(--text-muted);">No wrong questions yet! Practice questions to review mistakes here.</div>';
-        this.dom.questionText.textContent = "Your Mistake Vault is clear! You have no pending mistakes to revise.";
+        this.dom.questionsScrollList.innerHTML = `<div style="padding: 24px; text-align: center; color: var(--text-muted); line-height: 1.6;">
+          <i class="fa-solid fa-circle-check" style="font-size: 2rem; color: var(--color-success); margin-bottom: 8px; display: block;"></i>
+          <strong>No pending mistakes in ${this.currentSubject === 'All' ? 'any subject' : this.currentSubject}!</strong><br>
+          Solve questions in Oral Viva or Self-Paced Practice. Any mistakes will be cataloged here for strict review.
+        </div>`;
+        this.dom.questionText.textContent = `No recorded mistakes for ${this.currentSubject === 'All' ? 'any subject' : this.currentSubject}.`;
         this.dom.optionsGrid.innerHTML = '';
         this.dom.feedbackPanel.style.display = 'none';
         return;
@@ -397,7 +498,17 @@ class AppController {
         );
       }
       this.currentQuestionList = list;
-      this.dom.browserSubjectTitle.textContent = this.currentSubject;
+      if (this.dom.browserSubjectTitle) {
+        const titles = {
+          'English': 'English Language',
+          'Telugu': 'తెలుగు (Telugu)',
+          'EVS': 'Environmental Studies (EVS)',
+          'Maths': 'Mathematics',
+          'CDP': 'Child Development & Pedagogy',
+          'All': 'All Subjects Combined'
+        };
+        this.dom.browserSubjectTitle.textContent = titles[this.currentSubject] || this.currentSubject;
+      }
     }
 
     this.dom.browserCountBadge.textContent = `${this.currentQuestionList.length} Questions`;
@@ -406,7 +517,9 @@ class AppController {
     this.renderQuestion();
     this.updateStats();
 
-    if (this.currentMode === 'viva' || this.autoViva) {
+    // Voice triggers ONLY in Oral Viva mode when autoViva is enabled
+    // In Self-Paced Practice (practice mode), user reads at own pace without audio intrusion
+    if (this.currentMode === 'viva' && this.autoViva) {
       setTimeout(() => this.speakCurrentQuestion(), 400);
     }
   }
@@ -419,7 +532,7 @@ class AppController {
   renderQuestionsBrowserList() {
     this.dom.questionsScrollList.innerHTML = '';
     if (this.currentQuestionList.length === 0) {
-      this.dom.questionsScrollList.innerHTML = '<div style="padding: 20px; text-align: center; color: var(--text-muted);">No matching MCQs found.</div>';
+      this.dom.questionsScrollList.innerHTML = '<div style="padding: 24px; text-align: center; color: var(--text-muted);">No matching MCQs found in this selection.</div>';
       return;
     }
 
@@ -433,11 +546,13 @@ class AppController {
         statusClass = this.userAnswers[key].isCorrect ? 'correct' : 'wrong';
       }
 
+      const subj = q.subject || this.currentSubject;
       item.innerHTML = `
         <div class="q-item-num">${idx + 1}</div>
         <div class="q-item-content">
           <div class="q-item-title">${q.question}</div>
           <div class="q-item-meta">
+            <span class="q-item-subject-tag">${subj}</span>
             <span class="q-item-topic">${q.topic || 'General'}</span>
             <span>4 Options</span>
           </div>
@@ -450,7 +565,7 @@ class AppController {
         this.currentIndex = idx;
         this.updateActiveListItem();
         this.renderQuestion();
-        if (this.currentMode === 'viva' || this.autoViva) {
+        if (this.currentMode === 'viva' && this.autoViva) {
           setTimeout(() => this.speakCurrentQuestion(), 300);
         }
       });
@@ -538,18 +653,19 @@ class AppController {
     };
 
     // Update mistake vault
+    const qSubj = q.subject || this.currentSubject;
     if (!isCorrect) {
-      if (!this.mistakeVault.some(m => m.subject === q.subject && m.id === q.id)) {
-        this.mistakeVault.push(q);
+      if (!this.mistakeVault.some(m => (m.subject || 'English') === qSubj && m.id === q.id)) {
+        this.mistakeVault.push({ ...q, subject: qSubj });
         localStorage.setItem('tet_mistake_vault', JSON.stringify(this.mistakeVault));
-        this.dom.vaultBadge.textContent = this.mistakeVault.length;
+        if (this.dom.vaultBadge) this.dom.vaultBadge.textContent = this.mistakeVault.length;
       }
     } else {
       // If answered correctly in vault mode, remove it
       if (this.currentMode === 'vault') {
-        this.mistakeVault = this.mistakeVault.filter(m => !(m.subject === q.subject && m.id === q.id));
+        this.mistakeVault = this.mistakeVault.filter(m => !((m.subject || 'English') === qSubj && m.id === q.id));
         localStorage.setItem('tet_mistake_vault', JSON.stringify(this.mistakeVault));
-        this.dom.vaultBadge.textContent = this.mistakeVault.length;
+        if (this.dom.vaultBadge) this.dom.vaultBadge.textContent = this.mistakeVault.length;
       }
     }
 
@@ -593,7 +709,8 @@ class AppController {
     // Strict Voice Response
     if (triggerVoice) {
       voiceExaminer.evaluateAnswer(selectedOption, q.answer, q, () => {
-        if ((this.autoAdvance || this.autoViva) && isCorrect) {
+        // Auto-advance only in Oral Viva mode with autoAdvance enabled
+        if (this.currentMode === 'viva' && this.autoAdvance && isCorrect) {
           setTimeout(() => {
             if (this.currentIndex < this.currentQuestionList.length - 1) {
               this.nextQuestion();
@@ -618,11 +735,13 @@ class AppController {
       this.currentIndex++;
       this.updateActiveListItem();
       this.renderQuestion();
-      if (this.currentMode === 'viva' || this.autoViva) {
+      if (this.currentMode === 'viva' && this.autoViva) {
         setTimeout(() => this.speakCurrentQuestion(), 300);
       }
     } else {
-      voiceExaminer.speak("You have completed all questions in this session. Excellent revision.");
+      if (this.currentMode === 'viva') {
+        voiceExaminer.speak("You have completed all questions in this session. Excellent revision.");
+      }
     }
   }
 
@@ -632,7 +751,7 @@ class AppController {
       this.currentIndex--;
       this.updateActiveListItem();
       this.renderQuestion();
-      if (this.currentMode === 'viva' || this.autoViva) {
+      if (this.currentMode === 'viva' && this.autoViva) {
         setTimeout(() => this.speakCurrentQuestion(), 300);
       }
     }
@@ -644,7 +763,7 @@ class AppController {
     this.currentIndex = randomIdx;
     this.updateActiveListItem();
     this.renderQuestion();
-    if (this.currentMode === 'viva' || this.autoViva) {
+    if (this.currentMode === 'viva' && this.autoViva) {
       setTimeout(() => this.speakCurrentQuestion(), 300);
     }
   }

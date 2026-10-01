@@ -340,7 +340,7 @@ body.academic-theme {
 .filter-controls {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
 }
 
 .search-box {
@@ -368,17 +368,61 @@ body.academic-theme {
   width: 100%;
 }
 
+.select-box {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.select-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.select-label i {
+  color: var(--color-primary);
+  font-size: 0.75rem;
+}
+
 .select-box select {
   width: 100%;
   background: var(--bg-subtle);
   border: 1px solid var(--border-light);
   border-radius: var(--radius-md);
-  padding: 8px 12px;
+  padding: 8px 10px;
   font-family: inherit;
-  font-size: 0.85rem;
-  color: var(--text-body);
+  font-size: 0.83rem;
+  font-weight: 500;
+  color: var(--text-main);
   outline: none;
   cursor: pointer;
+  transition: var(--transition-normal);
+}
+
+.select-box select:hover {
+  background: #ffffff;
+  border-color: var(--border-medium);
+}
+
+.select-box select:focus {
+  background: #ffffff;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(30, 58, 138, 0.08);
+}
+
+.q-item-subject-tag {
+  background: rgba(30, 58, 138, 0.08);
+  color: var(--color-primary);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 0.7rem;
 }
 
 /* Question List Items */

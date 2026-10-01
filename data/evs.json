@@ -2,7 +2,7 @@
   {
     "id": 1,
     "subject": "EVS",
-    "topic": "Plant Biology",
+    "topic": "Living World & Plant Biology",
     "question": "This part of the plant fixes it to the ground / మొక్కలోని ఈ భాగం దానిని నేలలో స్థిరపరచును:",
     "options": [
       "Stem (కాండం)",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "subject": "EVS",
-    "topic": "Plant Biology",
+    "topic": "Living World & Plant Biology",
     "question": "This part of the plant absorbs water and minerals from soil / నేల నుండి నీటిని మరియు లవణాలను శోషించే మొక్కలోని భాగం:",
     "options": [
       "Stem (కాండం)",
@@ -30,7 +30,7 @@
   {
     "id": 8,
     "subject": "EVS",
-    "topic": "Plant Biology",
+    "topic": "Living World & Plant Biology",
     "question": "This part of the plant is called as food factory / మొక్కలలో ఆహార కర్మాగారంగా పిలువబడే భాగం:",
     "options": [
       "Stem (కాండం)",
@@ -44,7 +44,7 @@
   {
     "id": 20,
     "subject": "EVS",
-    "topic": "Animal Adaptations",
+    "topic": "Animal Kingdom & Habitats",
     "question": "This organism has a boat-shaped body, fins, tail and gills to live in water / నీటిలో నివసించుటకు పడవ వంటి శరీరాకారం, వాజాలు, తోక మరియు మొప్పలు కలిగిన జీవి:",
     "options": [
       "Salamander (సాలమాండర్)",
@@ -100,7 +100,7 @@
   {
     "id": 44,
     "subject": "EVS",
-    "topic": "Cell Biology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "The term 'cell' was coined by / 'కణం' పేరును ప్రతిపాదించినవారు:",
     "options": [
       "Robert Brown (రాబర్ట్ బ్రౌన్)",
@@ -114,7 +114,7 @@
   {
     "id": 47,
     "subject": "EVS",
-    "topic": "Cell Biology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "The largest cell is / అతిపెద్ద కణం:",
     "options": [
       "Bacteria (బ్యాక్టీరియా)",
@@ -128,7 +128,7 @@
   {
     "id": 49,
     "subject": "EVS",
-    "topic": "Cell Biology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "The most important and controlling component of a living cell is / జీవ కణంలోని అతి ముఖ్యమైన మరియు నియంత్రణ భాగము:",
     "options": [
       "Cytoplasm (కణద్రవ్యం)",
@@ -142,7 +142,7 @@
   {
     "id": 52,
     "subject": "EVS",
-    "topic": "Cell Biology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "The cell organelle that is absent in animal cells / జంతు కణంలో ఉండని కణాంగము:",
     "options": [
       "Cell membrane (కణత్వచం)",
@@ -184,7 +184,7 @@
   {
     "id": 74,
     "subject": "EVS",
-    "topic": "Human Physiology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "The longest part in the human digestive system is / మానవ జీర్ణవ్యవస్థలోని అత్యంత పొడవైన భాగం:",
     "options": [
       "Large intestine (పెద్ద ప్రేగు)",
@@ -198,7 +198,7 @@
   {
     "id": 85,
     "subject": "EVS",
-    "topic": "Human Physiology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "The two upper chambers of heart are called / గుండె లోని పై రెండు గదులను ఇలా పిలుస్తారు:",
     "options": [
       "Atria (కర్ణికలు)",
@@ -296,7 +296,7 @@
   {
     "id": 364,
     "subject": "EVS",
-    "topic": "Indian History",
+    "topic": "Indian History, Culture & Freedom Movement",
     "question": "In this year Vasco da Gama discovered the sea route to India / వాస్కోడిగామా భారతదేశానికి సముద్ర మార్గాన్ని కనిపెట్టిన సంవత్సరం:",
     "options": [
       "1498",
@@ -352,7 +352,7 @@
   {
     "id": 419,
     "subject": "EVS",
-    "topic": "Indian Constitution",
+    "topic": "Governance, Society & Constitution",
     "question": "This article of the Constitution states that untouchability has been abolished / రాజ్యాంగంలోని ఈ అధికరణం అంటరానితనాన్ని నిషేధిస్తుంది:",
     "options": [
       "Article 15",
@@ -380,7 +380,7 @@
   {
     "id": 4,
     "subject": "EVS",
-    "topic": "Plant Forms",
+    "topic": "Living World & Plant Biology",
     "question": "Identify the tree among the following / క్రింది వానిలో చెట్టును గుర్తించండి:",
     "options": [
       "Rose (గులాబీ)",
@@ -394,7 +394,7 @@
   {
     "id": 5,
     "subject": "EVS",
-    "topic": "Plant Forms",
+    "topic": "Living World & Plant Biology",
     "question": "Identify the shrub among the following / క్రింది వానిలో పొదను గుర్తించండి:",
     "options": [
       "Banyan (మర్రి)",
@@ -408,7 +408,7 @@
   {
     "id": 6,
     "subject": "EVS",
-    "topic": "Plant Forms",
+    "topic": "Living World & Plant Biology",
     "question": "Identify the creeper among the following / క్రింది వానిలో పాకే మొక్కను గుర్తించండి:",
     "options": [
       "Pumpkin (గుమ్మడి)",
@@ -422,7 +422,7 @@
   {
     "id": 22,
     "subject": "EVS",
-    "topic": "Agriculture & Crops",
+    "topic": "Living World & Plant Biology",
     "question": "Jaggery and sugar are produced from this plant / బెల్లం మరియు పంచదారను ఈ మొక్క నుండి ఉత్పత్తి చేస్తారు:",
     "options": [
       "Beetroot",
@@ -436,7 +436,7 @@
   {
     "id": 23,
     "subject": "EVS",
-    "topic": "Plant Anatomy",
+    "topic": "Living World & Plant Biology",
     "question": "The edible part of potato is / బంగాళాదుంప నందు తినదగిన భాగం:",
     "options": [
       "Stem (కాండం)",
@@ -450,7 +450,7 @@
   {
     "id": 24,
     "subject": "EVS",
-    "topic": "Plant Anatomy",
+    "topic": "Living World & Plant Biology",
     "question": "The edible part of Radish is / ముల్లంగి నందు తినదగిన భాగం:",
     "options": [
       "Stem (కాండం)",
@@ -478,7 +478,7 @@
   {
     "id": 68,
     "subject": "EVS",
-    "topic": "Plant Biology",
+    "topic": "Living World & Plant Biology",
     "question": "Green plants prepare their food by the process called / ఆకుపచ్చని మొక్కలు ఆహారాన్ని తయారుచేసుకునే ప్రక్రియ:",
     "options": [
       "Transpiration (బాష్పోత్సేకం)",
@@ -492,7 +492,7 @@
   {
     "id": 69,
     "subject": "EVS",
-    "topic": "Plant Biology",
+    "topic": "Living World & Plant Biology",
     "question": "The gas released by green plants during photosynthesis / ఆకుపచ్చని మొక్కలు కిరణజన్య సంయోగక్రియలో విడుదలచేయు వాయువు:",
     "options": [
       "Carbon dioxide",
@@ -506,7 +506,7 @@
   {
     "id": 73,
     "subject": "EVS",
-    "topic": "Agriculture & Bacteria",
+    "topic": "Living World & Plant Biology",
     "question": "Nitrogen-fixing bacteria in legume root nodules is / పప్పుజాతి మొక్కలలో నత్రజని స్థాపించే బ్యాక్టీరియా:",
     "options": [
       "Lactobacillus",
@@ -520,7 +520,7 @@
   {
     "id": 77,
     "subject": "EVS",
-    "topic": "Human Physiology",
+    "topic": "Human Body, Health & Nutrition",
     "question": "Bile juice is secreted by / పైత్యరసంను స్రవించేది:",
     "options": [
       "Pancreas (క్లోమం)",
@@ -534,7 +534,7 @@
   {
     "id": 92,
     "subject": "EVS",
-    "topic": "Circulatory System",
+    "topic": "Human Body, Health & Nutrition",
     "question": "Haemoglobin is present in / హిమోగ్లోబిన్ ను కలిగి ఉండునవి:",
     "options": [
       "Red blood Cells (RBC)",
@@ -576,7 +576,7 @@
   {
     "id": 127,
     "subject": "EVS",
-    "topic": "Optics",
+    "topic": "Physical Sciences - Matter & Energy",
     "question": "Opaque material among the following is / కింది వాటిలో అపారదర్శక పదార్థం:",
     "options": [
       "Glass (గాజు)",
@@ -590,7 +590,7 @@
   {
     "id": 128,
     "subject": "EVS",
-    "topic": "Optics",
+    "topic": "Physical Sciences - Matter & Energy",
     "question": "The materials through which objects can be seen, but not clearly are known as / వస్తువును చూడగలం కానీ స్పష్టంగా చూడలేమో ఆ పదార్థాలను ఇలా పిలుస్తారు:",
     "options": [
       "Transparent",
@@ -604,7 +604,7 @@
   {
     "id": 136,
     "subject": "EVS",
-    "topic": "Chemistry",
+    "topic": "Physical Sciences - Matter & Energy",
     "question": "Acids are present in this taste / ఆమ్లాలు ఈ రుచిలో ఉంటాయి:",
     "options": [
       "Bitter (చేదు)",
@@ -618,7 +618,7 @@
   {
     "id": 137,
     "subject": "EVS",
-    "topic": "Chemistry",
+    "topic": "Physical Sciences - Matter & Energy",
     "question": "The compound that turns red litmus paper into blue is / ఎరుపు లిట్మస్ ను నీలి రంగులోకి మార్చే పదార్థం:",
     "options": [
       "Acid (ఆమ్లం)",
@@ -660,7 +660,7 @@
   {
     "id": 9,
     "subject": "EVS",
-    "topic": "Plant Biology",
+    "topic": "Living World & Plant Biology",
     "question": "The leaves of this plant look like our open palm / ఈ మొక్క యొక్క పత్రాలు మన హస్తాకారంలో కనిపిస్తాయి:",
     "options": [
       "Banana (అరటి)",
@@ -674,7 +674,7 @@
   {
     "id": 14,
     "subject": "EVS",
-    "topic": "Food Habits",
+    "topic": "Human Body, Health & Nutrition",
     "question": "Identify the Herbivore among the following / క్రింది వానిలో శాఖాహారిని గుర్తించండి:",
     "options": [
       "Wolf (తోడేలు)",
@@ -688,7 +688,7 @@
   {
     "id": 16,
     "subject": "EVS",
-    "topic": "Food Habits",
+    "topic": "Human Body, Health & Nutrition",
     "question": "Identify the Omnivore among the following / క్రింది వానిలో ఉభయాహారిని గుర్తించండి:",
     "options": [
       "Hen (కోడి)",
@@ -716,7 +716,7 @@
   {
     "id": 41,
     "subject": "EVS",
-    "topic": "Birds",
+    "topic": "Animal Kingdom & Habitats",
     "question": "This bird makes big holes in the trunk of trees / ఈ పక్షి చెట్ల కాండానికి పెద్ద తొర్రలు చేయును:",
     "options": [
       "Sparrow (పిచ్చుక)",
@@ -730,7 +730,7 @@
   {
     "id": 65,
     "subject": "EVS",
-    "topic": "Ecology",
+    "topic": "Our Environment & Ecology",
     "question": "The organisms that prepare their own food are / తమ ఆహారాన్ని తామే తయారు చేసుకొనే జీవులు:",
     "options": [
       "Heterotrophs (పర పోషకాలు)",
@@ -786,7 +786,7 @@
   {
     "id": 91,
     "subject": "EVS",
-    "topic": "Circulatory System",
+    "topic": "Human Body, Health & Nutrition",
     "question": "Blood vessels that transport oxygenated blood away from the heart to all body parts are:",
     "options": [
       "Arteries (ధమనులు)",
@@ -856,7 +856,7 @@
   {
     "id": 338,
     "subject": "EVS",
-    "topic": "Indian History",
+    "topic": "Indian History, Culture & Freedom Movement",
     "question": "The last sultan of the Delhi Sultanate was / ఢిల్లీ సుల్తానులలో చివరి పాలకుడు ఎవరు?",
     "options": [
       "Iltutmish",
@@ -908,5 +908,2147 @@
     ],
     "answer": 3,
     "explanation": "Lumbini, the sacred birthplace of Gautama Buddha, is located in modern-day Nepal."
+  },
+  {
+    "id": 29,
+    "subject": "EVS",
+    "topic": "Agriculture",
+    "question": "This type of irrigation is most suitable for paddy crops / వరి పంటకు అత్యంత సరైన నీటి పారుదల విధానం:",
+    "options": [
+      "Sprinkler (స్ప్రింక్లర్)",
+      "Field irrigation (క్షేత్ర నీటి పారుదల)",
+      "Furrow irrigation (చాళ్ళ నీటి పారుదల)",
+      "Drip irrigation (బిందు సేద్యం)"
+    ],
+    "answer": 2,
+    "explanation": "Paddy fields require standing flooded water, so field (flood) irrigation is standard."
+  },
+  {
+    "id": 30,
+    "subject": "EVS",
+    "topic": "Agriculture",
+    "question": "This irrigation method is suitable for row crops like mirchi and cotton / మిరప మరియు ప్రత్తి పంటలకు సరైన నీటి పారుదల విధానం:",
+    "options": [
+      "Furrow irrigation (చాళ్ళ నీటి పారుదల)",
+      "Field irrigation",
+      "Sprinkler",
+      "Basin irrigation"
+    ],
+    "answer": 1,
+    "explanation": "Furrow irrigation delivers water in small parallel channels suitable for row crops."
+  },
+  {
+    "id": 31,
+    "subject": "EVS",
+    "topic": "Agricultural Tools",
+    "question": "The modern mechanical tool used in agriculture among the following is / వ్యవసాయంలో ఉపయోగించే ఆధునిక పనిముట్టు:",
+    "options": [
+      "Grape hoe (గడ్డపార)",
+      "Paddy transplanter (వరినాట్ల యంత్రం)",
+      "Rake (విత్తనాల గొర్రు)",
+      "Sickle (కొడవలి)"
+    ],
+    "answer": 2,
+    "explanation": "Paddy transplanter is a motorized modern machine that transplants seedlings automatically."
+  },
+  {
+    "id": 32,
+    "subject": "EVS",
+    "topic": "Irrigation",
+    "question": "In this method of irrigation, water is supplied in controlled spray form like rain / వర్షం వలె నీటిని చల్లే నీటి పారుదల విధానం:",
+    "options": [
+      "Field irrigation",
+      "Furrow irrigation",
+      "Sprinkler (స్ప్రింక్లర్)",
+      "Drip irrigation"
+    ],
+    "answer": 3,
+    "explanation": "Sprinkler systems distribute water pressurized through overhead nozzles simulating rainfall."
+  },
+  {
+    "id": 38,
+    "subject": "EVS",
+    "topic": "Shelter & Transport",
+    "question": "This house is known as a house on wheels / చక్రాలతో నిర్మించే సంచార గృహం:",
+    "options": [
+      "Caravan (కారవాన్)",
+      "Pucca house (పక్కా ఇల్లు)",
+      "Kutcha house (కచ్చా ఇల్లు)",
+      "Tent house (గుడారం)"
+    ],
+    "answer": 1,
+    "explanation": "A caravan is a vehicular mobile house fitted with living amenities on wheels."
+  },
+  {
+    "id": 40,
+    "subject": "EVS",
+    "topic": "Shelter",
+    "question": "A house made traditionally with mud and straw is called a / మట్టి మరియు గడ్డితో నిర్మించే ఇల్లు:",
+    "options": [
+      "Kutcha house (కచ్చా ఇల్లు)",
+      "Pucca house (పక్కా ఇల్లు)",
+      "Tent house (గుడారం)",
+      "Caravan (కారవాన్)"
+    ],
+    "answer": 1,
+    "explanation": "Temporary rural dwellings constructed of unbaked mud and thatch/straw are Kutcha houses."
+  },
+  {
+    "id": 42,
+    "subject": "EVS",
+    "topic": "Bird Habitats",
+    "question": "This bird intricately weaves its nest with grass and straws / గడ్డి మరియు పీచుతో గూడును అందంగా అల్లే పక్షి:",
+    "options": [
+      "Sparrow (పిచ్చుక)",
+      "Woodpecker (వడ్రంగి పిట్ట)",
+      "Weaver bird (గిజిగాడు)",
+      "Crow (కాకి)"
+    ],
+    "answer": 3,
+    "explanation": "The male Baya Weaver bird constructs hanging, retort-shaped woven grass nests."
+  },
+  {
+    "id": 46,
+    "subject": "EVS",
+    "topic": "Microbiology",
+    "question": "Which of the following is NOT a unicellular organism? / క్రింది వానిలో ఏకకణ జీవి కానిది ఏది?",
+    "options": [
+      "Amoeba (అమీబా)",
+      "Paramecium (పారామీషియం)",
+      "Mushroom (పుట్టగొడుగు)",
+      "Euglena (యూగ్లీనా)"
+    ],
+    "answer": 3,
+    "explanation": "Mushroom is a multicellular macro-fungus with complex fruiting hyphae."
+  },
+  {
+    "id": 48,
+    "subject": "EVS",
+    "topic": "Human Body, Health & Nutrition",
+    "question": "This is a long, branched cell specialized to transmit electrical impulses / ప్రచోదనాలను మోసుకెళ్లే పొడవైన శాఖాయుత కణం:",
+    "options": [
+      "Muscle cell (కండర కణం)",
+      "Nerve cell / Neuron (నాడీకణం)",
+      "Bone cell (ఎముక కణం)",
+      "Blood cell (రక్త కణం)"
+    ],
+    "answer": 2,
+    "explanation": "Neurons (nerve cells) possess long axons and dendrites to transmit nerve impulses."
+  },
+  {
+    "id": 50,
+    "subject": "EVS",
+    "topic": "Human Body, Health & Nutrition",
+    "question": "A rigid cell wall is present in which of the following cells?",
+    "options": [
+      "RBC (ఎర్ర రక్త కణం)",
+      "Egg cell (అండ కణం)",
+      "Onion peel cell (ఉల్లిపొర కణం)",
+      "Muscle cell (కండర కణం)"
+    ],
+    "answer": 3,
+    "explanation": "Plant cells (like onion epidermal cells) have a cellulose cell wall; animal cells lack cell walls."
+  },
+  {
+    "id": 54,
+    "subject": "EVS",
+    "topic": "Diseases",
+    "question": "Influenza (Flu) is caused by / ఇన్ఫ్లుయెంజా దేని వలన కలుగుతుంది?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Protozoa",
+      "Virus (వైరస్)"
+    ],
+    "answer": 4,
+    "explanation": "Influenza is an infectious respiratory illness caused by influenza viruses."
+  },
+  {
+    "id": 55,
+    "subject": "EVS",
+    "topic": "Diseases",
+    "question": "Amoebic Dysentery is caused by / డీసెంట్రీని కలుగజేయు సూక్ష్మజీవి:",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Protozoa (ప్రోటోజోవా)",
+      "Virus"
+    ],
+    "answer": 3,
+    "explanation": "Amoebic dysentery is caused by the parasitic protozoan Entamoeba histolytica."
+  },
+  {
+    "id": 59,
+    "subject": "EVS",
+    "topic": "Beneficial Microbes",
+    "question": "Lactobacillus bacteria plays an active role in / లాక్టోబాసిల్లస్ బ్యాక్టీరియా ఇందులో కీలక పాత్ర పోషిస్తుంది:",
+    "options": [
+      "Nitrogen fixation",
+      "Making of bread",
+      "Making of curd (పెరుగు తయారీ)",
+      "Making of alcohol"
+    ],
+    "answer": 3,
+    "explanation": "Lactobacillus ferments lactose in milk into lactic acid, turning milk into curd."
+  },
+  {
+    "id": 60,
+    "subject": "EVS",
+    "topic": "Chemistry in Daily Life",
+    "question": "The biochemical process of conversion of sugar into alcohol by yeast is called:",
+    "options": [
+      "Pasteurization",
+      "Fermentation (కిణ్వనం)",
+      "Emulsification",
+      "Preservation"
+    ],
+    "answer": 2,
+    "explanation": "Louis Pasteur discovered that yeasts convert sugars into alcohol anaerobically via Fermentation."
+  },
+  {
+    "id": 71,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Chlorophyll pigment is absent in which of the following / పత్రహరితం దీనిలో ఉండదు:",
+    "options": [
+      "Algae (శైవలాలు)",
+      "Pitcher plant (పిట్చర్ ప్లాంట్)",
+      "Fungi (శిలీంధ్రాలు)",
+      "Money plant (మనీప్లాంట్)"
+    ],
+    "answer": 3,
+    "explanation": "Fungi are non-photosynthetic heterotrophic organisms lacking chlorophyll."
+  },
+  {
+    "id": 76,
+    "subject": "EVS",
+    "topic": "Human Anatomy",
+    "question": "In humans, the sharp, pointed teeth used for piercing and tearing flesh are:",
+    "options": [
+      "Incisors (కుంతకాలు)",
+      "Canines (రదనికలు)",
+      "Premolars",
+      "Molars"
+    ],
+    "answer": 2,
+    "explanation": "Canines are pointed cuspids adapted for tearing food."
+  },
+  {
+    "id": 106,
+    "subject": "EVS",
+    "topic": "Plant Reproduction",
+    "question": "The male reproductive part in a flower is / పుష్పంలోని పురుష ప్రత్యుత్పత్తి భాగం:",
+    "options": [
+      "Pistil / Carpel (అండకోశం)",
+      "Stamen (కేసరం)",
+      "Petals (ఆకర్షక పత్రాలు)",
+      "Sepals (రక్షక పత్రాలు)"
+    ],
+    "answer": 2,
+    "explanation": "The stamen consists of the filament and pollen-bearing anther (male organ)."
+  },
+  {
+    "id": 108,
+    "subject": "EVS",
+    "topic": "Vegetative Propagation",
+    "question": "A plant that reproduces vegetatively through adventitious buds on its leaves is:",
+    "options": [
+      "Bryophyllum (రణపాల)",
+      "Ginger (అల్లం)",
+      "Rose (గులాబీ)",
+      "Neem (వేప)"
+    ],
+    "answer": 1,
+    "explanation": "Bryophyllum develops plantlets along the crenate margins of its leaves."
+  },
+  {
+    "id": 113,
+    "subject": "EVS",
+    "topic": "Endocrine System",
+    "question": "The primary endocrine and reproductive gland present only in males is:",
+    "options": [
+      "Ovary (స్త్రీబీజకోశం)",
+      "Testis (ముష్కం)",
+      "Thyroid gland",
+      "Pituitary gland"
+    ],
+    "answer": 2,
+    "explanation": "Testes produce testosterone and sperm in males."
+  },
+  {
+    "id": 116,
+    "subject": "EVS",
+    "topic": "Genetics",
+    "question": "The sex chromosome pair present in human biological males is:",
+    "options": [
+      "X and Y",
+      "X and X",
+      "Y and Y",
+      "X only"
+    ],
+    "answer": 1,
+    "explanation": "Human males have one X and one Y chromosome (XY); females have XX."
+  },
+  {
+    "id": 201,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The tiny pores on the surface of plant leaves responsible for transpiration and gas exchange are called:",
+    "options": [
+      "Chloroplasts",
+      "Stomata (పత్రరంధ్రాలు)",
+      "Xylem",
+      "Phloem"
+    ],
+    "answer": 2,
+    "explanation": "Stomata are specialized microscopic pores bounded by guard cells that regulate gas exchange and transpiration."
+  },
+  {
+    "id": 202,
+    "subject": "EVS",
+    "topic": "Animal Kingdom & Habitats",
+    "question": "Animals that sleep through extreme cold winter months in a state of dormant metabolic activity are undergoing:",
+    "options": [
+      "Aestivation",
+      "Hibernation (శీతాకాల సుప్తావస్థ)",
+      "Metamorphosis",
+      "Echolocation"
+    ],
+    "answer": 2,
+    "explanation": "Hibernation is winter dormancy, whereas aestivation is summer dormancy during extreme heat."
+  },
+  {
+    "id": 203,
+    "subject": "EVS",
+    "topic": "Human Body, Health & Nutrition",
+    "question": "Which vitamin deficiency causes Scurvy, characterized by bleeding gums and delayed wound healing?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C (ఆస్కార్బిక్ ఆమ్లం)",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "Vitamin C (Ascorbic acid) deficiency leads to Scurvy."
+  },
+  {
+    "id": 204,
+    "subject": "EVS",
+    "topic": "Human Body, Health & Nutrition",
+    "question": "The Universal Donor blood group in the ABO blood group system is:",
+    "options": [
+      "Blood Group AB+",
+      "Blood Group A+",
+      "Blood Group O- (లేదా O నెగెటివ్)",
+      "Blood Group B-"
+    ],
+    "answer": 3,
+    "explanation": "O negative blood lacks A, B, and Rh antigens, making it the true universal donor."
+  },
+  {
+    "id": 205,
+    "subject": "EVS",
+    "topic": "Natural Resources, Water & Air",
+    "question": "The percentage of nitrogen gas present in Earth’s atmosphere by volume is approximately:",
+    "options": [
+      "21%",
+      "78%",
+      "0.04%",
+      "0.93%"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen makes up ~78% of Earth's atmosphere, followed by oxygen at ~21%."
+  },
+  {
+    "id": 207,
+    "subject": "EVS",
+    "topic": "Our Environment & Ecology",
+    "question": "The 'Chipko Movement' (చిప్కో ఉద్యమం) aimed at forest conservation in Uttarakhand was led by:",
+    "options": [
+      "Medha Patkar",
+      "Sunderlal Bahuguna (సుందర్ లాల్ బహుగుణ)",
+      "Baba Amte",
+      "Rajendra Singh"
+    ],
+    "answer": 2,
+    "explanation": "Sunderlal Bahuguna championed the Chipko Movement where villagers hugged trees to prevent commercial deforestation."
+  },
+  {
+    "id": 208,
+    "subject": "EVS",
+    "topic": "Physical Sciences - Matter & Energy",
+    "question": "Which form of renewable energy harnesses heat trapped within the interior of the Earth?",
+    "options": [
+      "Biomass Energy",
+      "Geothermal Energy (భూఉష్ణ శక్తి)",
+      "Tidal Energy",
+      "Hydel Energy"
+    ],
+    "answer": 2,
+    "explanation": "Geothermal energy harnesses subterranean volcanic and tectonic thermal energy."
+  },
+  {
+    "id": 209,
+    "subject": "EVS",
+    "topic": "Indian History, Culture & Freedom Movement",
+    "question": "The historic Dandi Salt March was launched by Mahatma Gandhi in the year:",
+    "options": [
+      "1920",
+      "1930",
+      "1942",
+      "1919"
+    ],
+    "answer": 2,
+    "explanation": "Gandhiji marched from Sabarmati to Dandi from March 12 to April 6, 1930."
+  },
+  {
+    "id": 210,
+    "subject": "EVS",
+    "topic": "Governance, Society & Constitution",
+    "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar (డా. బి.ఆర్. అంబేద్కర్)",
+      "Pandit Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "answer": 2,
+    "explanation": "Dr. Bhimrao Ramji Ambedkar chaired the Drafting Committee of the Constitution of India."
+  },
+  {
+    "id": 211,
+    "subject": "EVS",
+    "topic": "EVS Pedagogy & Teaching Methods",
+    "question": "Which pedagogical approach is most recommended by NCF 2005 for primary environmental studies?",
+    "options": [
+      "Rote Memorization",
+      "Integrated Activity-based & Hands-on Learning (కృత్య ఆధారిత అభ్యసనం)",
+      "Textbook lecture method",
+      "Strict written tests"
+    ],
+    "answer": 2,
+    "explanation": "NCF 2005 advocates integrated thematic and hands-on experiential learning for EVS."
+  },
+  {
+    "id": 301,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This part of the plant fixes it to the ground మొక్కలోని ఈ భాగం దానిని నేలలో స్థిరపరచును",
+    "options": [
+      "Stem కండం",
+      "Leaf పత్రం",
+      "Root వేరు",
+      "Fruit ఫలం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Root వేరు'."
+  },
+  {
+    "id": 302,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This part of the plant absorbs water and minerals from soil నేల నుండి నీటిని మరియు లవణాలను శోషంచే మొక్కలోని భాగం",
+    "options": [
+      "Stem కండం",
+      "Root వేరు",
+      "Leaf పత్రం",
+      "Flower పుష్పం"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Root వేరు'."
+  },
+  {
+    "id": 303,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This part of plant carries water and nutrients to all parts from root వేరల నుండి నీటిని మరియు లవణాలను మొక్కలోని అనిి భాగాలకు చేరవేయు భాగం",
+    "options": [
+      "Stem కండం",
+      "Leaf పత్రం",
+      "Fruit ఫలం",
+      "Flower పుష్పం"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Stem కండం'."
+  },
+  {
+    "id": 304,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the tree among the following క్రంది వానిలో చెట్టును గురితంచండి",
+    "options": [
+      "Rose గులాబీ",
+      "Hibiscus మందార",
+      "Tulsi తులస్థ",
+      "Tamarind చంత"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Tamarind చంత'."
+  },
+  {
+    "id": 305,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the shrub among the following క్రంది వానిలో పొదను గురితంచండి",
+    "options": [
+      "Banyan మర్రి",
+      "Hibiscus మందార",
+      "Wheat గోధుమ",
+      "Bitter guard కక్ర"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Hibiscus మందార'."
+  },
+  {
+    "id": 306,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the creeper among the following క్రంది వానిలో పాకే మొక్కను ను గురితంచండి",
+    "options": [
+      "Pumpkin గుమమడి",
+      "Grape ద్రాక్ష",
+      "Tulsi తులస్థ",
+      "Rose గులాబీ"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Pumpkin గుమమడి'."
+  },
+  {
+    "id": 307,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the herb among the following క్రంది వానిలో గులామనిి గురితంచండి",
+    "options": [
+      "Hibiscus మందార",
+      "Rose గులాబీ",
+      "Tulsi తులస్థ",
+      "Watermelon పుచచ"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Tulsi తులస్థ'."
+  },
+  {
+    "id": 308,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This part of the plant is called as food factory మొక్కలలో ఆహార క్ర్మమగారంగా పిలువబడే భాగం",
+    "options": [
+      "Stem కండం",
+      "Leaf పత్రం",
+      "Root వేరు",
+      "Fruit ఫలం"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Leaf పత్రం'."
+  },
+  {
+    "id": 309,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The leaves of this plant are looking like as our palm ఈమొక్క యొక్క పత్రాలు మన హస్తతకరంలో క్నిపిస్తతయి",
+    "options": [
+      "Banana అరటి",
+      "Hibiscus మందార",
+      "Pudina పుదీనా",
+      "Papaya బొపాపయి"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Papaya బొపాపయి'."
+  },
+  {
+    "id": 310,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The leaves of this plant do not have a specific aroma ఈ మొక్క యొక్క పత్రాలు ప్రత్యేక్మైన వాసనను క్లిగిఉండవు",
+    "options": [
+      "Banana అరటి",
+      "Coriander కొత్తతమీర",
+      "Pudina పుదీనా",
+      "Tulsi తులస్థ"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Banana అరటి'."
+  },
+  {
+    "id": 311,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the domesticated animal among the following క్రంది వానిలో మచచక్ చేసుకుని జంతువును గురితంచండి",
+    "options": [
+      "Donkey గాడిద",
+      "Zebra జీబ్రా",
+      "Fox నక్క",
+      "Wolf తోడేలు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Donkey గాడిద'."
+  },
+  {
+    "id": 312,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This animal was reared by man for milk and meat పాలు మరియు మంసం కొరకు మనవుడు పంచుకునే జంతువు",
+    "options": [
+      "Zebra జీబ్రా",
+      "Horse గుర్రం",
+      "Goat మేక్",
+      "Giraffe జిర్మఫీ"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Goat మేక్'."
+  },
+  {
+    "id": 313,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This animal lives on land and in water also నేల మీద మరియు నీటిలోనూ జీవంచే జంతువు",
+    "options": [
+      "Fish చేప",
+      "Salamander స్తలమండర్",
+      "Rabbit కుందేలు",
+      "Grasshopper మిడుత"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Salamander స్తలమండర్'."
+  },
+  {
+    "id": 314,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the Herbivore among the following క్రంది వానిలో శాఖాహారిని గురితంచండి",
+    "options": [
+      "Wolf తోడేలు",
+      "Giraffe జిర్మఫీ",
+      "Rat ఎలుక్",
+      "Bear ఎలుగుబంటి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Giraffe జిర్మఫీ'."
+  },
+  {
+    "id": 315,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This not a Carnivore among the following క్రంది వానిలో మంస్తహారి కనిది",
+    "options": [
+      "Pig పంది",
+      "Lion స్థంహం",
+      "Shark సొరచేప",
+      "Fox నక్క"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Pig పంది'."
+  },
+  {
+    "id": 316,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the Omnivore among the following క్రంది వానిలో ఉభయాహారిని గురితంచండి",
+    "options": [
+      "Hen కోడి",
+      "Wolf తోడేలు",
+      "Zebra జీబ్రా",
+      "Giraffe జిర్మఫీ"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Hen కోడి'."
+  },
+  {
+    "id": 317,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not an example for Natural scavenger సహజ పారిశుద్య కరిమకులకు ఉదాహరణ కనిది",
+    "options": [
+      "Vulture ర్మబందు",
+      "Crow కకి",
+      "Fox నక్క",
+      "Bear ఎలుగుబంటి"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Bear ఎలుగుబంటి'."
+  },
+  {
+    "id": 318,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is an example for the Natural scavenger సహజ పారిశుద్య కరిమకునికి ఉదాహరణ",
+    "options": [
+      "Rat ఎలుక్",
+      "Hen కోడి",
+      "Crow కకి",
+      "Lion స్థంహం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Crow కకి'."
+  },
+  {
+    "id": 319,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The organism that feeds on nuts and seeds is గింజలు మరియు వతతనాలను ఆహారంగా తీసుకునే జీవ",
+    "options": [
+      "Squirrel ఉడుత",
+      "Shark సొర చేప",
+      "Snake పాము",
+      "Wolf తోడేలు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Squirrel ఉడుత'."
+  },
+  {
+    "id": 320,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This organism have boat shaped body, fins, tail and gills to live in water నీటిలో నివస్థంచుటకు పడవ వంటి శరీర్మకరం, వాజాలు, తోక్ మరియు మొపపలు క్లిగిన జీవ",
+    "options": [
+      "Salamander స్తలమండర్",
+      "Frog క్పప",
+      "Fish చేప",
+      "Hippo నీటి ఏనుగు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Fish చేప'."
+  },
+  {
+    "id": 321,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Identify the Carnivore among the following క్రంది వానిలో మంస్తహారిని గురితంచండి",
+    "options": [
+      "Crow కకి",
+      "Pig పంది",
+      "Giraffe జిర్మఫీ",
+      "Shark సొరచేప"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Shark సొరచేప'."
+  },
+  {
+    "id": 322,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Jaggery and sugar are produced from this plant బెలలం మరియు పంచదారను ఈ మొక్క నుండి ఉతపత్తత చేస్తతరు",
+    "options": [
+      "Beetroot బీట్ రూట్",
+      "Potato బంగాళాదుంప",
+      "Wheat గోధుమ",
+      "Sugarcane చెరకు"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Sugarcane చెరకు'."
+  },
+  {
+    "id": 323,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The edible part of potato is బంగాళాదుంప నందు త్తనదగిన భాగం",
+    "options": [
+      "Stem కండం",
+      "Root వేరు",
+      "Flower పుష్పం",
+      "Fruit ఫలం"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Stem కండం'."
+  },
+  {
+    "id": 324,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The edible part of Radish is ములలంగి నందు త్తనదగిన భాగం",
+    "options": [
+      "Stem కండం",
+      "Root వేరు",
+      "Flower పుష్పం",
+      "Fruit ఫలం"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Root వేరు'."
+  },
+  {
+    "id": 325,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Mushroom is a పుటుగొడుగు ఒక్",
+    "options": [
+      "Algae శైవలం",
+      "Flower పుష్పం",
+      "Fungi శిలంద్రం",
+      "Fruit ఫలం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Fungi శిలంద్రం'."
+  },
+  {
+    "id": 326,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Sunlight light is source of this Vitamin సూరేరశిమ వనరుగా ఉని వటమిన్",
+    "options": [
+      "A",
+      "B1",
+      "C",
+      "D"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'D'."
+  },
+  {
+    "id": 327,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This vitamin deficiency causes Scurvy ఈ వటమిన్ లోపం వలన సకరిి క్లుగుతుంది",
+    "options": [
+      "A",
+      "B1",
+      "C",
+      "D"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'C'."
+  },
+  {
+    "id": 328,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This mineral deficiency causes Goitre ఈ ఖనిజ లవణం లోపం వలన గాయిటర్ వాేధి క్లుగుతుంది",
+    "options": [
+      "Iodine అయోడిన్",
+      "Calcium కలిియం",
+      "Iron ఇనుము",
+      "Chlorine కోలరిన్"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Iodine అయోడిన్'."
+  },
+  {
+    "id": 329,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This type of irrigation is suitable for paddy crop వరి పంటకు సరైన నీటి పారుదల వధానం",
+    "options": [
+      "Sprinkler స్థపరంక్లర్",
+      "Field irrigation క్షేత్ర నీటి పారుదల",
+      "Furrow irrigation చాళ్ళు నీటి పారుదల",
+      "Drip irrigation బందు సేదేం"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Field irrigation క్షేత్ర నీటి పారుదల'."
+  },
+  {
+    "id": 330,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This irrigation method is suitable for the crops like mirchi and cotton మిరప మరియు ప్రత్త వంటి పంటలకు సరైన నీటి పారుదల వధానం",
+    "options": [
+      "Furrow irrigation చాళ్ళు నీటి పారుదల",
+      "Field irrigation క్షేత్ర నీటి పారుదల",
+      "Sprinkler స్థపరంక్లర్",
+      "Drip irrigation బందు సేదేం"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Furrow irrigation చాళ్ళు నీటి పారుదల'."
+  },
+  {
+    "id": 331,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The modern tool used in agriculture is వేవస్తయంలో ఉపయోగించే ఆధునిక్ పనిముట్టు",
+    "options": [
+      "Grape hoe గడడపార",
+      "Paddy transplanter వరినాటల యంత్రం",
+      "Rake వతతనాల గొర్రు",
+      "Sickle కొడవలి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Paddy transplanter వరినాటల యంత్రం'."
+  },
+  {
+    "id": 332,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "In this method of irrigation, the water is supplied in controlled form like rain is ఈ నీటి పారుదల వధానంలో నియంత్రిత మరగంలో వరిం వలె నీటిని చలులతారు",
+    "options": [
+      "Field irrigation క్షేత్ర నీటి పారుదల",
+      "Furrow irrigation చాళ్ళు నీటి పారుదల",
+      "Sprinkler స్థపరంక్లర్",
+      "Drip irrigation బందు సేదేం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Sprinkler స్థపరంక్లర్'."
+  },
+  {
+    "id": 333,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is a good indicator of environmental damage పర్మేవరణం దెబబత్తనడంను తెలియజేసే మంచ సూచక్",
+    "options": [
+      "Frog క్పప",
+      "Squirrel ఉడుత",
+      "Crow కకి",
+      "Fish చేప"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Frog క్పప'."
+  },
+  {
+    "id": 335,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not a reason for accidents ప్రమదాలకు కరణం కనిది",
+    "options": [
+      "Over speed మిత్తమీరిన వేగం",
+      "Careless driving అజాగ్రతతగా నడపడం",
+      "Drunk and driving మదేం సేవంచ వాహనం నడపడం",
+      "Stopping at signal స్థగిల్ దగగర ఆపడం"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Stopping at signal స్థగిల్ దగగర ఆపడం'."
+  },
+  {
+    "id": 336,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is the reason for accidents ప్రమదాలకు కరణమైనది",
+    "options": [
+      "Careful driving జాగ్రతతగా నడపడం",
+      "Triple riding on two wheeler దిిచక్ర వాహనంపై ఇదదరిక్ంటే ఎకుకవమంది ప్రయాణంచుట",
+      "Stopping at signals స్థగిల్ దగగర వాహనం ఆపడం",
+      "Not talking in mobile while driving వాహనం నడిపేటప్పుడు సెల్ ఫోన్ మట్లలడక్పోవుట"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Triple riding on two wheeler దిిచక్ర వాహనంపై ఇదదరిక్ంటే ఎకుకవమంది ప్రయాణంచుట'."
+  },
+  {
+    "id": 338,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This house is known as house on wheels ఈ రక్మైన ఇంటిని చక్రాలతో నిరిమస్తతరు",
+    "options": [
+      "Caravan కరవాన్",
+      "Pucca house పకకఇలుల",
+      "Kutcha house క్చాచఇలుల",
+      "Tent house గుడారం"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Caravan కరవాన్'."
+  },
+  {
+    "id": 339,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This house is made with bricks, sand and iron ఇట్టక్లు, ఇసుక్ మరియు ఇనుముతో నిరిమంచబడిన ఇలుల",
+    "options": [
+      "Caravan కరవాన్",
+      "Kutcha house క్చాచఇలుల",
+      "Pucca house పకకఇలుల",
+      "Tent house గుడారం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Pucca house పకకఇలుల'."
+  },
+  {
+    "id": 340,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This house is made with mud and straw మటిు మరియు గడిడతో నిరిమంచే ఇలుల",
+    "options": [
+      "Kutcha house క్చాచఇలుల",
+      "Pucca house పకకఇలుల",
+      "Tent house గుడారం",
+      "Caravan కరవాన్"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Kutcha house క్చాచఇలుల'."
+  },
+  {
+    "id": 341,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This bird makes big holes in the trunk of the trees ఈ పక్షి చెటల కండానికి పదద తొర్రలు చేయును",
+    "options": [
+      "Sparrow పిచుచక్",
+      "Weaver bird గిజిగాడు",
+      "Wood pecker వడ్రంగి పిటు",
+      "Crow కకి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Wood pecker వడ్రంగి పిటు'."
+  },
+  {
+    "id": 342,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This bird makes its nest with grass and straws గడిడ మరియు క్ర్రపులలలను ఉపయోగించ తన గూడును నిరిమంచే పక్షి",
+    "options": [
+      "Sparrow పిచుచక్",
+      "Wood pecker వడ్రంగి పిటు",
+      "Weaver bird గిజిగాడు",
+      "Crow కకి"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Weaver bird గిజిగాడు'."
+  },
+  {
+    "id": 344,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The term “cell” was coined by “క్ణం” పేరును ప్రత్తపాదించనవారు",
+    "options": [
+      "Robert Brown ర్మబర్ు బ్రౌన్",
+      "Robert Hooke ర్మబర్ు హుక్",
+      "Leuwenhoek లవెన్ హుక్",
+      "Louis Pasteur లూయిస్ పాశచర్"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Louis Pasteur లూయిస్ పాశచర్'."
+  },
+  {
+    "id": 345,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The basic structural units in living organisms are సజీవులలోని ప్రాధమిక్ నిర్మమణాతమక్ ప్రమణాలు",
+    "options": [
+      "Organs అవయవాలు",
+      "Tissues క్ణజాలాలు",
+      "Organ systems అవయవ వేవసిలు",
+      "Cells క్ణాలు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Organ systems అవయవ వేవసిలు'."
+  },
+  {
+    "id": 346,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not an unicellular organism ఇది ఏక్ క్ణ జీవ కదు",
+    "options": [
+      "Amoeba అమీబా",
+      "Paramecium పారమీషయం",
+      "Mushroom పుటుగొడుగు",
+      "Euglena యూగ్లలనా"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Mushroom పుటుగొడుగు'."
+  },
+  {
+    "id": 347,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The largest cell is అత్తపదద క్ణం",
+    "options": [
+      "Bacteria బాక్టురియా",
+      "WBC తెలల రక్త క్ణం",
+      "Ostrich egg ఉష్ణ పక్షి గుడుడ",
+      "Hen egg కోడి గుడుడ"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'WBC తెలల రక్త క్ణం'."
+  },
+  {
+    "id": 348,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is a long and branched cell to carry impulses ఇది ఒక్ పొడవైన, శాఖాయుతంగా ఉండి ప్రచోదనాలను తీసుకువెళ్ళు క్ణం",
+    "options": [
+      "Muscle cell క్ండర క్ణం",
+      "Nerve cell నాడీక్ణం",
+      "Bone cell ఎముక్ క్ణం",
+      "Blood cell రక్త క్ణం"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Blood cell రక్త క్ణం'."
+  },
+  {
+    "id": 349,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The most important and controlling component of a living cell is జీవ క్ణం లోని అత్త ముఖేమైన మరియు నియంత్రణ భాగము",
+    "options": [
+      "Cytoplasm క్ణద్రవేం",
+      "Cell membrane క్ణతిచం",
+      "Vacuole రికితక్",
+      "Nucleus కేంద్రక్ం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Vacuole రికితక్'."
+  },
+  {
+    "id": 350,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Cell wall is present in క్ణక్వచం క్లిగిన క్ణం",
+    "options": [
+      "RBC ఎర్ర రక్త క్ణం",
+      "Egg cell అండ క్ణం",
+      "Onin peel cell ఉలిలపొర క్ణం",
+      "Muscle cell క్ండర క్ణం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Onin peel cell ఉలిలపొర క్ణం'."
+  },
+  {
+    "id": 351,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "A group of similar cells performing a specific function are called ఒక్ నిరి్ష్ు మైన వధిని నిరిరితంచే ఒకే పోలిక్లు గల క్ణాల సమూహానిి ఇలా అంట్లరు",
+    "options": [
+      "Organ అవయవం",
+      "Organism జీవ",
+      "Tissue క్ణజాలం",
+      "Organ system ఆవయవ వేవసి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Organism జీవ'."
+  },
+  {
+    "id": 351,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Chromosomes are present in this cell organelle క్రోమోజోములు ఈ క్ణాంగంలో ఉంట్లయి",
+    "options": [
+      "Cytoplasm క్ణద్రవేం",
+      "Nucleus కేంద్రక్ం",
+      "Vacuoles రికితక్",
+      "Cell membrane క్ణ తిచం"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Nucleus కేంద్రక్ం'."
+  },
+  {
+    "id": 352,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The cell organelle that is absent in the animal cell జంతు క్ణంలో ఉండని క్ణాంగము",
+    "options": [
+      "Cell membrane క్ణతిచం",
+      "Mitochondria మైటోకండ్రియా",
+      "Nucleus కేంద్రక్ం",
+      "Plastids పాలస్థుడుల"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Plastids పాలస్థుడుల'."
+  },
+  {
+    "id": 353,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The microorganisms can be seen only through a సూక్ష్మజీవులను దీని దాిర్మ మత్రమే చూడగలము",
+    "options": [
+      "Telescope టెలిస్కకప్",
+      "Kaleidoscope కెలిడియోస్కకప్",
+      "Microscope సూక్ష్మదరశని",
+      "Periscope పరిస్కకప్"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Microscope సూక్ష్మదరశని'."
+  },
+  {
+    "id": 354,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Influenza is caused by ఇన్ ఫ్లలయోంజాను క్లుగ జేయునది",
+    "options": [
+      "Bacteria బాక్టురియా",
+      "Fungi శిలంద్రం",
+      "Protozoa ప్రోటోజోవా",
+      "Virus వైరస్"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Virus వైరస్'."
+  },
+  {
+    "id": 355,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Dysentery is caused by డీసెంట్రీని క్లుగ జేయునది",
+    "options": [
+      "Bacteria బాక్టురియా",
+      "Fungi శిలంద్రం",
+      "Protozoa ప్రొటోజొవా",
+      "Virus వైరస్"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Protozoa ప్రొటోజొవా'."
+  },
+  {
+    "id": 356,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Chlamydomonas and Spirogyra belongs to కలమిడోమోనాస్ మరియు సెపపరోగైర్మ దీనికి చెందుతాయి",
+    "options": [
+      "Algae శైవలాలు",
+      "Protozoa ప్రొటోజోవా",
+      "Fungi శిలంధ్రం",
+      "Bacteria బాక్టురియా"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Algae శైవలాలు'."
+  },
+  {
+    "id": 357,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Amoeba and Paramecium belongs to అమీబా మరియు పార్మమీషయం దీనికి చెందుతాయి",
+    "options": [
+      "Algae శైవలాలు",
+      "Protozoa ప్రొటోజోవా",
+      "Fungi శిలంధ్రం",
+      "Bacteria బాక్టురియా"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Protozoa ప్రొటోజోవా'."
+  },
+  {
+    "id": 358,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Penicillium and Aspergillus belongs to పనీీలియం మరియు ఆసపరిిలలస్ దీనికి చెందుతాయి",
+    "options": [
+      "Algae శైవలాలు",
+      "Protozoa ప్రొటోజోవా",
+      "Fungi శిలంధ్రం",
+      "Bacteria బాక్టురియా"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Fungi శిలంధ్రం'."
+  },
+  {
+    "id": 359,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Lactobacillus bacteria takes active role in దీనిలో లాకోుబాస్థలలస్ బాక్టురియా చురుకైన పాత్ర వహిసుతంది",
+    "options": [
+      "Nitrogen fixation నత్రజని స్తిపన",
+      "Making of bread బ్రెడ్ తయారీ",
+      "Making of curd పరుగు తయారీ",
+      "Making of alcohol ఆలకహాల్ తయారీ"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Making of curd పరుగు తయారీ'."
+  },
+  {
+    "id": 360,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The process of conversion of sugar into alcohol is called చకెకరను ఆలాకహాల్ గా మర్చచ ప్రక్రయ",
+    "options": [
+      "Pasteurization పాశచరైజేష్న్",
+      "Fermentation కిణినం",
+      "Emulsification ఎమలిీఫికేష్న్",
+      "Preservation ప్రిజర్చిష్న్"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Fermentation కిణినం'."
+  },
+  {
+    "id": 361,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Penicillin was firstly prepared by పనిీలిన్ ను మొదటిస్తరి తయారు చేస్థన వారు",
+    "options": [
+      "Ronald Ross రోనాల్డ ర్మస్",
+      "Louis Pasteur లూయిస్ పాశచర్",
+      "Alexander Flemming అలెగాిండర్ ఫ్లలమిమంగ్",
+      "Edward Jenner ఎడిర్డ జెనిర్"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Alexander Flemming అలెగాిండర్ ఫ్లలమిమంగ్'."
+  },
+  {
+    "id": 362,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Vaccine for small pox was discovered by మశూచవాేధికి టీకను క్నుగొనివారు",
+    "options": [
+      "Ronald Ross రోనాల్డ ర్మస్",
+      "Louis Pasteur లూయిస్ పాశచర్",
+      "Alexander Flemming అలెగాిండర్ ఫ్లలమిమంగ్",
+      "Edward Jenner ఎడిర్డ జెనిర్"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Edward Jenner ఎడిర్డ జెనిర్'."
+  },
+  {
+    "id": 363,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Female Anopheles mosquito is the carrier of ఆడ అనాఫిలిస్ దోమ దీనికి వాహక్ము",
+    "options": [
+      "Filaria బోదకలు",
+      "Malaria మలేరియా",
+      "Dengue డంగూే",
+      "Typhoid టైఫాయిడ్"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Malaria మలేరియా'."
+  },
+  {
+    "id": 364,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is a saprotroph ఇది ఒక్ పూత్తకహారి",
+    "options": [
+      "Cuscuta బంగారుతీగ",
+      "Mushroom పుటుగొడుగు",
+      "Hydrilla హైడ్రిలాల",
+      "spirogyra సెపపరోగైర్మ"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Mushroom పుటుగొడుగు'."
+  },
+  {
+    "id": 365,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The organism that prepare their own food are తమ ఆహార్మనిి తామే తయారు చేసుకొనే జీవులు",
+    "options": [
+      "Heterotrophs పర పోష్కలు",
+      "Saprotrophs పూత్తకహారులు",
+      "Parasites పర్మనిజీవులు",
+      "Autotrophs సియంపోష్కలు"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Autotrophs సియంపోష్కలు'."
+  },
+  {
+    "id": 366,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This plant depends completely on other plants for food ఈ మొక్క తన ఆహారం కొరకు ఇతర మెక్కల పై పూరితగా ఆధారపడుతుంది",
+    "options": [
+      "Croton క్రోట్లన్",
+      "Money plant మనీపాలంట్",
+      "Cuscuta బంగారుతీగ",
+      "Peepal ర్మవ చెట్టు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Cuscuta బంగారుతీగ'."
+  },
+  {
+    "id": 367,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is an insectivorous plant ఇది ఒక్ క్టటకహార మొక్క",
+    "options": [
+      "Dahlia డాలియా",
+      "Cuscuta బంగారుతీగ",
+      "Nepenthes నెపంథిస్",
+      "Neem వేప"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Nepenthes నెపంథిస్'."
+  },
+  {
+    "id": 368,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Green plant prepare their food by the process called ఆకుపచచని మొక్కలు తమ ఆహార్మనిి తయారుచేసుకునే ప్రక్రయ",
+    "options": [
+      "Transpiration భాష్పపత్యీక్ం",
+      "Absorption శోష్ణ",
+      "Photosynthesis కిరణజనే సంయోగక్రయ",
+      "Saprotroph పూత్తకహారం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Photosynthesis కిరణజనే సంయోగక్రయ'."
+  },
+  {
+    "id": 369,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The gas released by green plants during photosynthesis ఆకుపచచని మొక్కలు కిరణజనే సంయోగక్రయలో వడుదలచేయు వాయువు",
+    "options": [
+      "Carbon dioxide కరబన్ డై ఆకెపీడ్",
+      "Oxygen ఆకిీజన్",
+      "Nitrogen నత్రజని",
+      "Carbon monoxide కరబన్ మోనాకెపీడ్"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Oxygen ఆకిీజన్'."
+  },
+  {
+    "id": 370,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Guard cells are a part of రక్షక్క్ణాలు ఇందులో ఒక్ భాగం",
+    "options": [
+      "Stomata పత్రరంధ్రాలు",
+      "Sweat pores సేిద రంధ్రాలు",
+      "Egg shell గుడుడ పంకు",
+      "Root hairs మూలకేశాలు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Stomata పత్రరంధ్రాలు'."
+  },
+  {
+    "id": 371,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Chlorophyll is not present in పత్ర హరితం దీనిలో ఉండదు",
+    "options": [
+      "Algae శైవలాలు",
+      "Pitcher plant పిటచర్ పాలంట్",
+      "Fungi శిలంద్రాలు",
+      "Money plant మనీపాలంట్"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Fungi శిలంద్రాలు'."
+  },
+  {
+    "id": 372,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Symbiosis is seen in సహజీవనం చూపేవ",
+    "options": [
+      "Pitcher plant నెపంథిస్ మొక్క",
+      "Virus వైరస్",
+      "Cuscuta బంగారుతీగ",
+      "Lichens లైకెనుల"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Lichens లైకెనుల'."
+  },
+  {
+    "id": 373,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Nitrogen fixing bacteria in legume plants is పప్పుజాత్త మొక్కలలో నత్రజని స్తిపించే బాేక్టురియా",
+    "options": [
+      "Lactobacillus లాకోు బాస్థలలస్",
+      "Lichens లైకెనుల",
+      "Rhizobium రైజోబయం",
+      "Rhizopus రైజోపస్"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Rhizobium రైజోబయం'."
+  },
+  {
+    "id": 374,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The longest part in human digestive system is మనవ జీరణవేవసిలోని అతేంత పొడవైన భాగం",
+    "options": [
+      "Large intestine పదద ప్రేగు",
+      "Oesophagus ఆహారవాహిక్",
+      "Small intestine చని ప్రేగు",
+      "Buccal cavity ఆసే కుహరం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Small intestine చని ప్రేగు'."
+  },
+  {
+    "id": 375,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Salivary glands are present in లాలాజల గ్రంథులు ఉండేది",
+    "options": [
+      "Stomach జీర్మణశయం",
+      "Buccal cavity ఆసే కుహరం",
+      "Small intestine చని ప్రేగు",
+      "Large intestine పదద ప్రేగు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Buccal cavity ఆసే కుహరం'."
+  },
+  {
+    "id": 376,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "In human the teeth for piercing and tearing are మనవులలో గుచచచీలుచటకు గల దంతాలు",
+    "options": [
+      "Incisors కుంతకలు",
+      "Canines రదనిక్లు",
+      "Pre molars అగ్ర చరిణకలు",
+      "Molars చరిణకలు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Canines రదనిక్లు'."
+  },
+  {
+    "id": 377,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Bile juice is secreted by పైతేరసంను స్రవంచేది",
+    "options": [
+      "Pancreas కోలమం",
+      "Stomach జీర్మణశయం",
+      "Liver కలేయము",
+      "Intestinal glands ఆంత్రరస గ్రంధులు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Liver కలేయము'."
+  },
+  {
+    "id": 378,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The length of small intestine in Human is మనవునిలో చని పేగు యొక్క పొడవు",
+    "options": [
+      "8 meters",
+      "10 meters",
+      "2 meters",
+      "6 meters"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - '6 meters'."
+  },
+  {
+    "id": 379,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The part through which the food materials are passed from mouth to stomach is ఆహార పదార్మిలు నోటి నుండి జీర్మణశయంనకు దీని దాిర్మ చేరును",
+    "options": [
+      "Liver కలేయం",
+      "Oesophagus ఆహారవాహిక్",
+      "Small intestine చని ప్రేగు",
+      "Large intestine పదద ప్రేగు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Oesophagus ఆహారవాహిక్'."
+  },
+  {
+    "id": 380,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The chemicals that convert the complex food materials into simple materials సంకిలష్ు ఆహారపదార్మిలను సరళ ఆహారపదార్మిలు గా మర్చచ రస్తయన పదార్మిలు",
+    "options": [
+      "Hormones హారోమనుల",
+      "Enzymes ఎంజైముల",
+      "Roughages పీచు పదార్మిలు",
+      "Water నీరు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Enzymes ఎంజైముల'."
+  },
+  {
+    "id": 381,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The organism having pseudopodia is సూడోపోడియాలను క్లిగి ఉని జీవ",
+    "options": [
+      "Amoeba అమీబా",
+      "Paramecium పార్మమీషయం",
+      "Euglena యూగ్లలనా",
+      "Diatom డయాటమ్"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Amoeba అమీబా'."
+  },
+  {
+    "id": 382,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The teeth that are used for cutting and biting are క్త్తతరించడానికి మరియు కొరక్డానికి ఉపయోగపడే దంతాలు",
+    "options": [
+      "Canines రదనిక్లు",
+      "Premolars అగ్రచరిణకలు",
+      "Incisors కుంతకలు",
+      "Molars చరిణకలు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Incisors కుంతకలు'."
+  },
+  {
+    "id": 383,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "In green plants Chloroplasts are found in large numbers in this part ఆకుపచచని మొక్కలలో హరితర్చణువులు అతేధిక్ంగా లభంఛే భాగం",
+    "options": [
+      "Roots వేరుల",
+      "Fruits పండుల",
+      "Flowers పుష్పపలు",
+      "Leaves పత్రాలు"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Leaves పత్రాలు'."
+  },
+  {
+    "id": 384,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "In small intestine the absorption of digested food takes place through చని ప్రేగు లో జీరణమైన ఆహారంను శోషంచేవ",
+    "options": [
+      "Nephrons నెఫ్రానుల",
+      "Villi చూష్కలు",
+      "Neurons నూేర్మనుల",
+      "Pseudopodia మిదాేపాదాలు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Villi చూష్కలు'."
+  },
+  {
+    "id": 385,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The two upper chambers of heart are called గుండ లోని పై రండు గదులనుఇలా పిలుస్తతరు",
+    "options": [
+      "Atria క్రిణక్లు",
+      "Ventricles జఠరిక్లు",
+      "Arteries ధమనులు",
+      "Veins స్థరలు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Atria క్రిణక్లు'."
+  },
+  {
+    "id": 386,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This eliminates excess of water and salts from the body in the form of sweat ఇది శరీరం లోని అదనపు నీటిని, లవణాలను చెమట రూపం లో బయటకు వసరిిసుత౦ది",
+    "options": [
+      "Skin చరమ౦",
+      "Ear చెవ",
+      "Kidney మూత్రపిండాలు",
+      "Lungs ఊపిరిత్తతుతలు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Skin చరమ౦'."
+  },
+  {
+    "id": 387,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The largest and visible excretory organ in our body మన శరీరం లో పైకి క్నిపించే అత్తపదద వసరిక్ అవయవం",
+    "options": [
+      "Skin చరమ౦",
+      "Ear చెవ",
+      "Kidney మూత్రపిండాలు",
+      "Lungs ఊపిరిత్తతుతలు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Skin చరమ౦'."
+  },
+  {
+    "id": 388,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not an Excretory organ ఇది వసరిక్ అవయవం కదు",
+    "options": [
+      "Kidney మూత్రపిండాలు",
+      "Lungs ఊపిరిత్తతుతలు",
+      "Skin చరమ౦",
+      "Hairs వెంట్రుక్లు"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Hairs వెంట్రుక్లు'."
+  },
+  {
+    "id": 389,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Stethoscope is used to check సెుతస్కకప్ తో పరిశీలించునది",
+    "options": [
+      "Heart beat హృదయ సపందన",
+      "Rate of expiration నిశాిస ర్చట్ట",
+      "Lung’s capacity ఊపిరిత్తతుతల స్తమరియం",
+      "Temperature ఉష్పణగ్రత"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Heart beat హృదయ సపందన'."
+  },
+  {
+    "id": 390,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is essential for the release of energy from food materials in our body మన శరీరం లో ఆహార పదార్మిల నుండి శకిత వడుదలగుటకు అవసరమైనది",
+    "options": [
+      "Oxygen ఆకిీజన్",
+      "Carbon dioxide కరబన్ డయాకెపీడ్",
+      "Nitrogen నత్రజని",
+      "Hydrogen హైడ్రోజన్"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Oxygen ఆకిీజన్'."
+  },
+  {
+    "id": 391,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Blood vessels that transport the blood from heart to all the body parts గుండ నుండి అనీి శరీర భాగాలకు రకతనిి సరఫర్మ చేసే రక్త నాళాలు",
+    "options": [
+      "Arteries ధమనులు",
+      "Veins స్థరలు",
+      "Lymph vessels శోష్రస నాళాలు",
+      "Capillaries రక్తకేశ నాళిక్లు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Arteries ధమనులు'."
+  },
+  {
+    "id": 392,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Haemoglobin is present in హిమోగోలబన్ ను క్లిగి ఉండునవ",
+    "options": [
+      "Red blood Cells ఎర్ర రక్తక్ణాలు",
+      "White blood Cells తెలల రక్తక్ణాలు",
+      "Blood Platelets రక్త పలకిక్లు",
+      "Lymph nodes శోష్ రస క్ణుపులు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Red blood Cells ఎర్ర రక్తక్ణాలు'."
+  },
+  {
+    "id": 393,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not a part of the blood circulatory system రక్త ప్రసరణ వేవసి లో భాగం కనిది",
+    "options": [
+      "Heart గుండ",
+      "Arteries ధమనులు",
+      "Veins స్థరలు",
+      "Liver కలేయం"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Liver కలేయం'."
+  },
+  {
+    "id": 394,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not a part in of nervous system నాడీ వేవసి లో భాగం కనిది",
+    "options": [
+      "Brain మెదడు",
+      "Spinal cord వెనుిపాము",
+      "Nerves నాడులు",
+      "Liver కలేయం"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Liver కలేయం'."
+  },
+  {
+    "id": 395,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Energy is released through this process శకితని వడుదల చేసే ప్రక్రయ",
+    "options": [
+      "Digestion జీరణక్రయ",
+      "Respiration శాిసక్రయ",
+      "Circulation ప్రసరణ",
+      "Excretion వసరిన"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Respiration శాిసక్రయ'."
+  },
+  {
+    "id": 396,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not a part of the respiratory system క్రంది వాని లో శాిస వేవసి లో భాగం కనిది",
+    "options": [
+      "Pharynx గ్రసని",
+      "Trachea గాలి గొటు౦",
+      "Heart గుండ",
+      "Nasal cavity నాస్థక కుహారం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Heart గుండ'."
+  },
+  {
+    "id": 397,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This transports nutrients and oxygen to all the body parts పోష్కలను మరియు ఆకిీజన్ ను అనిి శరీర భాగాలకు సరఫర్మ చేయునది",
+    "options": [
+      "Nerves నాడులు",
+      "Lymph శోష్రస౦",
+      "Hormones హారోమనుల",
+      "Blood రక్త"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Blood రక్త'."
+  },
+  {
+    "id": 398,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This food item doesn’t help in improving haemoglobin హిమోగోలబన్ ను పంచుట లో సహాయపడని ఆహార పదారి౦",
+    "options": [
+      "Jaggery బెలలం",
+      "Chips చప్ీ",
+      "Chikki చకిక",
+      "Leafy Vegetables ఆకు కూరలు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Chips చప్ీ'."
+  },
+  {
+    "id": 399,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The organism that can respire through skin చరమం దాిర్మ శాిస్థంచక్ల జీవ",
+    "options": [
+      "Fish చేప",
+      "Frog క్పప",
+      "Cockroach బొదిదంక్",
+      "Rat ఎలుక్"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Frog క్పప'."
+  },
+  {
+    "id": 400,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "During inhalation, the ribs ఉచావాస సమయం లో ప్రక్కటెముక్లు",
+    "options": [
+      "Move outwards బయటకు క్దులుతాయి",
+      "Move downwards క్రంది కి క్దులుతాయి",
+      "Move upwards పైకి క్దులుతాయి",
+      "Do not move at all అసీలు క్దలవు"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Move outwards బయటకు క్దులుతాయి'."
+  },
+  {
+    "id": 401,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Bony part that protects the brain మెదడు ను రక్షించే అస్థి భాగం",
+    "options": [
+      "Back bone వెనుిముక్",
+      "Rib cage ఉరః పంజరం",
+      "Skull పుర్రె",
+      "Pelvic girdle క్టివలయము"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Skull పుర్రె'."
+  },
+  {
+    "id": 402,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "What is the advantage of pranayama ప్రాణాయామం వలల క్లిగే ప్రయోజనం",
+    "options": [
+      "Increase the capacity of lungs ఊపిరిత్తతుతల స్తమర్యం పరుగుతు౦ది",
+      "Decrease the capacity of lungs ఊపిరిత్తతుతల స్తమర్యం తగుగతుంది",
+      "Less oxygen supplied to the body శరీరం కు తకుకవ ఆకిీజన్ అంది౦చబడుతుంది",
+      "Decrease the air pollution వాయు కలుష్ేం తగిగంచబడుతుంది"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Increase the capacity of lungs ఊపిరిత్తతుతల స్తమర్యం పరుగుతు౦ది'."
+  },
+  {
+    "id": 403,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This tissue helps in transportation of the water in Plants is మొక్కలలో నీటి రవాణా న౦దు సహాయపడే క్ణజాలం",
+    "options": [
+      "Phloem పోష్క్ క్ణజాలం",
+      "Parenchyma మృదుక్ణజాలం",
+      "Xylem దారువు",
+      "Collenchyma సూిలకోణ క్ణజాలం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Xylem దారువు'."
+  },
+  {
+    "id": 404,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "During heavy exercise, the breathing rate తీవ్రంగా వాేయామం చేసుతనిప్పుడు, శాిసక్రయ ర్చట్ట",
+    "options": [
+      "Increase పరుగుతుంది",
+      "Decrease తగుగతుంది",
+      "No change మరదు",
+      "Can not predict ఊహించలేము"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Increase పరుగుతుంది'."
+  },
+  {
+    "id": 405,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Organs involved in the preparation of urine మూత్ర౦ తయారీ లో పాత్రవహించే అవయవాలు",
+    "options": [
+      "Lungs ఊపిరిత్తతుతలు",
+      "Skin చరమం",
+      "Kidneys మూత్రపిండాలు",
+      "Liver కలేయం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Kidneys మూత్రపిండాలు'."
+  },
+  {
+    "id": 406,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Male part in the flower పుష్పం లోని పురుష్ భాగం",
+    "options": [
+      "Pistil అండకోశం",
+      "Stamen కేసరం",
+      "Petals ఆక్రిక్ పత్రాలు",
+      "Sepals రక్షక్ పత్రాలు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Stamen కేసరం'."
+  },
+  {
+    "id": 407,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The fusion of male and female gametes is termed as పురుష్, సీీ సంయోగ బీజాల క్లయిక్",
+    "options": [
+      "Fertilisation పలదీక్రణ౦",
+      "Pollination పర్మగ సంపరకం",
+      "Fission వచవత్తత",
+      "Germination మొలకెతతట"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Fertilisation పలదీక్రణ౦'."
+  },
+  {
+    "id": 408,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Plant that reproduce through its leaves పత్రాల దాిర్మ ప్రతుేతపత్తత జరిపే మొక్క",
+    "options": [
+      "Bryophyllum రణపాల",
+      "Ginger అలలం",
+      "Rose గులాబ",
+      "Neem వేప"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Bryophyllum రణపాల'."
+  },
+  {
+    "id": 409,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The mode of reproduction in yeast is ఈసుు న౦దలి ప్రతుేతపత్తత వధానం",
+    "options": [
+      "Binary fission దిిదావచచత్తత",
+      "Cloning కోలని౦గ్",
+      "Budding కోరక్టభవనం",
+      "Fragmentation ముక్కలవట"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Budding కోరక్టభవనం'."
+  },
+  {
+    "id": 410,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The purpose of “eyes” of Potato బంగాళాదుంప పై ఉని “క్నుిల” ఉపయోగం",
+    "options": [
+      "Respiration శాిసక్రయ",
+      "Nutrition పోష్ణ",
+      "Protection రక్షణ",
+      "Reproduction ప్రతుేతపత్తత"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Reproduction ప్రతుేతపత్తత'."
+  },
+  {
+    "id": 411,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "This is not a vegetative part of plant మొక్కనందు శాఖీయభాగం కనిది",
+    "options": [
+      "Stem కండం",
+      "Leaf పత్ర౦",
+      "Flower పుష్పం",
+      "Root వేరు"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Flower పుష్పం'."
+  },
+  {
+    "id": 412,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Female hormone in the following is క్రంది వానిలో సీీ హారోమన్",
+    "options": [
+      "Testosterone టెస్కుస్థుర్మన్",
+      "Oestrogen ఈస్కోజన్",
+      "Thyroxine థైర్మకిీన్",
+      "Insulin ఇనుీలిన్"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Oestrogen ఈస్కోజన్'."
+  },
+  {
+    "id": 413,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The endocrine gland present only in males is మగవారిలో మత్రమే ఉని అంతఃస్రావ గ్రంధి",
+    "options": [
+      "Ovary సీీబీజకోశం",
+      "Testis ముష్కం",
+      "Thyroid gland థైర్మయిడ్ గ్ర౦ధి",
+      "Pituitary gland పీయూష్ గ్ర౦ధి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Testis ముష్కం'."
+  },
+  {
+    "id": 414,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The stoppage of menstruation is ఋతు చక్రం ఆగిపోవుటయే",
+    "options": [
+      "Menarche రజసిల",
+      "Puberty యుక్తవయుసుీ",
+      "Menopause మెనోపాజ్",
+      "Fertilisation ఫలదీక్రణం"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Menopause మెనోపాజ్'."
+  },
+  {
+    "id": 415,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The endocrine gland located in the neck region గొంతు భాగంలో ఉని అంతఃస్రావ గ్రంధి",
+    "options": [
+      "Pituitary gland పీయూష్ గ్రంధి",
+      "Thyroid gland థైర్మయిడ్ గ్ర౦ధి",
+      "Pancreas కోలమ గ్ర౦ధి",
+      "Adrenal gland అధివృక్క గ్ర౦ధి"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Thyroid gland థైర్మయిడ్ గ్ర౦ధి'."
+  },
+  {
+    "id": 416,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Sex chromosomes present in males are మగ వారిలోని లైంగిక్ క్రోమోజోములు",
+    "options": [
+      "X and Y X మరియు Y",
+      "X and X X మరియు X",
+      "Y and Y Y మరియు Y",
+      "X only X మత్రమే"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'X and Y X మరియు Y'."
+  },
+  {
+    "id": 417,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "Goitre disease is related to this gland గాయిటర్ వాేధి ఈ గ్రంధికి సంబంధించనది",
+    "options": [
+      "Pancreas కోలమ గ్ర౦ధి",
+      "Adrenal gland అధివృక్క గ్ర౦ధి",
+      "Testis ముష్కం",
+      "Thyroid gland థైర్మయిడ్ గ్ర౦ధి"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Thyroid gland థైర్మయిడ్ గ్ర౦ధి'."
+  },
+  {
+    "id": 418,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The deficiency of insulin causes ఇనుీలిన్ లోపం దీనికి కరణ౦ అవుతుంది",
+    "options": [
+      "Goitre గాయిటర్",
+      "Diabetes మధుమేహం",
+      "Ulcers అలీరుల",
+      "Bleeding Gums చగుళు నుండి రక్త స్రావం"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Diabetes మధుమేహం'."
+  },
+  {
+    "id": 419,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The Oviparous organism in the following is క్రంది వానిలో అండోతాపదక్ జీవ",
+    "options": [
+      "Human being మనిష",
+      "Cow ఆవు",
+      "Frog క్పప",
+      "Dog కుక్క"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Frog క్పప'."
+  },
+  {
+    "id": 420,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "It is not a part of the female reproductive system. ఇది సీీ ప్రతుేతపత్తత వేవసిలోని భాగం కదు",
+    "options": [
+      "Ovaries సీీ బీజకోశాలు",
+      "Uterus గర్మాశయము",
+      "Oviducts సీీబీజ వాహిక్లు",
+      "Testis ముష్కం"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Testis ముష్కం'."
+  },
+  {
+    "id": 421,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The caterpillar is a larva of గొంగళి పురుగు దేని లార్మి",
+    "options": [
+      "House fly ఈగ",
+      "Frog క్పప",
+      "Silkworm పట్టుపురుగు",
+      "Hydra హైడ్రా"
+    ],
+    "answer": 3,
+    "explanation": "Official AP TET key: Option 3 - 'Silkworm పట్టుపురుగు'."
+  },
+  {
+    "id": 422,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The tadpole is larva of ట్లడ్ పోల్ దీని యొక్క లార్మి",
+    "options": [
+      "Honey bee త్యనెటీగ",
+      "Frog క్పప",
+      "Silkworm పట్టుపురుగు",
+      "Hydra హైడ్రా"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Frog క్పప'."
+  },
+  {
+    "id": 423,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The larva of frog resembles క్పప యొక్క లార్మి దీనిని పోలి ఉంట్టంది",
+    "options": [
+      "Snake పాము",
+      "Fish చేప",
+      "Cockroach బొదిదంక్",
+      "Caterpillar గొంగళి పురుగు"
+    ],
+    "answer": 2,
+    "explanation": "Official AP TET key: Option 2 - 'Fish చేప'."
+  },
+  {
+    "id": 424,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The fully developed embryo is పూరితగా అభవృది్ చెందిన పిండమే",
+    "options": [
+      "Foetus భ్రూణం",
+      "Larva లార్మి",
+      "Pupa కోశసి దశ",
+      "Adult ప్రౌఢజీవ"
+    ],
+    "answer": 1,
+    "explanation": "Official AP TET key: Option 1 - 'Foetus భ్రూణం'."
+  },
+  {
+    "id": 425,
+    "subject": "EVS",
+    "topic": "Living World & Plant Biology",
+    "question": "The External fertilisation is seen in బాహే ఫలదీక్రణ౦ దీనిలో చూడవచుచ",
+    "options": [
+      "Human being మనవుడు",
+      "Cow ఆవు",
+      "Dog కుక్క",
+      "Frog క్పప"
+    ],
+    "answer": 4,
+    "explanation": "Official AP TET key: Option 4 - 'Frog క్పప'."
   }
 ]

@@ -28,6 +28,8 @@ class CustomHandler(http.server.SimpleHTTPRequestHandler):
         self.send_header('Cache-Control', 'no-cache, no-store, must-revalidate')
         super().end_headers()
 
+socketserver.TCPServer.allow_reuse_address = True
+
 def run_http():
     with socketserver.TCPServer(("", HTTP_PORT), CustomHandler) as httpd:
         httpd.serve_forever()
