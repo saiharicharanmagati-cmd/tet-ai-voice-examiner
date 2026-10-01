@@ -1,0 +1,1206 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "The scholar took two pennies from his pocket. Choose the synonym of the word 'pennies'.",
+    "options": [
+      "coins",
+      "stones",
+      "buttons",
+      "pearls"
+    ],
+    "answer": 1,
+    "explanation": "'Pennies' refers to coins of low monetary value."
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "Fortune favours the hardworking. Choose the synonym of the word 'fortune'.",
+    "options": [
+      "formula",
+      "happiness",
+      "courage",
+      "luck"
+    ],
+    "answer": 4,
+    "explanation": "'Fortune' means chance or good luck."
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "The owner of the eating house stood there, serving his customers. Choose the synonym of the word 'customers'.",
+    "options": [
+      "guardians",
+      "custodians",
+      "consumers",
+      "sellers"
+    ],
+    "answer": 3,
+    "explanation": "'Customers' are purchasers or consumers who buy goods or services."
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "Saving others from disaster is courage. Choose the synonym of the word 'disaster'.",
+    "options": [
+      "trouble",
+      "doubt",
+      "dissent",
+      "confusion"
+    ],
+    "answer": 1,
+    "explanation": "'Disaster' refers to great trouble, catastrophe or calamity."
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "The waste is chocking me. Choose the synonym of the word 'chocking'.",
+    "options": [
+      "scolding",
+      "suffocating",
+      "beating",
+      "stirring"
+    ],
+    "answer": 2,
+    "explanation": "'Choking' or 'chocking' in this context means suffocating or obstructing breath."
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "The thieves got scared and ran away from there. Choose the synonym of the word 'scared'.",
+    "options": [
+      "rushed",
+      "searched",
+      "worried",
+      "unhappy"
+    ],
+    "answer": 3,
+    "explanation": "According to the key, 'scared' is matched to worried/frightened."
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "He washed his wounds and bandaged them. Choose the synonym of the word 'wounds'.",
+    "options": [
+      "cleans",
+      "injuries",
+      "clothes",
+      "limbs"
+    ],
+    "answer": 2,
+    "explanation": "'Wounds' are bodily injuries."
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "Come to the king’s court and collect the reward. Choose the synonym of the word 'reward'.",
+    "options": [
+      "punishment",
+      "treatment",
+      "present",
+      "memory"
+    ],
+    "answer": 3,
+    "explanation": "'Reward' means a prize, present or recompense."
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "Our grandfather prepared delicious lunch for us. Choose the synonym of the word 'delicious'.",
+    "options": [
+      "uneatable",
+      "unpalatable",
+      "uncooked",
+      "tasty"
+    ],
+    "answer": 4,
+    "explanation": "'Delicious' means highly pleasing to the taste; tasty."
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "They were sure of their victory. Choose the synonym of the word 'victory'.",
+    "options": [
+      "defame",
+      "success",
+      "defeat",
+      "failure"
+    ],
+    "answer": 2,
+    "explanation": "'Victory' means triumph or success in a contest."
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "There were numerous trees on either side of the road. Choose the synonym of the word 'numerous'.",
+    "options": [
+      "countable",
+      "much",
+      "many",
+      "few"
+    ],
+    "answer": 3,
+    "explanation": "'Numerous' indicates a large number; many."
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "What present can I send from Naini Prison? Choose the appropriate synonym of 'Prison'.",
+    "options": [
+      "jailhouse",
+      "hospital",
+      "office",
+      "market"
+    ],
+    "answer": 1,
+    "explanation": "'Prison' refers to a jailhouse or penitentiary."
+  },
+  {
+    "id": 16,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "My mother was astonished to see you. Choose the synonym of the word 'astonished'.",
+    "options": [
+      "afraid",
+      "bothered",
+      "scared",
+      "surprised"
+    ],
+    "answer": 4,
+    "explanation": "'Astonished' means greatly surprised or amazed."
+  },
+  {
+    "id": 18,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "The rabbit went to the cobbler who was mending shoes. Choose the synonym of the word 'mending'.",
+    "options": [
+      "repairing",
+      "making",
+      "selling",
+      "buying"
+    ],
+    "answer": 1,
+    "explanation": "'Mending' means restoring or repairing."
+  },
+  {
+    "id": 22,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "They comforted each other. Choose the antonym of the word 'comforted'.",
+    "options": [
+      "depressed",
+      "consoled",
+      "lost",
+      "cared"
+    ],
+    "answer": 1,
+    "explanation": "The opposite of comforting/soothing someone is depressing or distressing them."
+  },
+  {
+    "id": 23,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "Tenali Rama Krishna had a huge mango garden in his backyard. Choose the antonym of the word 'huge'.",
+    "options": [
+      "very large",
+      "very big",
+      "massive",
+      "tiny"
+    ],
+    "answer": 4,
+    "explanation": "'Huge' means very large, so its exact antonym is 'tiny'."
+  },
+  {
+    "id": 24,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "Raju did not want to lose the opportunity. Choose the antonym of the word 'lose'.",
+    "options": [
+      "misplace",
+      "be unable to find",
+      "find",
+      "drop"
+    ],
+    "answer": 3,
+    "explanation": "The opposite of 'lose' is 'find' (or gain/win)."
+  },
+  {
+    "id": 26,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "King Sibi was a very kind and generous ruler. Choose the antonym of the word 'kind'.",
+    "options": [
+      "good natured",
+      "tender-hearted",
+      "warm-hearted",
+      "unkind"
+    ],
+    "answer": 4,
+    "explanation": "The antonym of 'kind' is 'unkind'."
+  },
+  {
+    "id": 28,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "The village was peaceful with fresh air. Choose the antonym of the word 'fresh'.",
+    "options": [
+      "stale",
+      "natural",
+      "crisp",
+      "firm"
+    ],
+    "answer": 1,
+    "explanation": "The opposite of 'fresh' air or food is 'stale'."
+  },
+  {
+    "id": 29,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "There are big and tall trees and dense bushes on either side of the road. Choose the antonym of the word 'dense'.",
+    "options": [
+      "thick",
+      "sparse",
+      "packed",
+      "crammed"
+    ],
+    "answer": 2,
+    "explanation": "The opposite of 'dense' is 'sparse'."
+  },
+  {
+    "id": 43,
+    "subject": "English",
+    "topic": "Spelling",
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "thrishing",
+      "thresing",
+      "thrasaing",
+      "threshing"
+    ],
+    "answer": 4,
+    "explanation": "The correct spelling is 'threshing'."
+  },
+  {
+    "id": 47,
+    "subject": "English",
+    "topic": "Spelling",
+    "question": "Choose the correct spelling.",
+    "options": [
+      "comitee",
+      "commite",
+      "commitee",
+      "committee"
+    ],
+    "answer": 4,
+    "explanation": "The correct spelling is 'committee' (double m, double t, double e)."
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "topic": "One Word Substitutes",
+    "question": "The word for a continuous dry weather period without rainfall is:",
+    "options": [
+      "sweat",
+      "drought",
+      "weed",
+      "dough"
+    ],
+    "answer": 2,
+    "explanation": "A prolonged period of abnormally low rainfall is a 'drought'."
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "topic": "One Word Substitutes",
+    "question": "People who work for an organisation without being paid, are called _____.",
+    "options": [
+      "friends",
+      "volunteers",
+      "colleagues",
+      "disciples"
+    ],
+    "answer": 2,
+    "explanation": "Unpaid workers offering service are called 'volunteers'."
+  },
+  {
+    "id": 75,
+    "subject": "English",
+    "topic": "One Word Substitutes",
+    "question": "A _____ makes or mends shoes.",
+    "options": [
+      "cobbler",
+      "barber",
+      "biker",
+      "driver"
+    ],
+    "answer": 1,
+    "explanation": "A person whose job is mending and repairing shoes is a 'cobbler'."
+  },
+  {
+    "id": 78,
+    "subject": "English",
+    "topic": "One Word Substitutes",
+    "question": "A bunch of flowers is called _____.",
+    "options": [
+      "A bouquet",
+      "A banquet",
+      "A garland",
+      "A basket"
+    ],
+    "answer": 1,
+    "explanation": "An attractively arranged bunch of flowers is 'a bouquet'."
+  },
+  {
+    "id": 85,
+    "subject": "English",
+    "topic": "Figures of Speech",
+    "question": "They eat like wolves. Identify the figure of speech used in the given sentence.",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Paradox"
+    ],
+    "answer": 1,
+    "explanation": "Comparison using 'like' or 'as' is a Simile."
+  },
+  {
+    "id": 102,
+    "subject": "English",
+    "topic": "Figures of Speech",
+    "question": "The camel is the ship of the desert. Choose the figure of speech used in the given sentence.",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Apostrophe"
+    ],
+    "answer": 2,
+    "explanation": "Direct comparison without 'like' or 'as' is a Metaphor."
+  },
+  {
+    "id": 107,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "Choose the correct idiomatic expression.",
+    "options": [
+      "fish out of air",
+      "fish out of sky",
+      "fish out of pan",
+      "fish out of water"
+    ],
+    "answer": 4,
+    "explanation": "The idiom is 'a fish out of water', meaning feeling uncomfortable in unfamiliar surroundings."
+  },
+  {
+    "id": 118,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "To let the ____ out of the bag. Choose the correct word to make it an idiom that means to reveal a secret.",
+    "options": [
+      "rat",
+      "bat",
+      "mat",
+      "cat"
+    ],
+    "answer": 4,
+    "explanation": "'Let the cat out of the bag' means to inadvertently reveal a secret."
+  },
+  {
+    "id": 126,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "You have hit the nail on the head. Choose the meaning of the underlined idiom.",
+    "options": [
+      "damaging a nail",
+      "breaking someone’s head",
+      "disclosing the secrets",
+      "said or done exactly the right thing"
+    ],
+    "answer": 4,
+    "explanation": "'Hit the nail on the head' means to say or do exactly the right thing."
+  },
+  {
+    "id": 131,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "The plane took off an hour late. Choose the correct meaning of phrasal verb 'took off'.",
+    "options": [
+      "began to fly",
+      "landed",
+      "postponed",
+      "arrive at"
+    ],
+    "answer": 1,
+    "explanation": "For an aircraft, to 'take off' means to become airborne / began to fly."
+  },
+  {
+    "id": 143,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "The game was cancelled because of bad weather. Choose the correct phrasal verb for the word 'cancelled'.",
+    "options": [
+      "called on",
+      "called off",
+      "called out",
+      "called after"
+    ],
+    "answer": 2,
+    "explanation": "'Called off' means cancelled."
+  },
+  {
+    "id": 148,
+    "subject": "English",
+    "topic": "Language Functions",
+    "question": "May I come in? Choose the language function of the given sentence.",
+    "options": [
+      "Giving permission",
+      "Obligation",
+      "Seeking permission",
+      "Suggestion"
+    ],
+    "answer": 3,
+    "explanation": "'May I come in?' is used for seeking permission."
+  },
+  {
+    "id": 149,
+    "subject": "English",
+    "topic": "Modal Verbs",
+    "question": "Choose the modal verb used for obligation: You ____ be regular.",
+    "options": [
+      "will",
+      "can",
+      "may",
+      "must"
+    ],
+    "answer": 4,
+    "explanation": "'Must' expresses duty or obligation."
+  },
+  {
+    "id": 165,
+    "subject": "English",
+    "topic": "Modal Verbs",
+    "question": "Choose the modal verb to convey 'ability': She ______ speak Tamil.",
+    "options": [
+      "shall",
+      "will",
+      "should",
+      "can"
+    ],
+    "answer": 4,
+    "explanation": "'Can' expresses present ability."
+  },
+  {
+    "id": 169,
+    "subject": "English",
+    "topic": "Grammar & Usage",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "The players have going to the playground.",
+      "The players has going to the playground.",
+      "The players had going to the playground.",
+      "The players are going to the playground."
+    ],
+    "answer": 4,
+    "explanation": "'The players are going to the playground' correctly uses the present continuous tense."
+  },
+  {
+    "id": 171,
+    "subject": "English",
+    "topic": "Grammar & Usage",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "Stephen is one of the best singers.",
+      "Stephen are one of the best singers.",
+      "Stephen have one of the best singers.",
+      "Stephen will one of the best singers."
+    ],
+    "answer": 1,
+    "explanation": "'Stephen is one of the best singers' agrees in subject and verb."
+  },
+  {
+    "id": 183,
+    "subject": "English",
+    "topic": "Subject-Verb Agreement",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "Neither the chairman nor the directors are present.",
+      "Neither the chairman nor the directors was present.",
+      "Neither the chairman nor the directors has present.",
+      "Neither the chairman nor the directors have present."
+    ],
+    "answer": 1,
+    "explanation": "In 'neither... nor', the verb agrees with the nearer subject ('directors' is plural -> 'are present')."
+  },
+  {
+    "id": 232,
+    "subject": "English",
+    "topic": "Direct & Indirect Speech",
+    "question": "Direct: He said, 'My master is writing letters.' Indirect: He said that _____ master ____ writing letters.",
+    "options": [
+      "his, was",
+      "their, is",
+      "the, has been",
+      "her, is"
+    ],
+    "answer": 1,
+    "explanation": "Present continuous 'is writing' changes to past continuous 'was writing', and 'My' changes to 'his'."
+  },
+  {
+    "id": 253,
+    "subject": "English",
+    "topic": "Prepositions",
+    "question": "Our school starts _____ 8.45 am. Choose the correct preposition.",
+    "options": [
+      "in",
+      "on",
+      "of",
+      "at"
+    ],
+    "answer": 4,
+    "explanation": "We use preposition 'at' with specific clock times."
+  },
+  {
+    "id": 254,
+    "subject": "English",
+    "topic": "Prepositions",
+    "question": "Vivekananda was born ____ 12th January 1863. Choose the correct preposition.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "or"
+    ],
+    "answer": 3,
+    "explanation": "We use preposition 'on' with specific dates."
+  },
+  {
+    "id": 258,
+    "subject": "English",
+    "topic": "Prepositions",
+    "question": "Tenali Rama and his wife dropped the box ___ the well.",
+    "options": [
+      "in",
+      "on",
+      "into",
+      "upon"
+    ],
+    "answer": 3,
+    "explanation": "'Into' denotes motion entering inside an enclosed space."
+  },
+  {
+    "id": 297,
+    "subject": "English",
+    "topic": "Articles",
+    "question": "If _____ earth was a human being, it would be in hospital. Choose the correct option.",
+    "options": [
+      "an",
+      "the",
+      "a",
+      "No Article"
+    ],
+    "answer": 2,
+    "explanation": "Definite article 'the' is used before unique astronomical entities like 'the earth'."
+  },
+  {
+    "id": 316,
+    "subject": "English",
+    "topic": "Voice",
+    "question": "Who wrote it? Choose the correct Passive Voice.",
+    "options": [
+      "By whom was it written.",
+      "By whom wrote it?",
+      "By whom it wrote?",
+      "By whom it written?"
+    ],
+    "answer": 1,
+    "explanation": "'Who wrote it?' becomes 'By whom was it written'."
+  },
+  {
+    "id": 320,
+    "subject": "English",
+    "topic": "Voice",
+    "question": "They painted the house red. Choose the correct Passive Voice.",
+    "options": [
+      "Red was house painted by them.",
+      "Red house was painted by them.",
+      "The house was painted red by them.",
+      "The house painted by them red."
+    ],
+    "answer": 3,
+    "explanation": "'They painted the house red' converts to 'The house was painted red by them'."
+  },
+  {
+    "id": 506,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "At times students resort to using words from both the first and second languages in the same sentence. This is called:",
+    "options": [
+      "code separation",
+      "code fusion",
+      "code switching",
+      "code joining"
+    ],
+    "answer": 3,
+    "explanation": "Alternating between two languages in discourse is known as code switching."
+  },
+  {
+    "id": 507,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Which should be strengthened first before the child gets practice in reading and writing skills?",
+    "options": [
+      "Speaking skill only",
+      "Listening skill only",
+      "Songs & rhymes",
+      "Listening and speaking"
+    ],
+    "answer": 4,
+    "explanation": "In the LSRW continuum, oral-aural skills (Listening and Speaking) precede literacy skills (Reading and Writing)."
+  },
+  {
+    "id": 522,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "LAD means:",
+    "options": [
+      "Literacy Acquiring Data",
+      "Language Acquired Device",
+      "Language Acquisition Device",
+      "Language Acquisition Drive"
+    ],
+    "answer": 3,
+    "explanation": "LAD stands for Language Acquisition Device (proposed by Noam Chomsky)."
+  },
+  {
+    "id": 530,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Writing is a ______ skill.",
+    "options": [
+      "Receptive",
+      "Productive",
+      "Aural",
+      "Fundamental"
+    ],
+    "answer": 2,
+    "explanation": "Speaking and Writing are productive (expressive) skills, whereas Listening and Reading are receptive skills."
+  },
+  {
+    "id": 531,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Listening is a/an _____ skill.",
+    "options": [
+      "Receptive",
+      "Productive",
+      "Active",
+      "Graphic"
+    ],
+    "answer": 1,
+    "explanation": "Listening is a receptive language skill."
+  },
+  {
+    "id": 536,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Nidhi reads a magazine and is looking for the overall idea of the cover story. What is this reading known as?",
+    "options": [
+      "Reading for pleasure",
+      "Intensive Reading",
+      "Skimming",
+      "Scanning"
+    ],
+    "answer": 3,
+    "explanation": "Reading rapidly to grasp the central overall idea/gist is 'Skimming'."
+  },
+  {
+    "id": 550,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Which is the oldest method of teaching English in India?",
+    "options": [
+      "Bilingual Method",
+      "Direct Method",
+      "Dr. West New Method",
+      "Grammar Translation Method"
+    ],
+    "answer": 4,
+    "explanation": "The Classical or Grammar Translation Method (GTM) is the oldest method of teaching English in India."
+  },
+  {
+    "id": 554,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Choose the teaching method which is based on the coordination of language and physical movement.",
+    "options": [
+      "Suggestopedia",
+      "Total Physical Response",
+      "Silent Way",
+      "Natural Approach"
+    ],
+    "answer": 2,
+    "explanation": "TPR (Total Physical Response), developed by James Asher, coordinates speech with physical action."
+  },
+  {
+    "id": 557,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Vygotsky’s concept of _____ advocates children refine their knowledge and experience through collaboration.",
+    "options": [
+      "Zone of Proximal Development",
+      "Zone of Peer Development",
+      "Zone of Point of Discussion",
+      "Zone of Proximal Discussion"
+    ],
+    "answer": 1,
+    "explanation": "ZPD stands for Zone of Proximal Development."
+  },
+  {
+    "id": 581,
+    "subject": "English",
+    "topic": "Pedagogy",
+    "question": "Howard Gardner’s _____ Theory reminds teachers that there are many types of learners within the classroom.",
+    "options": [
+      "Concept of learning",
+      "Multiple Intelligence",
+      "Sensory store",
+      "Connectionism"
+    ],
+    "answer": 2,
+    "explanation": "Howard Gardner developed the Theory of Multiple Intelligences."
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "The raider holds his breath and chants ‘kabaddi…kabaddi’. Choose the synonym of the word ‘chant’.",
+    "options": [
+      "plays",
+      "calls",
+      "moves",
+      "fights"
+    ],
+    "answer": 2,
+    "explanation": "Chanting rhythmic calls during the raid is 'calls'."
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "Kabaddi requires no specific sporting equipment. Choose the appropriate synonym of ‘equipment’.",
+    "options": [
+      "rules",
+      "ground",
+      "tools",
+      "players"
+    ],
+    "answer": 3,
+    "explanation": "'Equipment' refers to tools or implements."
+  },
+  {
+    "id": 15,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "She discovered a beautiful diamond necklace. Choose the appropriate synonym of ‘discovered’.",
+    "options": [
+      "destroyed",
+      "sold",
+      "found out",
+      "bought"
+    ],
+    "answer": 3,
+    "explanation": "'Discovered' means found out or uncovered."
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "topic": "Synonyms",
+    "question": "We had a thrilling experience. Choose the synonym of the word ‘thrilling’.",
+    "options": [
+      "exciting",
+      "boring",
+      "dull",
+      "monotonous"
+    ],
+    "answer": 1,
+    "explanation": "'Thrilling' means exciting or exhilarating."
+  },
+  {
+    "id": 27,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "The king agreed and ordered to bring the scales. Choose the antonym of the word ‘agreed’.",
+    "options": [
+      "differed",
+      "acknowledged",
+      "granted",
+      "confessed"
+    ],
+    "answer": 1,
+    "explanation": "The opposite of 'agreed' is 'differed' or disagreed."
+  },
+  {
+    "id": 36,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "“No dear, I won’t stay here, sending away my friends in dismay”. replied the white butterfly. Choose the antonym of the word ‘dismay’.",
+    "options": [
+      "Pleasure",
+      "Distress",
+      "Upset",
+      "Anxiety"
+    ],
+    "answer": 1,
+    "explanation": "'Dismay' means distress or consternation; its antonym is 'Pleasure'."
+  },
+  {
+    "id": 40,
+    "subject": "English",
+    "topic": "Antonyms",
+    "question": "By constant application, one can remember various formulae of science and mathematics. Choose the antonym of the word ‘remember’.",
+    "options": [
+      "forget",
+      "recall",
+      "recollect",
+      "think of"
+    ],
+    "answer": 1,
+    "explanation": "The antonym of 'remember' is 'forget'."
+  },
+  {
+    "id": 86,
+    "subject": "English",
+    "topic": "Figures of Speech",
+    "question": "He roared like a lion. Choose the figure of speech used in the given sentence.",
+    "options": [
+      "Personification",
+      "Simile",
+      "Metaphor",
+      "Hyperbole"
+    ],
+    "answer": 2,
+    "explanation": "The sentence makes a direct comparison using 'like', which is a Simile."
+  },
+  {
+    "id": 100,
+    "subject": "English",
+    "topic": "Figures of Speech",
+    "question": "Lencho was an ox of a man. Choose the figure of speech used in the given sentence.",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Hyperbole"
+    ],
+    "answer": 2,
+    "explanation": "Lencho is compared directly to an ox without 'like' or 'as', which is a Metaphor."
+  },
+  {
+    "id": 101,
+    "subject": "English",
+    "topic": "Figures of Speech",
+    "question": "Death lays his icy hand on kings. Choose the figure of speech used in the given sentence.",
+    "options": [
+      "Simile",
+      "Personification",
+      "Metaphor",
+      "Oxymoron"
+    ],
+    "answer": 2,
+    "explanation": "Death is given human traits ('his icy hand'), representing Personification."
+  },
+  {
+    "id": 116,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "Choose the correct idiomatic expression that means a general view.",
+    "options": [
+      "a bird’s eye view",
+      "a lion’s eye view",
+      "a cat’s eye view",
+      "a owl’s eye view"
+    ],
+    "answer": 1,
+    "explanation": "'A bird's eye view' denotes an overall, general view from above."
+  },
+  {
+    "id": 117,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "Choose the correct idiomatic expression to mean unrecognized danger.",
+    "options": [
+      "Make no bones",
+      "Bone of connection",
+      "Snake in the grass",
+      "A bird’s eye view"
+    ],
+    "answer": 3,
+    "explanation": "'A snake in the grass' refers to a treacherous person or hidden/unrecognized danger."
+  },
+  {
+    "id": 121,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "Choose the correct idiom appropriate in the following situation: 'You’re so proud of your child.'",
+    "options": [
+      "He’s the apple of my eye.",
+      "He looks a sight.",
+      "He’s for my eyes only.",
+      "He’s my boy."
+    ],
+    "answer": 1,
+    "explanation": "'The apple of my eye' means someone cherished and prized above all others."
+  },
+  {
+    "id": 122,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "Choose the correct idiomatic expression.",
+    "options": [
+      "tone of connection",
+      "bone of connection",
+      "bone of contention",
+      "tongue of contention"
+    ],
+    "answer": 3,
+    "explanation": "The correct idiom is 'bone of contention' (subject of dispute)."
+  },
+  {
+    "id": 125,
+    "subject": "English",
+    "topic": "Idioms",
+    "question": "Don’t worry! we’ll have the money ready by 5pm, by hook or by crook. Choose the correct meaning of the underlined idiomatic expression.",
+    "options": [
+      "by any method",
+      "very proud",
+      "very simple",
+      "by the worst way"
+    ],
+    "answer": 1,
+    "explanation": "'By hook or by crook' means by any possible method or means."
+  },
+  {
+    "id": 128,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "The president gives away bravery awards every year. Choose the meaning of the phrasal verb ‘give away’.",
+    "options": [
+      "to organize some event",
+      "to appreciate someone",
+      "to declare something",
+      "to present something"
+    ],
+    "answer": 4,
+    "explanation": "'Give away' awards means to distribute or present them."
+  },
+  {
+    "id": 129,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "The Headmaster will look into the problem. Choose the correct meaning of the phrase ‘look into’.",
+    "options": [
+      "consume",
+      "stare",
+      "examine",
+      "disclose"
+    ],
+    "answer": 3,
+    "explanation": "'Look into' means investigate or examine."
+  },
+  {
+    "id": 130,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "Carry on until you get to the junction, then turn left. Choose the correct meaning of the phrasal verb ‘carry on’.",
+    "options": [
+      "to continue moving",
+      "to stop moving",
+      "to pause moving",
+      "to investigate"
+    ],
+    "answer": 1,
+    "explanation": "'Carry on' means continue moving or proceeding."
+  },
+  {
+    "id": 141,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "The situation needs prompt action. Choose the suitable phrase that means ‘needs’:",
+    "options": [
+      "calls for",
+      "calls off",
+      "calls out",
+      "call at"
+    ],
+    "answer": 1,
+    "explanation": "'Calls for' means demands or requires / needs."
+  },
+  {
+    "id": 146,
+    "subject": "English",
+    "topic": "Phrasal Verbs",
+    "question": "I look after his affairs in his absence. Choose the meaning of the phrasal verb ‘look after’.",
+    "options": [
+      "to examine",
+      "to look again",
+      "to hope for",
+      "to take care of"
+    ],
+    "answer": 4,
+    "explanation": "'Look after' means to care for or take care of."
+  },
+  {
+    "id": 154,
+    "subject": "English",
+    "topic": "Modals",
+    "question": "It ____ rain today. Choose the correct modal verb used to express possibility.",
+    "options": [
+      "shall",
+      "would",
+      "may",
+      "will"
+    ],
+    "answer": 3,
+    "explanation": "'May' is used to express possibility."
+  },
+  {
+    "id": 162,
+    "subject": "English",
+    "topic": "Language Functions",
+    "question": "May God bless you! Choose the language function of the given sentence.",
+    "options": [
+      "Possibility",
+      "Prediction",
+      "Wish",
+      "Suggestion"
+    ],
+    "answer": 3,
+    "explanation": "'May God bless you!' expresses a Wish or Benediction."
+  },
+  {
+    "id": 185,
+    "subject": "English",
+    "topic": "Subject-Verb Agreement",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "The quality of mangoes were not good.",
+      "The quality of mangoes was not good.",
+      "The quality of mangoes have not good.",
+      "The quality of mangoes has not good."
+    ],
+    "answer": 2,
+    "explanation": "The head noun of the subject is 'The quality' (singular), so the verb must be singular ('was not good')."
+  },
+  {
+    "id": 188,
+    "subject": "English",
+    "topic": "Subject-Verb Agreement",
+    "question": "Identify the grammatically correct sentence.",
+    "options": [
+      "Silver as well as cotton has fallen in price.",
+      "Silver as well as cotton have fallen in price.",
+      "Silver as well as cotton have been fallen in price.",
+      "Silver as well as cotton fallen in price."
+    ],
+    "answer": 1,
+    "explanation": "When two subjects are joined by 'as well as', the verb agrees with the first subject ('Silver' -> singular 'has fallen')."
+  },
+  {
+    "id": 196,
+    "subject": "English",
+    "topic": "Conjunctions",
+    "question": "Their house is _____ big ____ small. Choose the correct pair of correlative conjunctions.",
+    "options": [
+      "neither, nor",
+      "either, nor",
+      "neither, not",
+      "neither, or"
+    ],
+    "answer": 1,
+    "explanation": "The correct correlative conjunction pair is 'neither... nor'."
+  },
+  {
+    "id": 197,
+    "subject": "English",
+    "topic": "Linkers",
+    "question": "The road was closed _____ an accident. Choose the correct linker.",
+    "options": [
+      "due to",
+      "in spite of",
+      "unless",
+      "furthermore"
+    ],
+    "answer": 1,
+    "explanation": "'Due to' means caused by / because of."
+  },
+  {
+    "id": 204,
+    "subject": "English",
+    "topic": "Linkers",
+    "question": "The new system was supposed to be more efficient. _______, in practice it caused chaos.",
+    "options": [
+      "However",
+      "And",
+      "If",
+      "In spite of"
+    ],
+    "answer": 1,
+    "explanation": "'However' connects two contrasting sentences."
+  },
+  {
+    "id": 262,
+    "subject": "English",
+    "topic": "Prepositions",
+    "question": "Our National Anthem was translated ____ Bengali ___ English.",
+    "options": [
+      "in, to",
+      "in, in",
+      "to, in",
+      "from, to"
+    ],
+    "answer": 4,
+    "explanation": "Translation occurs 'from' one language 'to' another."
+  },
+  {
+    "id": 263,
+    "subject": "English",
+    "topic": "Prepositions",
+    "question": "Mahatma Gandhi was born ____ Porbandar ____ Gujarat.",
+    "options": [
+      "on, in",
+      "in, in",
+      "in, on",
+      "at, in"
+    ],
+    "answer": 4,
+    "explanation": "Smaller places take 'at' while larger areas/states take 'in': 'at Porbandar in Gujarat'."
+  },
+  {
+    "id": 270,
+    "subject": "English",
+    "topic": "Prepositions",
+    "question": "The ant hill was in ____ two coconut trees.",
+    "options": [
+      "between",
+      "among",
+      "along",
+      "across"
+    ],
+    "answer": 1,
+    "explanation": "For two distinct entities, we use 'between'."
+  }
+]

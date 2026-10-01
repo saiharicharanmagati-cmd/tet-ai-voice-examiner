@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "subject": "Maths",
+    "topic": "Divisibility Rules",
+    "question": "Which of the following numbers is exactly divisible by 9? / క్రింది వాటిలో 9 చే నిశ్శేషంగా భాగింపబడే సంఖ్య ఏది?",
+    "options": [
+      "1167",
+      "5536",
+      "2343",
+      "4563"
+    ],
+    "answer": 4,
+    "explanation": "Sum of digits in 4563: 4 + 5 + 6 + 3 = 18, which is divisible by 9. Therefore, 4563 is divisible by 9."
+  },
+  {
+    "id": 2,
+    "subject": "Maths",
+    "topic": "Number System",
+    "question": "The difference between the largest 6-digit number and the largest 5-digit number is / 6-అంకెల పెద్ద సంఖ్యకు, 5-అంకెల పెద్ద సంఖ్యకు గల తేడా:",
+    "options": [
+      "900000",
+      "9000",
+      "99999",
+      "900009"
+    ],
+    "answer": 1,
+    "explanation": "Largest 6-digit = 999999, Largest 5-digit = 99999. Difference = 999999 - 99999 = 900000."
+  },
+  {
+    "id": 3,
+    "subject": "Maths",
+    "topic": "Place Value",
+    "question": "The place value of 4 in 46,739 is / 46,739 అనే సంఖ్యలో 4 యొక్క స్థాన విలువ:",
+    "options": [
+      "40000",
+      "4000",
+      "400",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "4 is in the ten-thousands place, so its place value is 4 × 10,000 = 40,000."
+  },
+  {
+    "id": 10,
+    "subject": "Maths",
+    "topic": "Units & Conversions",
+    "question": "1 million = _______ lakhs / 1 మిలియన్ = _______ లక్షలు:",
+    "options": [
+      "5",
+      "10",
+      "100",
+      "1000"
+    ],
+    "answer": 2,
+    "explanation": "1 million = 1,000,000 = 10 lakhs (10,00,000)."
+  },
+  {
+    "id": 49,
+    "subject": "Maths",
+    "topic": "Prime Numbers",
+    "question": "The only even prime number is / సరి ప్రధాన సంఖ్య ఏది?",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "2"
+    ],
+    "answer": 4,
+    "explanation": "2 is the only even prime number and the smallest prime number."
+  },
+  {
+    "id": 50,
+    "subject": "Maths",
+    "topic": "HCF & LCM",
+    "question": "The highest common factor (HCF) of 24 and 36 is / 24 మరియు 36 ల యొక్క గరిష్ట సామాన్య కారణాంకం (గ.సా.కా):",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Highest common factor = 12."
+  },
+  {
+    "id": 65,
+    "subject": "Maths",
+    "topic": "Square Roots",
+    "question": "If √1764 = 42 then √17.64 = ? / √1764 = 42 అయిన √17.64 = ?",
+    "options": [
+      "0.42",
+      "4.2",
+      "0.042",
+      "0.0042"
+    ],
+    "answer": 2,
+    "explanation": "√17.64 = √(1764 / 100) = 42 / 10 = 4.2."
+  },
+  {
+    "id": 66,
+    "subject": "Maths",
+    "topic": "Square Numbers",
+    "question": "The greatest 4-digit perfect square is / 4-అంకెల గరిష్ట పరిపూర్ణ వర్గం:",
+    "options": [
+      "9998",
+      "9600",
+      "9999",
+      "9801"
+    ],
+    "answer": 4,
+    "explanation": "99^2 = 9801, 100^2 = 10000 (5 digits). So 9801 is the greatest 4-digit perfect square."
+  },
+  {
+    "id": 84,
+    "subject": "Maths",
+    "topic": "Pythagorean Triplets",
+    "question": "Identify a Pythagorean triplet whose one number is 6 / 6 ఒక సంఖ్యగా గల పైథాగరియన్ త్రికమును గుర్తించండి:",
+    "options": [
+      "6, 8, 10",
+      "6, 10, 12",
+      "6, 8, 12",
+      "6, 9, 15"
+    ],
+    "answer": 1,
+    "explanation": "6^2 + 8^2 = 36 + 64 = 100 = 10^2. Hence (6, 8, 10) forms a Pythagorean triplet."
+  },
+  {
+    "id": 90,
+    "subject": "Maths",
+    "topic": "Special Numbers",
+    "question": "Hardy-Ramanujan Number among the following is / క్రింది వానిలో హార్డీ-రామానుజన్ సంఖ్య ఏది?",
+    "options": [
+      "1279",
+      "1927",
+      "1729",
+      "1792"
+    ],
+    "answer": 3,
+    "explanation": "1729 is the smallest number expressible as the sum of two cubes in two different ways (1^3 + 12^3 = 9^3 + 10^3 = 1729)."
+  },
+  {
+    "id": 110,
+    "subject": "Maths",
+    "topic": "Ratio & Proportion",
+    "question": "The ratio of 90 cm to 1.5 m is / 90 సెం. మీ. కు, 1.5 మీటర్లకు నిష్పత్తి:",
+    "options": [
+      "5:2",
+      "5:3",
+      "2:5",
+      "3:5"
+    ],
+    "answer": 4,
+    "explanation": "1.5 m = 150 cm. Ratio = 90 : 150 = 9 : 15 = 3 : 5."
+  },
+  {
+    "id": 127,
+    "subject": "Maths",
+    "topic": "Percentages",
+    "question": "The population of a city decreased from 25,000 to 24,500. The percentage of decrease is / ఒక నగర జనాభా 25,000 నుండి 24,500 కు తగ్గింది. తగ్గుదల శాతం:",
+    "options": [
+      "1%",
+      "2%",
+      "4%",
+      "5%"
+    ],
+    "answer": 2,
+    "explanation": "Decrease = 25,000 - 24,500 = 500. Percentage = (500 / 25,000) × 100% = 2%."
+  },
+  {
+    "id": 168,
+    "subject": "Maths",
+    "topic": "Commercial Mathematics",
+    "question": "A person bought a pair of skates at a sale where the discount was 20%. If the amount he pays is ₹1600, the marked price is:",
+    "options": [
+      "₹1750",
+      "₹1800",
+      "₹1900",
+      "₹2000"
+    ],
+    "answer": 4,
+    "explanation": "Sale price = 80% of Marked Price. MP = 1600 / 0.8 = ₹2000."
+  },
+  {
+    "id": 174,
+    "subject": "Maths",
+    "topic": "Simple Interest",
+    "question": "The simple interest on ₹18,000 at 10% per annum for 2 years is / ₹18,000 పై సంవత్సరానికి 10% వడ్డీరేటు చొప్పున 2 సంవత్సరాలకు సాధారణ వడ్డీ:",
+    "options": [
+      "₹3,600",
+      "₹1,800",
+      "₹5,400",
+      "₹3,200"
+    ],
+    "answer": 1,
+    "explanation": "SI = (P × T × R) / 100 = (18000 × 2 × 10) / 100 = ₹3,600."
+  },
+  {
+    "id": 211,
+    "subject": "Maths",
+    "topic": "Geometry - Angles",
+    "question": "The difference between 105° and its supplementary angle is / 105° మరియు దాని సంపూరక కోణముల మధ్య భేదం:",
+    "options": [
+      "20°",
+      "30°",
+      "40°",
+      "50°"
+    ],
+    "answer": 2,
+    "explanation": "Supplementary angle to 105° is 180° - 105° = 75°. Difference = 105° - 75° = 30°."
+  },
+  {
+    "id": 217,
+    "subject": "Maths",
+    "topic": "Geometry - Angles",
+    "question": "The complementary angle of 37° is / 37° యొక్క పూరక కోణము:",
+    "options": [
+      "43°",
+      "53°",
+      "63°",
+      "73°"
+    ],
+    "answer": 2,
+    "explanation": "Complementary angle = 90° - 37° = 53°."
+  },
+  {
+    "id": 221,
+    "subject": "Maths",
+    "topic": "Geometry - Angles",
+    "question": "The angle between two hands of a clock at 6 o'clock is / 6 గంటల సమయంలో గడియారంలోని రెండు ముళ్ళ మధ్య కోణం:",
+    "options": [
+      "Straight angle (సరళకోణం)",
+      "Right angle (లంబకోణం)",
+      "Acute angle (అల్పకోణం)",
+      "Obtuse angle (అధికకోణం)"
+    ],
+    "answer": 1,
+    "explanation": "At 6:00, the hands point in opposite directions making a straight 180° angle."
+  },
+  {
+    "id": 240,
+    "subject": "Maths",
+    "topic": "Geometry - Triangles",
+    "question": "Sum of all exterior angles of a triangle is / త్రిభుజము యొక్క బాహ్య కోణాల మొత్తం:",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "answer": 3,
+    "explanation": "The sum of the exterior angles of any convex polygon (including a triangle) is 360°."
+  },
+  {
+    "id": 463,
+    "subject": "Maths",
+    "topic": "Mensuration",
+    "question": "Number of faces of a cuboid / దీర్ఘ ఘనము యొక్క ముఖముల సంఖ్య:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "A cuboid has 6 rectangular faces."
+  },
+  {
+    "id": 506,
+    "subject": "Maths",
+    "topic": "Pedagogy",
+    "question": "Which is the Sanskrit word for 'Mathematics'? / 'Mathematics' కు సమానమైన సంస్కృత పదం ఏది?",
+    "options": [
+      "Ganita (గణిత)",
+      "Counting (లెక్కించుట)",
+      "Maths (మ్యాథ్స్)",
+      "Logic (తర్కం)"
+    ],
+    "answer": 1,
+    "explanation": "'Ganita' is the Sanskrit root term meaning calculation and science of mathematics."
+  },
+  {
+    "id": 519,
+    "subject": "Maths",
+    "topic": "Pedagogy & History",
+    "question": "Who is called the Father of Geometry? / ఫాదర్ ఆఫ్ జామెట్రీ అని ఎవరిని అంటారు?",
+    "options": [
+      "Archimedes",
+      "Aristotle",
+      "Euclid (యూక్లిడ్)",
+      "Pythagoras"
+    ],
+    "answer": 3,
+    "explanation": "Euclid of Alexandria is universally recognized as the Father of Geometry."
+  },
+  {
+    "id": 552,
+    "subject": "Maths",
+    "topic": "Pedagogy",
+    "question": "The Greek word 'Heurisco' means / 'Heurisco' అను గ్రీకు పదం యొక్క అర్థం:",
+    "options": [
+      "I find (నేను కనుక్కొంటాను)",
+      "I know (నాకు తెలుసు)",
+      "I do (నేను చేస్తాను)",
+      "I can (నేను చేయగలను)"
+    ],
+    "answer": 1,
+    "explanation": "'Heurisco' in Greek means 'I discover' or 'I find'."
+  },
+  {
+    "id": 4,
+    "subject": "Maths",
+    "topic": "Number Sense",
+    "question": "The face value of 6 in 46,739 is / 46,739 అనే సంఖ్యలో 6 యొక్క సహజ విలువ:",
+    "options": [
+      "6000",
+      "600",
+      "60",
+      "6"
+    ],
+    "answer": 4,
+    "explanation": "The face value of a digit is the digit itself, so face value of 6 is 6."
+  },
+  {
+    "id": 20,
+    "subject": "Maths",
+    "topic": "Divisibility",
+    "question": "The number which is exactly divisible by 4 is / 4 చే నిశ్శేషంగా భాగింపబడు సంఖ్య:",
+    "options": [
+      "23754",
+      "83243",
+      "56780",
+      "40409"
+    ],
+    "answer": 3,
+    "explanation": "A number is divisible by 4 if its last two digits form a number divisible by 4. 80 / 4 = 20."
+  },
+  {
+    "id": 21,
+    "subject": "Maths",
+    "topic": "Number Sense",
+    "question": "The largest 4-digit number is / 4-అంకెల గరిష్ట సంఖ్య:",
+    "options": [
+      "9000",
+      "9009",
+      "9999",
+      "8999"
+    ],
+    "answer": 3,
+    "explanation": "9999 is the greatest 4-digit integer."
+  },
+  {
+    "id": 23,
+    "subject": "Maths",
+    "topic": "Fractions",
+    "question": "The simplest form of 27/36 is / 27/36 భిన్నం యొక్క కనిష్ట రూపం:",
+    "options": [
+      "3/4",
+      "4/3",
+      "3/5",
+      "3/7"
+    ],
+    "answer": 1,
+    "explanation": "Dividing numerator and denominator by 9 gives 27/36 = 3/4."
+  },
+  {
+    "id": 28,
+    "subject": "Maths",
+    "topic": "Decimals",
+    "question": "The value of 0.2 × 0.3 is / 0.2 × 0.3 యొక్క విలువ:",
+    "options": [
+      "0.6",
+      "0.66",
+      "0.06",
+      "0.5"
+    ],
+    "answer": 3,
+    "explanation": "2 × 3 = 6; with two decimal places it becomes 0.06."
+  },
+  {
+    "id": 34,
+    "subject": "Maths",
+    "topic": "Decimals & Money",
+    "question": "The decimal form of 2 rupees 5 paise is / 2 రూపాయల 5 పైసల యొక్క దశాంశ రూపం:",
+    "options": [
+      "₹ 2.50",
+      "₹ 2.05",
+      "₹ 25.0",
+      "₹ 0.25"
+    ],
+    "answer": 2,
+    "explanation": "5 paise = 5/100 rupees = 0.05 rupees. Total = ₹ 2.05."
+  },
+  {
+    "id": 108,
+    "subject": "Maths",
+    "topic": "Ratio",
+    "question": "The ratio of two numbers is 1:2 and their sum is 60. The largest number is / రెండు సంఖ్యల నిష్పత్తి 1:2 మరియు వాటి మొత్తం 60. గరిష్ట సంఖ్య:",
+    "options": [
+      "20",
+      "40",
+      "25",
+      "45"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 1 + 2 = 3. 1 part = 60/3 = 20. Larger number = 2 × 20 = 40."
+  },
+  {
+    "id": 114,
+    "subject": "Maths",
+    "topic": "Ratio",
+    "question": "In a class, there are 51 boys and 68 girls. The ratio of the number of boys to girls is:",
+    "options": [
+      "3:5",
+      "4:3",
+      "3:2",
+      "3:4"
+    ],
+    "answer": 4,
+    "explanation": "51 / 68 = (17 × 3) / (17 × 4) = 3:4."
+  },
+  {
+    "id": 146,
+    "subject": "Maths",
+    "topic": "Percentages",
+    "question": "A football team won 10 matches out of total matches played. If winning percentage was 40%, total matches played were:",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "40% of Total = 10 -> Total = 10 / 0.40 = 25 matches."
+  },
+  {
+    "id": 230,
+    "subject": "Maths",
+    "topic": "Geometry - Symmetry",
+    "question": "Number of symmetric lines of a square is / ఒక చతురస్రానికి గల రేఖా సౌష్టవాల సంఖ్య:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 4,
+    "explanation": "A square has 4 lines of symmetry: 2 through the midpoints of opposite sides and 2 along the diagonals."
+  },
+  {
+    "id": 246,
+    "subject": "Maths",
+    "topic": "Geometry",
+    "question": "Each external angle of an equilateral triangle is / సమబాహు త్రిభుజము యొక్క ప్రతి బాహ్య కోణము కొలత:",
+    "options": [
+      "60°",
+      "120°",
+      "100°",
+      "90°"
+    ],
+    "answer": 2,
+    "explanation": "Interior angle of equilateral triangle = 60°. Exterior angle = 180° - 60° = 120°."
+  },
+  {
+    "id": 260,
+    "subject": "Maths",
+    "topic": "Mensuration",
+    "question": "The area of a square whose diagonal is 10 cm is (in cm²):",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "answer": 1,
+    "explanation": "Area = (d²) / 2 = (10 × 10) / 2 = 50 cm²."
+  },
+  {
+    "id": 261,
+    "subject": "Maths",
+    "topic": "Mensuration",
+    "question": "If area of a square is 64 cm² then its perimeter is (in cm):",
+    "options": [
+      "16",
+      "24",
+      "32",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "Side = √64 = 8 cm. Perimeter = 4 × 8 = 32 cm."
+  },
+  {
+    "id": 278,
+    "subject": "Maths",
+    "topic": "Statistics",
+    "question": "The mean of the data 10, 12, 14, 8, 6 and 4 is / దత్తాంశము సగటు:",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "Sum = 10 + 12 + 14 + 8 + 6 + 4 = 54. Mean = 54 / 6 = 9."
+  },
+  {
+    "id": 316,
+    "subject": "Maths",
+    "topic": "Probability",
+    "question": "When a die is thrown, the number of total possible outcomes is / పాచికను దొర్లించినపుడు వచ్చే మొత్తం పర్యవసానాల సంఖ్య:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "A fair 6-sided die has sample space {1, 2, 3, 4, 5, 6} -> 6 outcomes."
+  },
+  {
+    "id": 317,
+    "subject": "Maths",
+    "topic": "Probability",
+    "question": "The probability of getting number 5 when a die is thrown once is / పాచికను విసరగా 5 వచ్చు సంభావ్యత:",
+    "options": [
+      "1/2",
+      "1/5",
+      "1/6",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "Favorable outcome = 1 (number 5). Total outcomes = 6. Probability = 1/6."
+  },
+  {
+    "id": 5,
+    "subject": "Maths",
+    "topic": "Place Value & Face Value",
+    "question": "The difference between place value and face value of 5 in 65,349 is / 65,349 అనే సంఖ్యలో 5 యొక్క స్థాన విలువ, ముఖ విలువల మధ్య తేడా:",
+    "options": [
+      "5000",
+      "4995",
+      "5005",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Place value of 5 = 5,000; Face value of 5 = 5. Difference = 5000 - 5 = 4995."
+  },
+  {
+    "id": 6,
+    "subject": "Maths",
+    "topic": "Number Formation",
+    "question": "The greatest 7-digit number formed by using the digits 0, 7, 4, 1, 3, 6 and 2 is / 0,7,4,1,3,6 మరియు 2 లచే ఏర్పడే 7-అంకెల పెద్ద సంఖ్య:",
+    "options": [
+      "76,43,102",
+      "76,42,310",
+      "76,43,210",
+      "74,32,106"
+    ],
+    "answer": 3,
+    "explanation": "Arranging digits in descending order: 7, 6, 4, 3, 2, 1, 0 -> 76,43,210."
+  },
+  {
+    "id": 16,
+    "subject": "Maths",
+    "topic": "Unitary Method",
+    "question": "The cost of 63 erasers is ₹315. The cost of 42 erasers is / 63 రబ్బరుల వెల ₹315 అయిన 42 రబ్బరుల వెల:",
+    "options": [
+      "₹105",
+      "₹210",
+      "₹240",
+      "₹270"
+    ],
+    "answer": 2,
+    "explanation": "Cost of 1 eraser = 315 / 63 = ₹5. Cost of 42 erasers = 42 × 5 = ₹210."
+  },
+  {
+    "id": 18,
+    "subject": "Maths",
+    "topic": "Integers",
+    "question": "The number of integers lying strictly between -3 and +3 is / -3 మరియు +3 ల మధ్య గల పూర్ణసంఖ్యల సంఖ్య:",
+    "options": [
+      "0",
+      "5",
+      "3",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Integers between -3 and +3 are: -2, -1, 0, 1, 2. Count = 5."
+  },
+  {
+    "id": 32,
+    "subject": "Maths",
+    "topic": "Fractions",
+    "question": "What fraction of a day is 8 hours? / ఒక రోజులో 8 గంటలు ఎన్నవ భాగం?",
+    "options": [
+      "1/8",
+      "24/8",
+      "8/24 (1/3)",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "A full day has 24 hours. Fraction = 8 / 24 = 1/3."
+  },
+  {
+    "id": 33,
+    "subject": "Maths",
+    "topic": "Averages",
+    "question": "The average of 4.2, 3.8, and 7.6 is / 4.2, 3.8, 7.6 యొక్క సగటు:",
+    "options": [
+      "4.8",
+      "5.2",
+      "6.3",
+      "3.8"
+    ],
+    "answer": 2,
+    "explanation": "Sum = 4.2 + 3.8 + 7.6 = 15.6. Average = 15.6 / 3 = 5.2."
+  },
+  {
+    "id": 41,
+    "subject": "Maths",
+    "topic": "Word Problems - Age",
+    "question": "Ravi is 14 years old. His mother is 23 years older than Ravi. His mother’s age is: / రవి వయస్సు 14 సంవత్సరాలు. తల్లి వయస్సు రవి కంటే 23 సంవత్సరాలు ఎక్కువ. తల్లి వయస్సు:",
+    "options": [
+      "37 years",
+      "38 years",
+      "47 years",
+      "49 years"
+    ],
+    "answer": 1,
+    "explanation": "Mother's age = 14 + 23 = 37 years."
+  },
+  {
+    "id": 43,
+    "subject": "Maths",
+    "topic": "LCM",
+    "question": "The least common multiple (LCM) of 24, 32 and 48 is / 24, 32 మరియు 48 ల కనిష్ట సామాన్య గుణిజం:",
+    "options": [
+      "48",
+      "96",
+      "72",
+      "64"
+    ],
+    "answer": 2,
+    "explanation": "48 = 2^4 * 3, 32 = 2^5, 24 = 2^3 * 3. LCM = 2^5 * 3 = 32 * 3 = 96."
+  },
+  {
+    "id": 55,
+    "subject": "Maths",
+    "topic": "LCM & Number Sense",
+    "question": "The smallest 3-digit number which is exactly divisible by 6, 8 and 12 is:",
+    "options": [
+      "100",
+      "120",
+      "180",
+      "240"
+    ],
+    "answer": 2,
+    "explanation": "LCM(6, 8, 12) = 24. Multiples of 24: 24, 48, 72, 96, 120. Smallest 3-digit is 120."
+  },
+  {
+    "id": 59,
+    "subject": "Maths",
+    "topic": "HCF",
+    "question": "HCF of any two consecutive even numbers is / రెండు వరుస సరి సంఖ్యల గ.సా.కా. విలువ:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Any two consecutive even numbers (e.g. 2n and 2n+2) always have a greatest common divisor of 2."
+  },
+  {
+    "id": 71,
+    "subject": "Maths",
+    "topic": "Squares",
+    "question": "The number of natural numbers lying between 9² and 10² is:",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "Between n² and (n+1)², there are 2n non-perfect square numbers: 2 × 9 = 18."
+  },
+  {
+    "id": 92,
+    "subject": "Maths",
+    "topic": "Squares and Cubes",
+    "question": "Which of the following numbers is both a perfect square and a perfect cube? / ఖచ్చిత వర్గం మరియు ఖచ్చిత ఘనం రెండూ అయ్యే సంఖ్య:",
+    "options": [
+      "27",
+      "64",
+      "36",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "64 = 8² and 64 = 4³."
+  },
+  {
+    "id": 131,
+    "subject": "Maths",
+    "topic": "Percentages",
+    "question": "There are 120 voters, 90 of them voted 'YES'. The percentage of voted 'YES' is:",
+    "options": [
+      "80%",
+      "60%",
+      "70%",
+      "75%"
+    ],
+    "answer": 4,
+    "explanation": "(90 / 120) × 100% = (3 / 4) × 100% = 75%."
+  },
+  {
+    "id": 178,
+    "subject": "Maths",
+    "topic": "Compound Interest",
+    "question": "The compound interest on ₹12,600 for 2 years at 10% per annum compounded annually is:",
+    "options": [
+      "₹2,646",
+      "₹2,676",
+      "₹2,466",
+      "₹2,546"
+    ],
+    "answer": 1,
+    "explanation": "A = 12600 × (1.1)² = 12600 × 1.21 = ₹15,246. CI = 15246 - 12600 = ₹2,646."
+  },
+  {
+    "id": 226,
+    "subject": "Maths",
+    "topic": "Geometry - Lines & Angles",
+    "question": "If a transversal intersects two parallel lines and one co-interior angle is 60°, the other co-interior angle is:",
+    "options": [
+      "60°",
+      "120°",
+      "30°",
+      "40°"
+    ],
+    "answer": 2,
+    "explanation": "Consecutive interior (co-interior) angles are supplementary: 180° - 60° = 120°."
+  },
+  {
+    "id": 236,
+    "subject": "Maths",
+    "topic": "Geometry - Triangles",
+    "question": "If angles of a triangle are in the ratio 2:3:4, then the largest angle is:",
+    "options": [
+      "20°",
+      "40°",
+      "60°",
+      "80°"
+    ],
+    "answer": 4,
+    "explanation": "Total parts = 2 + 3 + 4 = 9. 1 part = 180° / 9 = 20°. Largest angle = 4 × 20° = 80°."
+  },
+  {
+    "id": 254,
+    "subject": "Maths",
+    "topic": "Geometry - Polygons",
+    "question": "Each external angle of a regular octagon is / ఒక క్రమ అష్టభుజి యొక్క ప్రతి బాహ్య కోణము విలువ:",
+    "options": [
+      "30°",
+      "36°",
+      "45°",
+      "72°"
+    ],
+    "answer": 3,
+    "explanation": "External angle = 360° / n = 360° / 8 = 45°."
+  },
+  {
+    "id": 267,
+    "subject": "Maths",
+    "topic": "Geometry - Polygons",
+    "question": "Number of diagonals in a regular hexagon is / ఒక షడ్భుజి యందు కల కర్ణముల సంఖ్య:",
+    "options": [
+      "6",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Number of diagonals in an n-gon = n(n-3)/2 = 6 × 3 / 2 = 9."
+  },
+  {
+    "id": 274,
+    "subject": "Maths",
+    "topic": "Statistics History",
+    "question": "The founder of the Indian Statistical Institute (ISI) in Kolkata was:",
+    "options": [
+      "P. C. Manohar",
+      "P. C. Sirkar",
+      "P. C. Mahalanobis (మహల్ నోబిస్)",
+      "P. C. Madhava Iyer"
+    ],
+    "answer": 3,
+    "explanation": "Professor Prasanta Chandra Mahalanobis founded the Indian Statistical Institute in 1931."
+  },
+  {
+    "id": 319,
+    "subject": "Maths",
+    "topic": "Probability",
+    "question": "A bag has 4 red balls and 2 yellow balls. What is the probability of drawing a red ball randomly?",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "answer": 3,
+    "explanation": "Total balls = 4 + 2 = 6. Favorable = 4. P(Red) = 4 / 6 = 2/3."
+  },
+  {
+    "id": 470,
+    "subject": "Maths",
+    "topic": "Solid Geometry",
+    "question": "Number of edges in a cube is / ఒక సమఘనం యొక్క అంచుల సంఖ్య:",
+    "options": [
+      "6",
+      "3",
+      "10",
+      "12"
+    ],
+    "answer": 4,
+    "explanation": "A cube has 6 faces, 8 vertices, and 12 straight edges."
+  },
+  {
+    "id": 514,
+    "subject": "Maths",
+    "topic": "Maths Pedagogy",
+    "question": "Who wrote the landmark treatise 'Ganitha Saara Sangraham'?",
+    "options": [
+      "Boudhayana",
+      "Mahaveeracharya (మహావీరాచార్యులు)",
+      "Aryabhata",
+      "Bhaskaracharya"
+    ],
+    "answer": 2,
+    "explanation": "Mahāvīrācārya (9th century Jain mathematician) authored 'Ganita Sara Sangraha'."
+  }
+]

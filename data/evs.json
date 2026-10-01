@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "subject": "EVS",
+    "topic": "Plant Biology",
+    "question": "This part of the plant fixes it to the ground / మొక్కలోని ఈ భాగం దానిని నేలలో స్థిరపరచును:",
+    "options": [
+      "Stem (కాండం)",
+      "Leaf (పత్రం)",
+      "Root (వేరు)",
+      "Fruit (ఫలం)"
+    ],
+    "answer": 3,
+    "explanation": "Roots anchor the plant firmly in the soil."
+  },
+  {
+    "id": 2,
+    "subject": "EVS",
+    "topic": "Plant Biology",
+    "question": "This part of the plant absorbs water and minerals from soil / నేల నుండి నీటిని మరియు లవణాలను శోషించే మొక్కలోని భాగం:",
+    "options": [
+      "Stem (కాండం)",
+      "Root (వేరు)",
+      "Leaf (పత్రం)",
+      "Flower (పుష్పం)"
+    ],
+    "answer": 2,
+    "explanation": "Roots absorb water and dissolved minerals from the ground."
+  },
+  {
+    "id": 8,
+    "subject": "EVS",
+    "topic": "Plant Biology",
+    "question": "This part of the plant is called as food factory / మొక్కలలో ఆహార కర్మాగారంగా పిలువబడే భాగం:",
+    "options": [
+      "Stem (కాండం)",
+      "Leaf (పత్రం)",
+      "Root (వేరు)",
+      "Fruit (ఫలం)"
+    ],
+    "answer": 2,
+    "explanation": "Leaves prepare food through photosynthesis and are called the food factories of plants."
+  },
+  {
+    "id": 20,
+    "subject": "EVS",
+    "topic": "Animal Adaptations",
+    "question": "This organism has a boat-shaped body, fins, tail and gills to live in water / నీటిలో నివసించుటకు పడవ వంటి శరీరాకారం, వాజాలు, తోక మరియు మొప్పలు కలిగిన జీవి:",
+    "options": [
+      "Salamander (సాలమాండర్)",
+      "Frog (కప్ప)",
+      "Fish (చేప)",
+      "Hippo (నీటి ఏనుగు)"
+    ],
+    "answer": 3,
+    "explanation": "Fishes possess streamlined boat-shaped bodies, fins, and gills to respire underwater."
+  },
+  {
+    "id": 26,
+    "subject": "EVS",
+    "topic": "Nutrition & Vitamins",
+    "question": "Sunlight is a natural source of this Vitamin / సూర్యరశ్మి వనరుగా ఉన్న విటమిన్:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 4,
+    "explanation": "Sunlight synthesizes Vitamin D in human skin."
+  },
+  {
+    "id": 27,
+    "subject": "EVS",
+    "topic": "Nutrition & Deficiency",
+    "question": "This vitamin deficiency causes Scurvy / ఈ విటమిన్ లోపం వలన స్కర్వీ కలుగుతుంది:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 3,
+    "explanation": "Deficiency of Vitamin C (ascorbic acid) causes Scurvy (bleeding gums)."
+  },
+  {
+    "id": 28,
+    "subject": "EVS",
+    "topic": "Nutrition & Minerals",
+    "question": "This mineral deficiency causes Goitre / ఈ ఖనిజ లవణం లోపం వలన గాయిటర్ వ్యాధి కలుగుతుంది:",
+    "options": [
+      "Iodine (అయోడిన్)",
+      "Calcium (కాల్షియం)",
+      "Iron (ఇనుము)",
+      "Chlorine (క్లోరిన్)"
+    ],
+    "answer": 1,
+    "explanation": "Iodine deficiency in the diet leads to enlargement of the thyroid gland, called Goitre."
+  },
+  {
+    "id": 44,
+    "subject": "EVS",
+    "topic": "Cell Biology",
+    "question": "The term 'cell' was coined by / 'కణం' పేరును ప్రతిపాదించినవారు:",
+    "options": [
+      "Robert Brown (రాబర్ట్ బ్రౌన్)",
+      "Robert Hooke (రాబర్ట్ హుక్)",
+      "Leuwenhoek (లీవెన్ హుక్)",
+      "Louis Pasteur (లూయిస్ పాశ్చర్)"
+    ],
+    "answer": 2,
+    "explanation": "Robert Hooke coined the term 'cell' in 1665 observing cork tissue."
+  },
+  {
+    "id": 47,
+    "subject": "EVS",
+    "topic": "Cell Biology",
+    "question": "The largest cell is / అతిపెద్ద కణం:",
+    "options": [
+      "Bacteria (బ్యాక్టీరియా)",
+      "WBC (తెల్ల రక్త కణం)",
+      "Ostrich egg (ఉష్ట్ర పక్షి గుడ్డు)",
+      "Hen egg (కోడి గుడ్డు)"
+    ],
+    "answer": 3,
+    "explanation": "An unfertilized ostrich egg is the largest single biological cell known."
+  },
+  {
+    "id": 49,
+    "subject": "EVS",
+    "topic": "Cell Biology",
+    "question": "The most important and controlling component of a living cell is / జీవ కణంలోని అతి ముఖ్యమైన మరియు నియంత్రణ భాగము:",
+    "options": [
+      "Cytoplasm (కణద్రవ్యం)",
+      "Cell membrane (కణత్వచం)",
+      "Vacuole (రిక్తిక)",
+      "Nucleus (కేంద్రకం)"
+    ],
+    "answer": 4,
+    "explanation": "The nucleus controls all cellular metabolic and genetic activities."
+  },
+  {
+    "id": 52,
+    "subject": "EVS",
+    "topic": "Cell Biology",
+    "question": "The cell organelle that is absent in animal cells / జంతు కణంలో ఉండని కణాంగము:",
+    "options": [
+      "Cell membrane (కణత్వచం)",
+      "Mitochondria (మైటోకాండ్రియా)",
+      "Nucleus (కేంద్రకం)",
+      "Plastids (ప్లాస్టిడ్లు)"
+    ],
+    "answer": 4,
+    "explanation": "Plastids (such as chloroplasts) are present in plant cells and absent in animal cells."
+  },
+  {
+    "id": 61,
+    "subject": "EVS",
+    "topic": "Microorganisms & Medicine",
+    "question": "Penicillin was first prepared by / పెన్సిలిన్ ను మొదటిసారి తయారు చేసిన వారు:",
+    "options": [
+      "Ronald Ross (రోనాల్డ్ రాస్)",
+      "Louis Pasteur (లూయిస్ పాశ్చర్)",
+      "Alexander Flemming (అలెగ్జాండర్ ఫ్లెమింగ్)",
+      "Edward Jenner (ఎడ్వర్డ్ జెన్నర్)"
+    ],
+    "answer": 3,
+    "explanation": "Sir Alexander Fleming discovered Penicillin in 1928."
+  },
+  {
+    "id": 63,
+    "subject": "EVS",
+    "topic": "Health & Disease",
+    "question": "Female Anopheles mosquito is the carrier of / ఆడ అనాఫిలిస్ దోమ దీనికి వాహకము:",
+    "options": [
+      "Filaria (బోదకాలు)",
+      "Malaria (మలేరియా)",
+      "Dengue (డెంగ్యూ)",
+      "Typhoid (టైఫాయిడ్)"
+    ],
+    "answer": 2,
+    "explanation": "Female Anopheles mosquito transmits Plasmodium parasite causing Malaria."
+  },
+  {
+    "id": 74,
+    "subject": "EVS",
+    "topic": "Human Physiology",
+    "question": "The longest part in the human digestive system is / మానవ జీర్ణవ్యవస్థలోని అత్యంత పొడవైన భాగం:",
+    "options": [
+      "Large intestine (పెద్ద ప్రేగు)",
+      "Oesophagus (ఆహారవాహిక)",
+      "Small intestine (చిన్న ప్రేగు)",
+      "Buccal cavity (ఆస్య కుహరం)"
+    ],
+    "answer": 3,
+    "explanation": "Small intestine is the longest part (approx. 6 meters in adults)."
+  },
+  {
+    "id": 85,
+    "subject": "EVS",
+    "topic": "Human Physiology",
+    "question": "The two upper chambers of heart are called / గుండె లోని పై రెండు గదులను ఇలా పిలుస్తారు:",
+    "options": [
+      "Atria (కర్ణికలు)",
+      "Ventricles (జఠరికలు)",
+      "Arteries (ధమనులు)",
+      "Veins (సిరలు)"
+    ],
+    "answer": 1,
+    "explanation": "The upper receiving chambers of human heart are the Atria (auricles)."
+  },
+  {
+    "id": 147,
+    "subject": "EVS",
+    "topic": "Physical Science - Matter",
+    "question": "Metal that exists in liquid state at room temperature / గది ఉష్ణోగ్రత వద్ద ద్రవస్థితిలో ఉండే లోహం:",
+    "options": [
+      "Iron (ఇనుము)",
+      "Mercury (పాదరసం)",
+      "Copper (రాగి)",
+      "Silver (వెండి)"
+    ],
+    "answer": 2,
+    "explanation": "Mercury (Hg) is the only metallic element liquid at standard room temperature."
+  },
+  {
+    "id": 150,
+    "subject": "EVS",
+    "topic": "Physical Science - Light",
+    "question": "If the angle of incidence is 30°, then the angle of reflection is / పతన కోణం 30° అయిన పరావర్తన కోణం:",
+    "options": [
+      "0°",
+      "30°",
+      "60°",
+      "90°"
+    ],
+    "answer": 2,
+    "explanation": "According to the Law of Reflection, Angle of Incidence (i) = Angle of Reflection (r) = 30°."
+  },
+  {
+    "id": 152,
+    "subject": "EVS",
+    "topic": "Human Eye",
+    "question": "The most comfortable minimum distance of distinct vision for a normal eye is (in cm):",
+    "options": [
+      "2.5 cm",
+      "250 cm",
+      "25 cm",
+      "2500 cm"
+    ],
+    "answer": 3,
+    "explanation": "The least distance of distinct vision for a healthy normal human eye is 25 cm."
+  },
+  {
+    "id": 168,
+    "subject": "EVS",
+    "topic": "Physical Science - Units",
+    "question": "S.I Unit of electric current / విద్యుత్ ప్రవాహానికి S.I ప్రమాణం:",
+    "options": [
+      "Volt (వోల్టు)",
+      "Watt (వాట్)",
+      "Joule (జౌల్)",
+      "Ampere (ఆంపియర్)"
+    ],
+    "answer": 4,
+    "explanation": "The SI unit of electric current is the Ampere (A)."
+  },
+  {
+    "id": 206,
+    "subject": "EVS",
+    "topic": "Magnetism",
+    "question": "A freely suspended bar magnet always aligns in this direction / స్వేచ్ఛగా వేలాడదీసిన దండాయస్కాంతం ఎల్లప్పుడూ ఈ దిశలోకే వస్తుంది:",
+    "options": [
+      "North-South (ఉత్తర – దక్షిణ)",
+      "East-West (తూర్పు – పడమర)",
+      "North-West (ఉత్తర - పడమర)",
+      "South-West (దక్షిణ – పడమర)"
+    ],
+    "answer": 1,
+    "explanation": "Earth's magnetic field directs a freely suspended bar magnet towards geographic North-South."
+  },
+  {
+    "id": 275,
+    "subject": "EVS",
+    "topic": "Space Science",
+    "question": "India’s first artificial satellite was / భారతదేశపు మొట్ట మొదటి కృత్రిమ ఉపగ్రహం:",
+    "options": [
+      "Aryabhata (ఆర్యభట్ట)",
+      "INSAT (ఇన్సాట్)",
+      "IRS (ఐ.ఆర్.యస్)",
+      "EDUSAT (ఎడ్యుసాట్)"
+    ],
+    "answer": 1,
+    "explanation": "Aryabhata, launched in 1975, was India's first artificial satellite."
+  },
+  {
+    "id": 364,
+    "subject": "EVS",
+    "topic": "Indian History",
+    "question": "In this year Vasco da Gama discovered the sea route to India / వాస్కోడిగామా భారతదేశానికి సముద్ర మార్గాన్ని కనిపెట్టిన సంవత్సరం:",
+    "options": [
+      "1498",
+      "1948",
+      "1849",
+      "1984"
+    ],
+    "answer": 1,
+    "explanation": "Portuguese explorer Vasco da Gama landed in Calicut (Kozhikode) in 1498."
+  },
+  {
+    "id": 386,
+    "subject": "EVS",
+    "topic": "Indian Polity",
+    "question": "The constitutional head of the Indian nation is / భారతదేశానికి రాజ్యాంగ అధిపతి:",
+    "options": [
+      "Governor (గవర్నర్)",
+      "Speaker (స్పీకర్)",
+      "Prime minister (ప్రధానమంత్రి)",
+      "President (రాష్ట్రపతి)"
+    ],
+    "answer": 4,
+    "explanation": "The President of India is the supreme executive and constitutional head of state."
+  },
+  {
+    "id": 402,
+    "subject": "EVS",
+    "topic": "Social Reformers",
+    "question": "The first female teacher in India was / భారతదేశంలో మొట్టమొదటి మహిళా ఉపాధ్యాయిని:",
+    "options": [
+      "Sindhu Tai",
+      "Anandi bai Joshi",
+      "Kadambari Ganguli",
+      "Savitri bai Phule (సావిత్రి బాయి ఫూలే)"
+    ],
+    "answer": 4,
+    "explanation": "Savitribai Phule was India's pioneering first female educator."
+  },
+  {
+    "id": 405,
+    "subject": "EVS",
+    "topic": "Notable Personalities",
+    "question": "The author of 'Wings of Fire' / 'వింగ్స్ ఆఫ్ ఫైర్' రచయిత:",
+    "options": [
+      "Jawaharlal Nehru",
+      "Ramnath Kovind",
+      "Amarthya Sen",
+      "Dr. A. P. J Abdul Kalam (డా. ఎ.పి.జె. అబ్దుల్ కలాం)"
+    ],
+    "answer": 4,
+    "explanation": "'Wings of Fire' is the autobiography of Dr. A.P.J. Abdul Kalam."
+  },
+  {
+    "id": 419,
+    "subject": "EVS",
+    "topic": "Indian Constitution",
+    "question": "This article of the Constitution states that untouchability has been abolished / రాజ్యాంగంలోని ఈ అధికరణం అంటరానితనాన్ని నిషేధిస్తుంది:",
+    "options": [
+      "Article 15",
+      "Article 16",
+      "Article 17",
+      "Article 18"
+    ],
+    "answer": 3,
+    "explanation": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form."
+  },
+  {
+    "id": 433,
+    "subject": "EVS",
+    "topic": "World Geography",
+    "question": "Smallest country in the world / ప్రపంచంలోనే అతి చిన్న దేశం:",
+    "options": [
+      "Jordan (జోర్డాన్)",
+      "Vatican City (వాటికన్ సిటీ)",
+      "Belgium (బెల్జియం)",
+      "Taiwan (తైవాన్)"
+    ],
+    "answer": 2,
+    "explanation": "Vatican City is the smallest independent state in the world by both area and population."
+  },
+  {
+    "id": 4,
+    "subject": "EVS",
+    "topic": "Plant Forms",
+    "question": "Identify the tree among the following / క్రింది వానిలో చెట్టును గుర్తించండి:",
+    "options": [
+      "Rose (గులాబీ)",
+      "Hibiscus (మందార)",
+      "Tulsi (తులసి)",
+      "Tamarind (చింత)"
+    ],
+    "answer": 4,
+    "explanation": "Tamarind grows into a large perennial woody tree, whereas the others are herbs or shrubs."
+  },
+  {
+    "id": 5,
+    "subject": "EVS",
+    "topic": "Plant Forms",
+    "question": "Identify the shrub among the following / క్రింది వానిలో పొదను గుర్తించండి:",
+    "options": [
+      "Banyan (మర్రి)",
+      "Hibiscus (మందార)",
+      "Wheat (గోధుమ)",
+      "Bitter gourd (కాకర)"
+    ],
+    "answer": 2,
+    "explanation": "Hibiscus is a medium-sized woody plant with branches near ground level (shrub)."
+  },
+  {
+    "id": 6,
+    "subject": "EVS",
+    "topic": "Plant Forms",
+    "question": "Identify the creeper among the following / క్రింది వానిలో పాకే మొక్కను గుర్తించండి:",
+    "options": [
+      "Pumpkin (గుమ్మడి)",
+      "Grape (ద్రాక్ష)",
+      "Tulsi (తులసి)",
+      "Rose (గులాబీ)"
+    ],
+    "answer": 1,
+    "explanation": "Pumpkin plants trail along the ground with weak stems (creepers)."
+  },
+  {
+    "id": 22,
+    "subject": "EVS",
+    "topic": "Agriculture & Crops",
+    "question": "Jaggery and sugar are produced from this plant / బెల్లం మరియు పంచదారను ఈ మొక్క నుండి ఉత్పత్తి చేస్తారు:",
+    "options": [
+      "Beetroot",
+      "Potato",
+      "Wheat",
+      "Sugarcane (చెరకు)"
+    ],
+    "answer": 4,
+    "explanation": "Sugarcane juice is crystallized to produce jaggery and refined sugar."
+  },
+  {
+    "id": 23,
+    "subject": "EVS",
+    "topic": "Plant Anatomy",
+    "question": "The edible part of potato is / బంగాళాదుంప నందు తినదగిన భాగం:",
+    "options": [
+      "Stem (కాండం)",
+      "Root (వేరు)",
+      "Flower (పుష్పం)",
+      "Fruit (ఫలం)"
+    ],
+    "answer": 1,
+    "explanation": "Potato is a modified underground stem (tuber)."
+  },
+  {
+    "id": 24,
+    "subject": "EVS",
+    "topic": "Plant Anatomy",
+    "question": "The edible part of Radish is / ముల్లంగి నందు తినదగిన భాగం:",
+    "options": [
+      "Stem (కాండం)",
+      "Root (వేరు)",
+      "Flower (పుష్పం)",
+      "Fruit (ఫలం)"
+    ],
+    "answer": 2,
+    "explanation": "Radish is a modified tap root storing food."
+  },
+  {
+    "id": 25,
+    "subject": "EVS",
+    "topic": "Living Organisms",
+    "question": "Mushroom is a / పుట్టగొడుగు ఒక:",
+    "options": [
+      "Algae (శైవలం)",
+      "Flower (పుష్పం)",
+      "Fungi (శిలీంధ్రం)",
+      "Fruit (ఫలం)"
+    ],
+    "answer": 3,
+    "explanation": "Mushrooms are spore-bearing fruiting bodies of fungi."
+  },
+  {
+    "id": 68,
+    "subject": "EVS",
+    "topic": "Plant Biology",
+    "question": "Green plants prepare their food by the process called / ఆకుపచ్చని మొక్కలు ఆహారాన్ని తయారుచేసుకునే ప్రక్రియ:",
+    "options": [
+      "Transpiration (బాష్పోత్సేకం)",
+      "Absorption (శోషణ)",
+      "Photosynthesis (కిరణజన్య సంయోగక్రియ)",
+      "Saprotroph"
+    ],
+    "answer": 3,
+    "explanation": "Photosynthesis produces carbohydrates utilizing sunlight, chlorophyll, CO2, and water."
+  },
+  {
+    "id": 69,
+    "subject": "EVS",
+    "topic": "Plant Biology",
+    "question": "The gas released by green plants during photosynthesis / ఆకుపచ్చని మొక్కలు కిరణజన్య సంయోగక్రియలో విడుదలచేయు వాయువు:",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen (ఆక్సిజన్)",
+      "Nitrogen",
+      "Carbon monoxide"
+    ],
+    "answer": 2,
+    "explanation": "Oxygen gas is liberated as a byproduct during photosynthesis."
+  },
+  {
+    "id": 73,
+    "subject": "EVS",
+    "topic": "Agriculture & Bacteria",
+    "question": "Nitrogen-fixing bacteria in legume root nodules is / పప్పుజాతి మొక్కలలో నత్రజని స్థాపించే బ్యాక్టీరియా:",
+    "options": [
+      "Lactobacillus",
+      "Lichens",
+      "Rhizobium (రైజోబియం)",
+      "Rhizopus"
+    ],
+    "answer": 3,
+    "explanation": "Rhizobium fixes atmospheric nitrogen into nitrates symbiotically in legume nodules."
+  },
+  {
+    "id": 77,
+    "subject": "EVS",
+    "topic": "Human Physiology",
+    "question": "Bile juice is secreted by / పైత్యరసంను స్రవించేది:",
+    "options": [
+      "Pancreas (క్లోమం)",
+      "Stomach (జీర్ణాశయం)",
+      "Liver (కాలేయము)",
+      "Intestinal glands"
+    ],
+    "answer": 3,
+    "explanation": "Liver secretes bile juice, which is stored in the gall bladder."
+  },
+  {
+    "id": 92,
+    "subject": "EVS",
+    "topic": "Circulatory System",
+    "question": "Haemoglobin is present in / హిమోగ్లోబిన్ ను కలిగి ఉండునవి:",
+    "options": [
+      "Red blood Cells (RBC)",
+      "White blood Cells (WBC)",
+      "Blood Platelets",
+      "Lymph nodes"
+    ],
+    "answer": 1,
+    "explanation": "Haemoglobin is the iron-rich oxygen-binding protein in Red Blood Cells."
+  },
+  {
+    "id": 101,
+    "subject": "EVS",
+    "topic": "Skeletal System",
+    "question": "Bony part that protects the brain / మెదడును రక్షించే అస్థి భాగం:",
+    "options": [
+      "Backbone (వెన్నుముక)",
+      "Rib cage (ఉరః పంజరం)",
+      "Skull (పుర్రె)",
+      "Pelvic girdle"
+    ],
+    "answer": 3,
+    "explanation": "The cranium / skull encases and protects the human brain."
+  },
+  {
+    "id": 118,
+    "subject": "EVS",
+    "topic": "Hormones",
+    "question": "The deficiency of insulin causes / ఇన్సులిన్ లోపం దీనికి కారణం అవుతుంది:",
+    "options": [
+      "Goitre",
+      "Diabetes (మధుమేహం)",
+      "Ulcers",
+      "Bleeding Gums"
+    ],
+    "answer": 2,
+    "explanation": "Lack of insulin causes Diabetes mellitus (inability to regulate blood glucose)."
+  },
+  {
+    "id": 127,
+    "subject": "EVS",
+    "topic": "Optics",
+    "question": "Opaque material among the following is / కింది వాటిలో అపారదర్శక పదార్థం:",
+    "options": [
+      "Glass (గాజు)",
+      "Water (నీరు)",
+      "Air (గాలి)",
+      "Wood (చెక్క)"
+    ],
+    "answer": 4,
+    "explanation": "Wood does not allow light to pass through it, making it opaque."
+  },
+  {
+    "id": 128,
+    "subject": "EVS",
+    "topic": "Optics",
+    "question": "The materials through which objects can be seen, but not clearly are known as / వస్తువును చూడగలం కానీ స్పష్టంగా చూడలేమో ఆ పదార్థాలను ఇలా పిలుస్తారు:",
+    "options": [
+      "Transparent",
+      "Opaque",
+      "Translucent (పాక్షిక పారదర్శక)",
+      "Rough"
+    ],
+    "answer": 3,
+    "explanation": "Translucent materials allow partial light transmission causing blurred visibility."
+  },
+  {
+    "id": 136,
+    "subject": "EVS",
+    "topic": "Chemistry",
+    "question": "Acids are present in this taste / ఆమ్లాలు ఈ రుచిలో ఉంటాయి:",
+    "options": [
+      "Bitter (చేదు)",
+      "Sour (పుల్లని)",
+      "Sweet (తీయని)",
+      "Spicy (కారం)"
+    ],
+    "answer": 2,
+    "explanation": "Acids taste characteristically sour."
+  },
+  {
+    "id": 137,
+    "subject": "EVS",
+    "topic": "Chemistry",
+    "question": "The compound that turns red litmus paper into blue is / ఎరుపు లిట్మస్ ను నీలి రంగులోకి మార్చే పదార్థం:",
+    "options": [
+      "Acid (ఆమ్లం)",
+      "Base (క్షారం)",
+      "Water (నీరు)",
+      "Neutral solution"
+    ],
+    "answer": 2,
+    "explanation": "Bases turn red litmus paper blue, while acids turn blue litmus red."
+  },
+  {
+    "id": 183,
+    "subject": "EVS",
+    "topic": "Physics - Mechanics",
+    "question": "The S.I. unit of force is / బలానికి ఎస్.ఐ. ప్రమాణం:",
+    "options": [
+      "Newton (న్యూటన్)",
+      "Joule (జౌల్)",
+      "Watt (వాట్)",
+      "Erg (ఎర్గ్)"
+    ],
+    "answer": 1,
+    "explanation": "Force is measured in Newtons (N) in the SI system."
+  },
+  {
+    "id": 184,
+    "subject": "EVS",
+    "topic": "Physics - Pressure",
+    "question": "S.I Unit of pressure is / పీడనానికి S.I ప్రమాణం:",
+    "options": [
+      "Newton",
+      "Pascal (పాస్కల్)",
+      "Joule",
+      "Watt"
+    ],
+    "answer": 2,
+    "explanation": "Pressure is force per unit area; its SI unit is the Pascal (N/m²)."
+  },
+  {
+    "id": 9,
+    "subject": "EVS",
+    "topic": "Plant Biology",
+    "question": "The leaves of this plant look like our open palm / ఈ మొక్క యొక్క పత్రాలు మన హస్తాకారంలో కనిపిస్తాయి:",
+    "options": [
+      "Banana (అరటి)",
+      "Hibiscus (మందార)",
+      "Pudina (పుదీనా)",
+      "Papaya (బొప్పాయి)"
+    ],
+    "answer": 4,
+    "explanation": "Papaya leaves have deeply palmately lobed venation resembling a human hand/palm."
+  },
+  {
+    "id": 14,
+    "subject": "EVS",
+    "topic": "Food Habits",
+    "question": "Identify the Herbivore among the following / క్రింది వానిలో శాఖాహారిని గుర్తించండి:",
+    "options": [
+      "Wolf (తోడేలు)",
+      "Giraffe (జిరాఫీ)",
+      "Rat (ఎలుక)",
+      "Bear (ఎలుగుబంటి)"
+    ],
+    "answer": 2,
+    "explanation": "Giraffes are strictly herbivorous browsers feeding exclusively on tree canopies and leaves."
+  },
+  {
+    "id": 16,
+    "subject": "EVS",
+    "topic": "Food Habits",
+    "question": "Identify the Omnivore among the following / క్రింది వానిలో ఉభయాహారిని గుర్తించండి:",
+    "options": [
+      "Hen (కోడి)",
+      "Wolf (తోడేలు)",
+      "Zebra (జీబ్రా)",
+      "Giraffe (జిరాఫీ)"
+    ],
+    "answer": 1,
+    "explanation": "Chickens/hens consume both plant grains and worms/insects, making them omnivorous."
+  },
+  {
+    "id": 37,
+    "subject": "EVS",
+    "topic": "Community Health",
+    "question": "The toll-free phone number for free health advice and assistance is / ఉచిత వైద్య సలహాలను అందించే టోల్ ఫ్రీ నంబరు:",
+    "options": [
+      "100",
+      "104",
+      "116",
+      "101"
+    ],
+    "answer": 2,
+    "explanation": "104 is the state toll-free health helpline service."
+  },
+  {
+    "id": 41,
+    "subject": "EVS",
+    "topic": "Birds",
+    "question": "This bird makes big holes in the trunk of trees / ఈ పక్షి చెట్ల కాండానికి పెద్ద తొర్రలు చేయును:",
+    "options": [
+      "Sparrow (పిచ్చుక)",
+      "Weaver bird (గిజిగాడు)",
+      "Woodpecker (వడ్రంగి పిట్ట)",
+      "Crow (కాకి)"
+    ],
+    "answer": 3,
+    "explanation": "Woodpeckers chisel holes into tree bark using their strong, pointed beaks."
+  },
+  {
+    "id": 65,
+    "subject": "EVS",
+    "topic": "Ecology",
+    "question": "The organisms that prepare their own food are / తమ ఆహారాన్ని తామే తయారు చేసుకొనే జీవులు:",
+    "options": [
+      "Heterotrophs (పర పోషకాలు)",
+      "Saprotrophs (పూతికహారులు)",
+      "Parasites (పరాన్నజీవులు)",
+      "Autotrophs (స్వయంపోషకాలు)"
+    ],
+    "answer": 4,
+    "explanation": "Autotrophs (green plants) produce their own nourishment from inorganic substances."
+  },
+  {
+    "id": 78,
+    "subject": "EVS",
+    "topic": "Human Body",
+    "question": "The length of the small intestine in adult humans is approximately:",
+    "options": [
+      "8 meters",
+      "10 meters",
+      "2 meters",
+      "6 meters"
+    ],
+    "answer": 4,
+    "explanation": "The human small intestine measures approximately 6 meters (around 20 feet) in length."
+  },
+  {
+    "id": 81,
+    "subject": "EVS",
+    "topic": "Microbiology",
+    "question": "The unicellular organism that moves and captures food using pseudopodia is:",
+    "options": [
+      "Amoeba (అమీబా)",
+      "Paramecium (పారామీషియం)",
+      "Euglena (యూగ్లీనా)",
+      "Diatom"
+    ],
+    "answer": 1,
+    "explanation": "Amoeba uses pseudopodia (false feet) for locomotion and engulfing prey via phagocytosis."
+  },
+  {
+    "id": 82,
+    "subject": "EVS",
+    "topic": "Dentition",
+    "question": "The human teeth used for cutting and biting food are / కత్తిరించడానికి మరియు కొరకడానికి ఉపయోగపడే దంతాలు:",
+    "options": [
+      "Canines (రదనికలు)",
+      "Premolars (అగ్రచర్వణకాలు)",
+      "Incisors (కుంతకాలు)",
+      "Molars (చర్వణకాలు)"
+    ],
+    "answer": 3,
+    "explanation": "Incisors are flat, chisel-edged front teeth specialized for cutting and biting food."
+  },
+  {
+    "id": 91,
+    "subject": "EVS",
+    "topic": "Circulatory System",
+    "question": "Blood vessels that transport oxygenated blood away from the heart to all body parts are:",
+    "options": [
+      "Arteries (ధమనులు)",
+      "Veins (సిరలు)",
+      "Lymph vessels",
+      "Capillaries"
+    ],
+    "answer": 1,
+    "explanation": "Arteries carry blood away from the pumping chambers of the heart to the body."
+  },
+  {
+    "id": 155,
+    "subject": "EVS",
+    "topic": "Optics - Mirrors",
+    "question": "The curved mirrors used by dentists to see magnified images of teeth are:",
+    "options": [
+      "Convex mirrors",
+      "Concave mirrors (పుటాకార దర్పణాలు)",
+      "Plane mirrors",
+      "Coloured mirrors"
+    ],
+    "answer": 2,
+    "explanation": "Concave mirrors produce an upright, magnified virtual image when the object is inside the focal point."
+  },
+  {
+    "id": 156,
+    "subject": "EVS",
+    "topic": "Optics - Mirrors",
+    "question": "These mirrors provide a wide field of view and are used as rear-view mirrors in vehicles:",
+    "options": [
+      "Concave mirrors",
+      "Convex mirrors (కుంభాకార దర్పణాలు)",
+      "Plane mirrors",
+      "Cylindrical mirrors"
+    ],
+    "answer": 2,
+    "explanation": "Convex mirrors always form diminished, erect virtual images with an expansive field of view."
+  },
+  {
+    "id": 265,
+    "subject": "EVS",
+    "topic": "Geography of Andhra Pradesh",
+    "question": "Lambasingi in Visakhapatnam Agency is famously known as:",
+    "options": [
+      "Andhra Jaipur",
+      "Andhra Kashmir (ఆంధ్రా కాశ్మీర్)",
+      "Andhra Cherrapunji",
+      "Andhra Desert"
+    ],
+    "answer": 2,
+    "explanation": "Due to its sub-zero winter temperatures and misty hills, Lambasingi is called 'Andhra Kashmir'."
+  },
+  {
+    "id": 279,
+    "subject": "EVS",
+    "topic": "Solar System",
+    "question": "Identify the 'Blue Planet' in our solar system / నీలి గ్రహంను గుర్తించండి:",
+    "options": [
+      "Mars (అంగారకుడు)",
+      "Uranus (వరుణుడు)",
+      "Earth (భూమి)",
+      "Saturn (శని)"
+    ],
+    "answer": 3,
+    "explanation": "Earth is termed the Blue Planet because over 71% of its surface is covered by oceans."
+  },
+  {
+    "id": 338,
+    "subject": "EVS",
+    "topic": "Indian History",
+    "question": "The last sultan of the Delhi Sultanate was / ఢిల్లీ సుల్తానులలో చివరి పాలకుడు ఎవరు?",
+    "options": [
+      "Iltutmish",
+      "Ibrahim Lodi (ఇబ్రహీం లోడీ)",
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq"
+    ],
+    "answer": 2,
+    "explanation": "Ibrahim Lodi was defeated by Babur in the First Battle of Panipat (1526), ending the Delhi Sultanate."
+  },
+  {
+    "id": 389,
+    "subject": "EVS",
+    "topic": "Political Science",
+    "question": "This country is recognized as the historical birthplace of Democracy:",
+    "options": [
+      "Denmark",
+      "Greece (గ్రీసు)",
+      "France",
+      "Russia"
+    ],
+    "answer": 2,
+    "explanation": "Ancient Athens, Greece, is the birthplace of direct democratic governance."
+  },
+  {
+    "id": 390,
+    "subject": "EVS",
+    "topic": "Political Science",
+    "question": "Democracy is 'Government of the people, by the people, for the people' was stated by:",
+    "options": [
+      "Jaya Prakash Narayana",
+      "Aravind Ghosh",
+      "Abraham Lincoln (అబ్రహం లింకన్)",
+      "Annie Besant"
+    ],
+    "answer": 3,
+    "explanation": "Abraham Lincoln delivered this famous definition in his 1863 Gettysburg Address."
+  },
+  {
+    "id": 430,
+    "subject": "EVS",
+    "topic": "History of Religions",
+    "question": "Gautama Buddha's birth place 'Lumbini' is located in / బుద్ధుడు జన్మించిన 'లుంబినీవనం' ఏ దేశంలో కలదు?",
+    "options": [
+      "Bangladesh",
+      "Myanmar",
+      "Nepal (నేపాల్)",
+      "Sri Lanka"
+    ],
+    "answer": 3,
+    "explanation": "Lumbini, the sacred birthplace of Gautama Buddha, is located in modern-day Nepal."
+  }
+]

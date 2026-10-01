@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "subject": "CDP",
+    "topic": "Foundations of Psychology",
+    "question": "'Tabula Rasa' means / 'ట్యాబ్యులా రసా' అనగా:",
+    "options": [
+      "Blank Slate (ఖాళీ పలక)",
+      "Blank Book (ఖాళీ పుస్తకం)",
+      "Blank Table (ఖాళీ టేబుల్)",
+      "Blank Bench (ఖాళీ బెంచ్)"
+    ],
+    "answer": 1,
+    "explanation": "John Locke popularized 'Tabula Rasa' meaning clean slate / blank slate on which experiences write."
+  },
+  {
+    "id": 4,
+    "subject": "CDP",
+    "topic": "Child Rights & Constitution",
+    "question": "The Constitution of India provides free and compulsory Education for all children in this age group (in years):",
+    "options": [
+      "0 to 14 years",
+      "6 to 14 years",
+      "6 to 20 years",
+      "0 to 20 years"
+    ],
+    "answer": 2,
+    "explanation": "Article 21A provides free and compulsory education to all children aged 6 to 14 years."
+  },
+  {
+    "id": 5,
+    "subject": "CDP",
+    "topic": "Child Welfare",
+    "question": "National Child Helpline Service Number in India / భారతదేశంలో పిల్లల సహాయార్థం జాతీయ టోల్ ఫ్రీ నంబర్:",
+    "options": [
+      "100",
+      "101",
+      "104",
+      "1098"
+    ],
+    "answer": 4,
+    "explanation": "Childline 1098 is India's 24-hour emergency phone outreach service for children in need."
+  },
+  {
+    "id": 8,
+    "subject": "CDP",
+    "topic": "Developmental Stages",
+    "question": "The developmental stage between Infancy and Adolescence is / శైశవ దశ, కౌమార దశ ల మధ్య గల దశ:",
+    "options": [
+      "Adulthood (వయోజన దశ)",
+      "Old age (వార్ధక్యం)",
+      "Childhood (బాల్యము)",
+      "Prenatal Stage (జనన పూర్వ దశ)"
+    ],
+    "answer": 3,
+    "explanation": "Childhood directly connects infancy and adolescence."
+  },
+  {
+    "id": 12,
+    "subject": "CDP",
+    "topic": "Parenting Styles",
+    "question": "This is the most successful and healthy parenting style / ఇది బాగా విజయవంతమైన పెంపక శైలి:",
+    "options": [
+      "Authoritative style (సాధికారతత్వ శైలి)",
+      "Authoritarian style (నిరంకుశతత్వ శైలి)",
+      "Permissive Style (అంగీకారతత్వ శైలి)",
+      "Uninvolved Style (జోక్యరహిత శైలి)"
+    ],
+    "answer": 1,
+    "explanation": "Authoritative parenting (high warmth, high expectations, rational discipline) produces the most socially competent and confident children."
+  },
+  {
+    "id": 31,
+    "subject": "CDP",
+    "topic": "Psychological Methods",
+    "question": "This method is called as 'Clinical method' / ఈ పద్ధతిని చికిత్సా పద్ధతి అంటారు:",
+    "options": [
+      "Interview Method (పరిపృచ్ఛ పద్ధతి)",
+      "Observation Method (పరిశీలన పద్ధతి)",
+      "Experimental Method (ప్రయోగాత్మక పద్ధతి)",
+      "Case Study Method (వ్యక్తి అధ్యయన పద్ధతి)"
+    ],
+    "answer": 4,
+    "explanation": "Case Study method is often known as the Clinical Method, analyzing an individual deeply."
+  },
+  {
+    "id": 50,
+    "subject": "CDP",
+    "topic": "Principles of Development",
+    "question": "According to this principle, 'Development starts from head and proceeds towards heel' / వికాసం శిరస్సు నుండి ప్రారంభమై పాదాభిముఖంగా సాగుతుంది:",
+    "options": [
+      "Cephalo caudal (శిరోపాద నియమం)",
+      "Proximodistal (సమీప దూరస్థ దశ)",
+      "Principle of Continuity (అవిచ్ఛిన్న నియమం)",
+      "Principle of Uniformity (సారూప్యత నియమం)"
+    ],
+    "answer": 1,
+    "explanation": "Cephalocaudal trend describes head-to-toe progression in physical development."
+  },
+  {
+    "id": 51,
+    "subject": "CDP",
+    "topic": "Principles of Development",
+    "question": "According to this principle of development, 'Development proceeds from centre to periphery' / వికాసం శరీర మధ్యస్థం నుండి ప్రారంభమై వెలుపల దూరాలకు విస్తరిస్తుంది:",
+    "options": [
+      "Cephalo caudal (శిరోపాద నియమం)",
+      "Proximodistal (సమీప మధ్యస్థ దశ)",
+      "Principle of Continuity (అవిచ్ఛిన్న నియమం)",
+      "Principle of Uniformity (సారూప్యత నియమం)"
+    ],
+    "answer": 2,
+    "explanation": "Proximodistal progression develops motor control outward from the core trunk to the fingertips."
+  },
+  {
+    "id": 83,
+    "subject": "CDP",
+    "topic": "Emotions",
+    "question": "The word 'Emovere' is derived from this language / 'ఎమోవర్' అను పదము ఈ భాష నుండి ఉద్భవించింది:",
+    "options": [
+      "French",
+      "Latin (లాటిన్)",
+      "Arabic",
+      "English"
+    ],
+    "answer": 2,
+    "explanation": "'Emotion' derives from the Latin verb 'emovere', meaning to agitate, stir up, or move."
+  },
+  {
+    "id": 131,
+    "subject": "CDP",
+    "topic": "Language Development",
+    "question": "The Theory of Language Acquisition Device (LAD) was proposed by / భాషా గ్రహణ సిద్ధాంతమును ప్రతిపాదించిన వారు:",
+    "options": [
+      "Skinner (స్కిన్నర్)",
+      "Noam Chomsky (నోమ్ చామ్‌స్కీ)",
+      "Bandura (బండూరా)",
+      "Kohlberg (కోల్‌బర్గ్)"
+    ],
+    "answer": 2,
+    "explanation": "Noam Chomsky proposed that humans are born with a Language Acquisition Device (LAD)."
+  },
+  {
+    "id": 140,
+    "subject": "CDP",
+    "topic": "Moral Development",
+    "question": "According to Kohlberg’s Moral developmental theory, 'the good boy good girl attitude' reflects in this stage:",
+    "options": [
+      "Stage 1",
+      "Stage 2",
+      "Stage 3",
+      "Stage 4"
+    ],
+    "answer": 3,
+    "explanation": "Stage 3 (Conventional level) is the 'Good boy / Nice girl' orientation of interpersonal accord."
+  },
+  {
+    "id": 156,
+    "subject": "CDP",
+    "topic": "Perception",
+    "question": "Wrong perceptions are called as / అసత్య ప్రత్యక్షాలు అనగా:",
+    "options": [
+      "Illusions (భ్రమలు)",
+      "Fantasy (స్వైరకల్పన)",
+      "Day dreaming (పగటికలలు)",
+      "Meta cognition (స్వబుద్ధి)"
+    ],
+    "answer": 1,
+    "explanation": "An illusion is a misinterpretation or false sensory perception of an objective stimulus."
+  },
+  {
+    "id": 170,
+    "subject": "CDP",
+    "topic": "Creativity",
+    "question": "The correct order of creativity stages / సృజనాత్మక దశల యొక్క సరైన వరుసక్రమం:",
+    "options": [
+      "Preparation, Incubation/Latency, Insight/Illumination, Verification/Proving",
+      "Preparation, Verification, Incubation, Insight",
+      "Incubation, Verification, Insight, Preparation",
+      "Preparation, Incubation, Proving, Insight"
+    ],
+    "answer": 1,
+    "explanation": "Graham Wallas outlined the 4 stages of creativity: Preparation -> Incubation -> Illumination -> Verification."
+  },
+  {
+    "id": 173,
+    "subject": "CDP",
+    "topic": "Cognitive Processes",
+    "question": "Thinking about one’s own thoughts is called / ఒక వ్యక్తి తన ఆలోచనల గురించి తానే ఆలోచించడాన్ని ఏమంటారు?",
+    "options": [
+      "Meta cognition (స్వబుద్ధి)",
+      "Intelligence (ప్రజ్ఞ)",
+      "Thinking (ఆలోచన)",
+      "Creativity (సృజనాత్మకత)"
+    ],
+    "answer": 1,
+    "explanation": "Metacognition is 'thinking about thinking' or awareness and understanding of one's own thought processes."
+  },
+  {
+    "id": 190,
+    "subject": "CDP",
+    "topic": "Intelligence",
+    "question": "The concept of Intelligence Quotient (IQ) was proposed by / 'ప్రజ్ఞా లబ్ధి' భావనను ప్రతిపాదించిన వారు:",
+    "options": [
+      "Stern (స్టెర్న్)",
+      "Torrence",
+      "Wallas",
+      "Alfred Binet"
+    ],
+    "answer": 1,
+    "explanation": "William Stern proposed the concept and formula for Intelligence Quotient (IQ) in 1912."
+  },
+  {
+    "id": 193,
+    "subject": "CDP",
+    "topic": "Intelligence",
+    "question": "Formula for Intelligence Quotient (IQ) is:",
+    "options": [
+      "(Mental Age / Chronological Age) × 100",
+      "(Chronological Age / Mental Age) × 100",
+      "Mental Age / Chronological Age",
+      "Chronological Age / Mental Age"
+    ],
+    "answer": 1,
+    "explanation": "IQ = (MA / CA) × 100."
+  },
+  {
+    "id": 232,
+    "subject": "CDP",
+    "topic": "Piaget's Theory",
+    "question": "According to Jean Piaget, basic cognitive building blocks/structures are called as / సంజ్ఞానాత్మక నిర్మాణాన్ని పిలుస్తారు:",
+    "options": [
+      "Schema (స్కీమాటా)",
+      "Assimilation (విలీనం)",
+      "Accommodation (సానుకూలత)",
+      "Equilibrium (సమతుల్యత)"
+    ],
+    "answer": 1,
+    "explanation": "Schemas are the mental frameworks or building blocks of knowledge."
+  },
+  {
+    "id": 235,
+    "subject": "CDP",
+    "topic": "Piaget's Theory",
+    "question": "According to Jean Piaget’s Theory, a child gains 'Object Permanence' in this stage / 'వస్తు స్థిరత్వ భావన' ఏ దశలో పొందుతాడు?",
+    "options": [
+      "Pre operational Stage",
+      "Concrete Operational Stage",
+      "Formal Operational Stage",
+      "Sensory Motor Stage (ఇంద్రియ చాలక దశ)"
+    ],
+    "answer": 4,
+    "explanation": "Object permanence develops during the Sensorimotor stage (0 - 2 years)."
+  },
+  {
+    "id": 260,
+    "subject": "CDP",
+    "topic": "Endocrine Glands",
+    "question": "This gland is called the Master Gland in human body / మానవ శరీరంలో ప్రధాన గ్రంథి (మాస్టర్ గ్లాండ్) అని దేనిని పిలుస్తారు?",
+    "options": [
+      "Pituitary Gland (పీయూష గ్రంథి)",
+      "Thyroid Gland (అవటు గ్రంథి)",
+      "Para Thyroid Gland",
+      "Adrenal Gland"
+    ],
+    "answer": 1,
+    "explanation": "The Pituitary gland controls most other endocrine glands and is termed the Master Gland."
+  },
+  {
+    "id": 341,
+    "subject": "CDP",
+    "topic": "Defense Mechanisms",
+    "question": "A clerk who is angry at his boss shows it on his wife. It is an example for this defense mechanism / అధికారి మీద కోపాన్ని భార్యపై చూపించడం ఏ రక్షకతంత్రం?",
+    "options": [
+      "Projection (ప్రక్షేపణం)",
+      "Displacement (విస్థాపనం)",
+      "Regression (ప్రతిగమనం)",
+      "Identification (తాదాత్మ్యకరణం)"
+    ],
+    "answer": 2,
+    "explanation": "Displacement is redirecting anger or impulse toward a safer, less threatening target."
+  },
+  {
+    "id": 349,
+    "subject": "CDP",
+    "topic": "Defense Mechanisms",
+    "question": "When the fox could not get grapes it remarks them as sour grapes. This is an example of which defense mechanism?",
+    "options": [
+      "Repression (దమనం)",
+      "Projection (ప్రక్షేపణం)",
+      "Rationalization (హేతుకీకరణం)",
+      "Displacement (విస్థాపనం)"
+    ],
+    "answer": 3,
+    "explanation": "Rationalization is inventing plausible, false reasons to justify disappointment or failure."
+  },
+  {
+    "id": 422,
+    "subject": "CDP",
+    "topic": "Learning Theories",
+    "question": "Pavlov's experiment on dog salivation is related to which conditioning theory?",
+    "options": [
+      "Classical Conditioning (శాస్త్రీయ నిబంధనం)",
+      "Operant Conditioning (కార్యసాధక నిబంధనం)",
+      "Trial and Error Method (యత్న దోష పద్ధతి)",
+      "Observational Learning"
+    ],
+    "answer": 1,
+    "explanation": "Ivan Pavlov formulated the Classical Conditioning paradigm with dogs and stimulus conditioning."
+  },
+  {
+    "id": 424,
+    "subject": "CDP",
+    "topic": "Learning Theories",
+    "question": "B.F. Skinner conducted his Operant Conditioning experiments primarily on:",
+    "options": [
+      "Rat (ఎలుక)",
+      "Rabbit (కుందేలు)",
+      "Dog (కుక్క)",
+      "Chimpanzee (చింపాంజీ)"
+    ],
+    "answer": 1,
+    "explanation": "Skinner used rats (and pigeons) in his operant conditioning Skinner box experiments."
+  },
+  {
+    "id": 444,
+    "subject": "CDP",
+    "topic": "Insightful Learning",
+    "question": "The Psychologist who conducted insightful learning experiments on Chimpanzee (Sultan) was:",
+    "options": [
+      "E.L. Thorndike",
+      "Ivan Pavlov",
+      "Kohler (కొహెలర్)",
+      "B.F. Skinner"
+    ],
+    "answer": 3,
+    "explanation": "Wolfgang Köhler conducted famous experiments on Sultan the chimpanzee formulating Insightful Learning."
+  },
+  {
+    "id": 465,
+    "subject": "CDP",
+    "topic": "Vygotsky's Theory",
+    "question": "The difference between what a learner can do without help and what they can achieve with guidance is known as:",
+    "options": [
+      "Scaffolding (స్కాఫోల్డింగ్)",
+      "Zone of Proximal Development (సమీపస్థ వికాస మండలి)",
+      "Collaborative learning",
+      "Construction of knowledge"
+    ],
+    "answer": 2,
+    "explanation": "Lev Vygotsky defined this gap as the Zone of Proximal Development (ZPD)."
+  },
+  {
+    "id": 505,
+    "subject": "CDP",
+    "topic": "National Education Policy",
+    "question": "Structure of school education recommended in NEP 2020 / NEP 2020 లో విద్యా నిర్మాణం:",
+    "options": [
+      "10 + 2 + 3",
+      "11 + 1 + 3",
+      "5 + 3 + 3 + 4",
+      "10 + 3 + 3"
+    ],
+    "answer": 3,
+    "explanation": "NEP 2020 replaces the 10+2 system with the 5+3+3+4 pedagogical structure."
+  },
+  {
+    "id": 510,
+    "subject": "CDP",
+    "topic": "Educational Acts",
+    "question": "RTE 2009 (Right to Education Act) came into force on / RTE 2009 అమలులోనికి వచ్చిన తేదీ:",
+    "options": [
+      "1 Jan 2010",
+      "1 Jan 2009",
+      "1 April 2010 (1 ఏప్రిల్ 2010)",
+      "1 April 2009"
+    ],
+    "answer": 3,
+    "explanation": "The Right of Children to Free and Compulsory Education Act came into legal force across India on 1st April 2010."
+  },
+  {
+    "id": 7,
+    "subject": "CDP",
+    "topic": "Socialization",
+    "question": "The first teacher of a child is / పిల్లలకు మొదటి గురువు ఎవరు?",
+    "options": [
+      "Mother (తల్లి)",
+      "Father (తండ్రి)",
+      "Teacher (గురువు)",
+      "Friends (స్నేహితులు)"
+    ],
+    "answer": 1,
+    "explanation": "The mother is the child's primary caregiver and first teacher."
+  },
+  {
+    "id": 77,
+    "subject": "CDP",
+    "topic": "Emotions",
+    "question": "If parents constantly compare their children with other children, the children exhibit / తల్లిదండ్రులు పిల్లలను ఇతరులతో పోల్చినప్పుడు వారు ప్రదర్శించేది:",
+    "options": [
+      "Anger (కోపం / అసూయ)",
+      "Mirthfulness",
+      "Curiosity",
+      "Happiness"
+    ],
+    "answer": 1,
+    "explanation": "Negative comparison evokes resentment, anger, and feelings of inadequacy."
+  },
+  {
+    "id": 78,
+    "subject": "CDP",
+    "topic": "Emotions",
+    "question": "Jealousy is a/an / అసూయ అనేది ఒక:",
+    "options": [
+      "pleasant emotion",
+      "unpleasant emotion (బాధాజనిత ఉద్వేగం)",
+      "no emotion",
+      "positive emotion"
+    ],
+    "answer": 2,
+    "explanation": "Jealousy is an unpleasant, distressing negative emotion."
+  },
+  {
+    "id": 86,
+    "subject": "CDP",
+    "topic": "Heredity & Environment",
+    "question": "The author of the landmark book 'Hereditary Genius' is / 'హెరిడిటరీ జీనియస్' పుస్తక రచయిత:",
+    "options": [
+      "Gordan",
+      "Freeman",
+      "Pearson",
+      "Galton (గాల్టన్)"
+    ],
+    "answer": 4,
+    "explanation": "Sir Francis Galton published 'Hereditary Genius' in 1869."
+  },
+  {
+    "id": 87,
+    "subject": "CDP",
+    "topic": "Behaviorism",
+    "question": "'Give me a dozen healthy infants... and I will train them to become any type of specialist (doctor, lawyer, artist, merchant-chief)' was proclaimed by:",
+    "options": [
+      "Freeman",
+      "Pearson",
+      "J.B. Watson (జె. బి. వాట్సన్)",
+      "Bagley"
+    ],
+    "answer": 3,
+    "explanation": "John B. Watson, the founder of Behaviorism, made this famous environmentalist declaration."
+  },
+  {
+    "id": 89,
+    "subject": "CDP",
+    "topic": "Developmental Factors",
+    "question": "Factors that jointly affect the development of an individual are / వ్యక్తి వికాసాన్ని ప్రభావితం చేయు కారకాలు:",
+    "options": [
+      "Heredity only",
+      "Environment only",
+      "Instincts",
+      "Heredity and Environment (అనువంశికత మరియు పరిసరాలు)"
+    ],
+    "answer": 4,
+    "explanation": "Development = Heredity × Environment."
+  },
+  {
+    "id": 113,
+    "subject": "CDP",
+    "topic": "Developmental Stages",
+    "question": "According to psychologists, 'Pre-Gang Age' corresponds to / మనోవిజ్ఞాన శాస్త్రవేత్తల ప్రకారం పూర్వ ముఠా దశ:",
+    "options": [
+      "Adulthood",
+      "Early childhood (పూర్వ బాల్యదశ)",
+      "Later childhood (ఉత్తర బాల్యదశ)",
+      "Infancy"
+    ],
+    "answer": 2,
+    "explanation": "Early childhood (ages 2-6) is the Pre-gang age; Later childhood (ages 6-12) is the Gang age."
+  },
+  {
+    "id": 114,
+    "subject": "CDP",
+    "topic": "Developmental Stages",
+    "question": "According to psychologists, which of the following is NOT a feature of Early Childhood?",
+    "options": [
+      "Pre Gang age",
+      "Exploratory age",
+      "Creative age",
+      "Gang age (ముఠా దశ)"
+    ],
+    "answer": 4,
+    "explanation": "Gang age belongs to Later Childhood, not Early Childhood."
+  },
+  {
+    "id": 164,
+    "subject": "CDP",
+    "topic": "Perception",
+    "question": "'Imagining a rope as a snake during night time' is an example of / 'చీకట్లో తాడును చూసి పాముగా భ్రమపడటం' దేనికి ఉదాహరణ?",
+    "options": [
+      "Creativity",
+      "Illusion (భ్రమ)",
+      "Hallucination (విభ్రమము)",
+      "Reality"
+    ],
+    "answer": 2,
+    "explanation": "Misinterpreting an existing real object (rope as snake) is an Illusion."
+  },
+  {
+    "id": 316,
+    "subject": "CDP",
+    "topic": "Personality Assessment",
+    "question": "The Thematic Apperception Test (TAT) was developed by / TAT పరీక్షను రూపొందించిన వారు:",
+    "options": [
+      "CAT",
+      "MMPI",
+      "Murray and Morgan (ముర్రే మరియు మోర్గాన్)",
+      "Hermann Rorschach"
+    ],
+    "answer": 3,
+    "explanation": "Henry A. Murray and Christiana D. Morgan developed the TAT in 1935."
+  },
+  {
+    "id": 343,
+    "subject": "CDP",
+    "topic": "Defense Mechanisms",
+    "question": "A grown man reverting to bed-wetting under extreme stress uses which defense mechanism? / రాత్రిపూట పక్క తడిపే యువకుడు ఉపయోగించే రక్షక తంత్రం:",
+    "options": [
+      "Regression (ప్రతిగమనం)",
+      "Identification",
+      "Compensation",
+      "Fantasy"
+    ],
+    "answer": 1,
+    "explanation": "Reverting to an earlier, less mature stage of development is Regression."
+  },
+  {
+    "id": 354,
+    "subject": "CDP",
+    "topic": "Defense Mechanisms",
+    "question": "A student backward in studies shows great talent and excels in sports. This defense mechanism is:",
+    "options": [
+      "Regression",
+      "Identification",
+      "Compensation (పరిహారము)",
+      "Displacement"
+    ],
+    "answer": 3,
+    "explanation": "Overcoming weakness in one area by excelling in another is Compensation."
+  },
+  {
+    "id": 358,
+    "subject": "CDP",
+    "topic": "Learning Concept",
+    "question": "Modification of behaviour through experience and training is called / అనుభవం మరియు శిక్షణ ద్వారా ప్రవర్తనలో వచ్చే మార్పు:",
+    "options": [
+      "Intelligence (ప్రజ్ఞ)",
+      "Aptitude (సామర్థ్యం)",
+      "Attitude (వైఖరి)",
+      "Learning (అభ్యసనం)"
+    ],
+    "answer": 4,
+    "explanation": "Gates defined learning as the modification of behaviour through experience and training."
+  },
+  {
+    "id": 484,
+    "subject": "CDP",
+    "topic": "Learning Curves",
+    "question": "A temporary flat plateau where learning ceases to show progress is called / అభ్యసనం స్థంభించి పురోగమనం లేకుండా నిలిచిపోయే దశ:",
+    "options": [
+      "Extinct",
+      "Plateau stage (పీఠభూమి దశ)",
+      "Stage of fluctuation",
+      "Initial spurt"
+    ],
+    "answer": 2,
+    "explanation": "The plateau stage represents a temporary cessation of observable learning progress."
+  },
+  {
+    "id": 489,
+    "subject": "CDP",
+    "topic": "Special Education",
+    "question": "Learning disability specifically associated with reading difficulties is / చదవడంలో అభ్యసన వైకల్యం:",
+    "options": [
+      "Dyslexia (డిస్లెక్సియా)",
+      "Dysgraphia (డిస్గ్రాఫియా)",
+      "Dyscalculia (డిస్కాల్క్యులియా)",
+      "Dysphasia"
+    ],
+    "answer": 1,
+    "explanation": "Dyslexia is a specific learning disability affecting accurate and fluent word reading."
+  },
+  {
+    "id": 494,
+    "subject": "CDP",
+    "topic": "Special Education",
+    "question": "Learning disability specifically related to writing difficulties is / రాయడానికి సంబంధించిన వైకల్యం:",
+    "options": [
+      "Alexia",
+      "Dysgraphia (డిస్‌గ్రాఫియా)",
+      "Dyscalculia",
+      "Dyslexia"
+    ],
+    "answer": 2,
+    "explanation": "Dysgraphia is a neurological condition impairing handwriting and fine motor skills."
+  },
+  {
+    "id": 498,
+    "subject": "CDP",
+    "topic": "Special Education",
+    "question": "Learning disability related to mathematical calculations and arithmetic concepts is:",
+    "options": [
+      "Dysphasia",
+      "Aphasia",
+      "Dyscalculia (డిస్కాల్క్యులియా)",
+      "Dyslexia"
+    ],
+    "answer": 3,
+    "explanation": "Dyscalculia affects the ability to acquire mathematical and arithmetic skills."
+  },
+  {
+    "id": 512,
+    "subject": "CDP",
+    "topic": "Curriculum Frameworks",
+    "question": "Which of the following is NOT recommended by NCF-2005? / NCF 2005 మార్గదర్శక సూత్రాలలో లేని వాక్యం:",
+    "options": [
+      "Simplification of examination pattern",
+      "Connecting curricular knowledge with real experiences",
+      "Strengthening Rote learning method (కంఠస్థ పద్ధతులను ప్రోత్సహించడం)",
+      "Enriching the curriculum"
+    ],
+    "answer": 3,
+    "explanation": "NCF-2005 explicitly recommends shifting away from rote memorization methods."
+  }
+]

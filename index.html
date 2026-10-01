@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TET Strict AI Voice Examiner | Paper 1A MCQ Master</title>
+  <meta name="description" content="Strict AI Voice Examiner Platform for TET Paper 1A MCQs covering English, Telugu, EVS, Mathematics, and CDP with zero hints and strict answer evaluation.">
+  
+  <!-- Modern Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Ramabhadra&family=Gautami&family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- QRCode.js for instant mobile phone testing -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body class="dark-theme">
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="header-left">
+      <div class="brand-badge">
+        <div class="brand-icon">
+          <i class="fa-solid fa-graduation-cap"></i>
+        </div>
+        <div class="brand-text">
+          <span class="brand-title">TET Master AI</span>
+          <span class="brand-sub">Strict Voice Examiner (Paper 1A MCQs)</span>
+        </div>
+      </div>
+      <div class="strict-pill">
+        <i class="fa-solid fa-shield-halved"></i>
+        <span>Strict Mode: No Hints</span>
+      </div>
+    </div>
+
+    <!-- Center Mode Switcher -->
+    <div class="header-center">
+      <div class="mode-tabs" role="tablist">
+        <button class="mode-tab active" id="modeViva" data-mode="viva" title="Examiner speaks question & listens">
+          <i class="fa-solid fa-microphone-lines"></i>
+          <span>Voice Viva Mode</span>
+        </button>
+        <button class="mode-tab" id="modePractice" data-mode="practice" title="Interactive click & voice mode">
+          <i class="fa-solid fa-bolt"></i>
+          <span>Practice Mode</span>
+        </button>
+        <button class="mode-tab" id="modeVault" data-mode="vault" title="Strict re-revision of wrong answers">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          <span>Mistake Vault (<span id="vaultBadge">0</span>)</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Header Actions -->
+    <div class="header-right">
+      <button class="btn-phone-connect" id="btnPhoneConnect" title="Open on Mobile Phone">
+        <i class="fa-solid fa-mobile-screen-button"></i>
+        <span>Test on Phone</span>
+      </button>
+
+      <button class="btn-icon" id="btnVoiceSettings" title="Voice & Examiner Settings">
+        <i class="fa-solid fa-sliders"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Subject Selector Strip -->
+  <nav class="subject-strip">
+    <div class="subject-pills-container">
+      <button class="subject-pill active" data-subject="English">
+        <span class="pill-icon">🔤</span>
+        <span class="pill-name">English</span>
+        <span class="pill-count" id="countEnglish">0 Qs</span>
+      </button>
+      <button class="subject-pill" data-subject="Telugu">
+        <span class="pill-icon">📜</span>
+        <span class="pill-name">తెలుగు (Telugu)</span>
+        <span class="pill-count" id="countTelugu">0 Qs</span>
+      </button>
+      <button class="subject-pill" data-subject="EVS">
+        <span class="pill-icon">🌿</span>
+        <span class="pill-name">EVS</span>
+        <span class="pill-count" id="countEVS">0 Qs</span>
+      </button>
+      <button class="subject-pill" data-subject="Maths">
+        <span class="pill-icon">📐</span>
+        <span class="pill-name">Mathematics</span>
+        <span class="pill-count" id="countMaths">0 Qs</span>
+      </button>
+      <button class="subject-pill" data-subject="CDP">
+        <span class="pill-icon">🧠</span>
+        <span class="pill-name">CDP</span>
+        <span class="pill-count" id="countCDP">0 Qs</span>
+      </button>
+    </div>
+
+    <!-- Search & Filter Controls -->
+    <div class="nav-controls-right">
+      <div class="search-input-box">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" id="searchInput" placeholder="Search MCQs...">
+      </div>
+      <div class="topic-filter-box">
+        <i class="fa-solid fa-filter"></i>
+        <select id="topicSelect">
+          <option value="all">All Topics</option>
+        </select>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content Layout: Split Panel (Questions Browser on Left, Active MCQ on Right) -->
+  <main class="app-layout">
+    
+    <!-- Left Column: MCQ Questions Browser (Click on any question to load & hear) -->
+    <aside class="questions-browser-pane">
+      <div class="browser-header">
+        <div class="browser-title-row">
+          <h3><i class="fa-solid fa-list-check"></i> <span id="browserSubjectTitle">English</span> MCQs</h3>
+          <span class="browser-badge" id="browserCountBadge">0 Questions</span>
+        </div>
+        <p class="browser-hint">Click on any question below to test yourself and choose the options:</p>
+      </div>
+
+      <div class="questions-scroll-list" id="questionsScrollList">
+        <!-- Dynamically rendered list of MCQ items with preview and status -->
+      </div>
+    </aside>
+
+    <!-- Center/Right Column: Active MCQ Arena + Talkative Voice Examiner HUD -->
+    <section class="main-mcq-area">
+      <!-- Talkative Strict Examiner Card -->
+      <div class="examiner-banner-card">
+        <div class="examiner-header">
+          <div class="avatar-container">
+            <div class="examiner-orb" id="examinerOrb">
+              <div class="orb-ring"></div>
+              <div class="orb-core">
+                <i class="fa-solid fa-robot" id="examinerFaceIcon"></i>
+              </div>
+            </div>
+            <div class="examiner-info">
+              <h3 class="examiner-name">AI Strict Voice Examiner</h3>
+              <p class="examiner-status" id="examinerStatus">Ready to ask questions</p>
+            </div>
+          </div>
+          <div class="voice-badge" id="voiceStatusBadge">
+            <span class="status-dot"></span>
+            <span class="status-label">Standby</span>
+          </div>
+        </div>
+
+        <!-- Real-time Audio Visualizer Waves & Mic Level -->
+        <div class="visualizer-wrapper">
+          <div class="visualizer-container">
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+            <div class="wave-bar"></div>
+          </div>
+          <!-- Live Mic Volume Meter -->
+          <div class="mic-level-container" id="micLevelContainer" style="display: none;">
+            <div class="mic-level-label">
+              <i class="fa-solid fa-microphone-lines"></i> Mic Level:
+            </div>
+            <div class="mic-level-track">
+              <div class="mic-level-fill" id="micLevelFill" style="width: 0%;"></div>
+            </div>
+            <span class="mic-level-val" id="micLevelVal">0%</span>
+          </div>
+        </div>
+
+        <!-- Live Dialogue Transcript -->
+        <div class="dialogue-box">
+          <div class="dialogue-line ai-line">
+            <div class="dialogue-sender">
+              <i class="fa-solid fa-volume-high"></i> Examiner Voice:
+            </div>
+            <div class="dialogue-text" id="aiSpeechText">
+              "Click on any question from the list on the left or tap 'Speak Question'. I will read the MCQ and all 4 options. Answer by voice or click."
+            </div>
+          </div>
+          <div class="dialogue-line user-line" id="userSpeechLine">
+            <div class="dialogue-sender">
+              <i class="fa-solid fa-microphone"></i> Your Spoken Answer:
+            </div>
+            <div class="dialogue-text" id="userSpeechText">
+              (Ready to listen. Tap 'Speak Your Answer' and say 'Option 1', 'Option 2', etc.)
+            </div>
+          </div>
+        </div>
+
+        <!-- Mic Permission Alert Banner (Hidden by default) -->
+        <div class="mic-alert-banner" id="micAlertBanner" style="display: none;">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          <span id="micAlertText">Microphone permission is needed. Please click 'Allow' in your browser.</span>
+        </div>
+
+        <!-- Strict Voice Action Buttons -->
+        <div class="examiner-actions">
+          <button class="btn btn-primary" id="btnAskVoice">
+            <i class="fa-solid fa-bullhorn"></i>
+            <span>Speak Question & Options</span>
+          </button>
+          <button class="btn btn-mic" id="btnVoiceAnswer">
+            <i class="fa-solid fa-microphone"></i>
+            <span>Speak Your Answer</span>
+          </button>
+          <button class="btn btn-secondary" id="btnRepeatVoice" title="Repeat Current Question">
+            <i class="fa-solid fa-rotate-right"></i>
+            <span>Repeat</span>
+          </button>
+          <button class="btn btn-secondary" id="btnStopVoice" title="Stop Audio">
+            <i class="fa-solid fa-circle-stop"></i>
+            <span>Stop Voice</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Active Question Card -->
+      <div class="question-card" id="questionCard">
+        <!-- Card Meta Info -->
+        <div class="card-meta">
+          <div class="meta-left">
+            <span class="badge badge-subject" id="currentSubjectTag">English</span>
+            <span class="badge badge-topic" id="currentTopicTag">Synonyms</span>
+            <span class="question-counter" id="questionCounter">Question 1 of 86</span>
+          </div>
+          <div class="meta-right">
+            <button class="btn-icon-subtle" id="btnBookmark" title="Save / Bookmark">
+              <i class="fa-regular fa-bookmark"></i>
+            </button>
+            <button class="btn-icon-subtle" id="btnRandomQuestion" title="Random Question">
+              <i class="fa-solid fa-shuffle"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Progress Indicator -->
+        <div class="question-progress-bar">
+          <div class="progress-fill" id="questionProgressFill" style="width: 1%;"></div>
+        </div>
+
+        <!-- Question Prompt Text -->
+        <div class="question-body">
+          <h2 class="question-text" id="questionText">Loading question...</h2>
+        </div>
+
+        <!-- 4 Options Grid -->
+        <div class="options-container-label">
+          <span><i class="fa-solid fa-hand-pointer"></i> Choose an option (or say "Option 1", "Option 2", etc.):</span>
+        </div>
+        <div class="options-grid" id="optionsGrid">
+          <!-- Dynamically populated options -->
+        </div>
+
+        <!-- Strict Evaluation Feedback Panel -->
+        <div class="feedback-panel" id="feedbackPanel" style="display: none;">
+          <div class="feedback-header" id="feedbackHeader">
+            <div class="feedback-icon" id="feedbackIcon"></div>
+            <div class="feedback-title" id="feedbackTitle">Strict Evaluation Result</div>
+          </div>
+          <div class="feedback-correct-answer" id="feedbackCorrectAnswer"></div>
+          <div class="feedback-explanation" id="feedbackExplanation"></div>
+        </div>
+
+        <!-- Bottom Controls -->
+        <div class="question-nav-bar">
+          <button class="btn btn-secondary" id="btnPrev">
+            <i class="fa-solid fa-arrow-left"></i>
+            <span>Previous</span>
+          </button>
+          
+          <div class="nav-middle">
+            <button class="btn btn-accent" id="btnAutoViva">
+              <i class="fa-solid fa-play"></i>
+              <span>Auto-Advance Viva</span>
+            </button>
+          </div>
+
+          <button class="btn btn-primary" id="btnNext">
+            <span>Next Question</span>
+            <i class="fa-solid fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Quick Performance Stats Strip -->
+      <div class="session-stats-card">
+        <div class="stat-item">
+          <span class="stat-label">Accuracy</span>
+          <span class="stat-value text-accent" id="statAccuracy">0%</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Correct</span>
+          <span class="stat-value text-success" id="statCorrect">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Wrong</span>
+          <span class="stat-value text-danger" id="statWrong">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Total Answered</span>
+          <span class="stat-value" id="statAnswered">0</span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Mobile Testing Modal with QR Code and URL -->
+  <div class="modal-overlay" id="phoneModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title">
+          <i class="fa-solid fa-mobile-screen"></i>
+          <span>Open on your Mobile Phone</span>
+        </div>
+        <button class="modal-close" id="btnClosePhoneModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-desc">
+          Test the AI Voice Assistant right on your phone! Mobile browsers (Chrome/Safari) <strong>strictly require HTTPS</strong> to allow microphone voice input.
+        </p>
+
+        <div class="qr-container">
+          <div id="qrcode"></div>
+        </div>
+
+        <div class="phone-url-box">
+          <span class="phone-url-label">📱 Recommended HTTPS URL (Enables Mobile Microphone):</span>
+          <div class="url-copy-row">
+            <input type="text" id="phoneUrlInput" readonly value="https://192.168.0.102:8443">
+            <button class="btn btn-sm btn-accent" id="btnCopyPhoneUrl">
+              <i class="fa-regular fa-copy"></i> Copy
+            </button>
+          </div>
+          <small class="text-subtle" style="font-size: 0.76rem; color: #cbd5e1; margin-top: 4px;">
+            <i class="fa-solid fa-lock"></i> Note: When opening in mobile browser for the first time, tap <strong>"Advanced" &rarr; "Proceed"</strong> to accept the local SSL certificate.
+          </small>
+        </div>
+
+        <div class="phone-url-box" style="margin-top: 8px;">
+          <span class="phone-url-label">Alternative HTTP URL:</span>
+          <div class="url-copy-row">
+            <input type="text" id="phoneHttpUrlInput" readonly value="http://192.168.0.102:8080">
+            <button class="btn btn-sm btn-secondary" id="btnCopyHttpUrl">
+              <i class="fa-regular fa-copy"></i> Copy
+            </button>
+          </div>
+        </div>
+
+        <div class="phone-tip">
+          <i class="fa-solid fa-circle-info"></i>
+          <span>Tip: Tap 'Speak Your Answer' and say <strong>"Option 1"</strong>, <strong>"Option 2"</strong>, or the answer text.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Settings Modal (Voice & Examiner Controls) -->
+  <div class="modal-overlay" id="settingsModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title">
+          <i class="fa-solid fa-sliders"></i>
+          <span>Examiner & Voice Preferences</span>
+        </div>
+        <button class="modal-close" id="btnCloseSettings">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="setting-row">
+          <label for="voiceSelect">Examiner Voice:</label>
+          <select id="voiceSelect" class="form-select"></select>
+        </div>
+
+        <div class="setting-row">
+          <label for="voiceRate">Speaking Speed: <span id="rateVal">1.0x</span></label>
+          <input type="range" id="voiceRate" min="0.7" max="1.4" step="0.05" value="1.0">
+        </div>
+
+        <div class="setting-row">
+          <label for="voicePitch">Examiner Pitch: <span id="pitchVal">1.0</span></label>
+          <input type="range" id="voicePitch" min="0.8" max="1.3" step="0.05" value="1.0">
+        </div>
+
+        <div class="setting-row-toggle">
+          <div>
+            <strong>Auto-Listen after reading question</strong>
+            <p class="text-subtle">Immediately starts microphone when examiner finishes speaking</p>
+          </div>
+          <input type="checkbox" id="checkAutoListen" checked>
+        </div>
+
+        <div class="setting-row-toggle">
+          <div>
+            <strong>Auto-advance to next question</strong>
+            <p class="text-subtle">Automatically load next question after correct verbal answer</p>
+          </div>
+          <input type="checkbox" id="checkAutoAdvance" checked>
+        </div>
+
+        <div class="setting-row-toggle">
+          <div>
+            <strong>Sound Effects (Chimes / Buzzers)</strong>
+            <p class="text-subtle">Play procedural Web Audio chimes on correct/wrong answers</p>
+          </div>
+          <input type="checkbox" id="checkSoundFX" checked>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
