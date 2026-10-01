@@ -145,10 +145,10 @@
     "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
     "question": "According to Kohlberg’s Moral developmental theory, 'the good boy good girl attitude' reflects in this stage:",
     "options": [
-      "Stage 1",
-      "Stage 2",
-      "Stage 3",
-      "Stage 4"
+      "Stage",
+      "Stage",
+      "Stage",
+      "Stage"
     ],
     "answer": 3,
     "explanation": "Stage 3 (Conventional level) is the 'Good boy / Nice girl' orientation of interpersonal accord."
@@ -215,8 +215,8 @@
     "topic": "Intelligence, Creativity & Individual Differences",
     "question": "Formula for Intelligence Quotient (IQ) is:",
     "options": [
-      "(Mental Age / Chronological Age) × 100",
-      "(Chronological Age / Mental Age) × 100",
+      "(Mental Age / Chronological Age) ×",
+      "(Chronological Age / Mental Age) ×",
       "Mental Age / Chronological Age",
       "Chronological Age / Mental Age"
     ],
@@ -330,7 +330,7 @@
       "E.L. Thorndike",
       "Ivan Pavlov",
       "Kohler (కొహెలర్)",
-      "B.F. Skinner"
+      "F. Skinner"
     ],
     "answer": 3,
     "explanation": "Wolfgang Köhler conducted famous experiments on Sultan the chimpanzee formulating Insightful Learning."
@@ -355,10 +355,10 @@
     "topic": "National Education Policy",
     "question": "Structure of school education recommended in NEP 2020 / NEP 2020 లో విద్యా నిర్మాణం:",
     "options": [
-      "10 + 2 + 3",
-      "11 + 1 + 3",
-      "5 + 3 + 3 + 4",
-      "10 + 3 + 3"
+      "10 + 2 +",
+      "11 + 1 +",
+      "5 + 3 + 3 +",
+      "10 + 3 +"
     ],
     "answer": 3,
     "explanation": "NEP 2020 replaces the 10+2 system with the 5+3+3+4 pedagogical structure."
@@ -369,10 +369,10 @@
     "topic": "Educational Acts",
     "question": "RTE 2009 (Right to Education Act) came into force on / RTE 2009 అమలులోనికి వచ్చిన తేదీ:",
     "options": [
-      "1 Jan 2010",
-      "1 Jan 2009",
-      "1 April 2010 (1 ఏప్రిల్ 2010)",
-      "1 April 2009"
+      "1 Jan",
+      "1 Jan",
+      "1 April 2010 (1 ఏప్రిల్",
+      "1 April"
     ],
     "answer": 3,
     "explanation": "The Right of Children to Free and Compulsory Education Act came into legal force across India on 1st April 2010."
@@ -635,10 +635,10 @@
     "topic": "Growth, Development & Maturation Principles",
     "question": "According to Elizabeth Hurlock, childhood belongs to this age range (in years):",
     "options": [
-      "10 to 20",
-      "15 to 25",
-      "3 to 10",
-      "20 to 30"
+      "10 to",
+      "15 to",
+      "3 to",
+      "20 to"
     ],
     "answer": 3,
     "explanation": "Hurlock defines early childhood (2-6) and late childhood (6-10/12)."
@@ -916,7 +916,7 @@
     "question": "Which psychologist placed a hungry cat in a puzzle box to formulate the 'Trial and Error' theory of learning?",
     "options": [
       "E.L. Thorndike",
-      "B.F. Skinner",
+      "F. Skinner",
       "Ivan Pavlov",
       "Wolfgang Kohler"
     ],
@@ -971,10 +971,10 @@
     "topic": "Intelligence, Creativity & Individual Differences",
     "question": "The formula to calculate Intelligence Quotient (IQ) developed by William Stern and refined by Lewis Terman is:",
     "options": [
-      "(CA / MA) × 100",
-      "(MA / CA) × 100",
-      "(MA × CA) / 100",
-      "(MA + CA) × 10"
+      "(CA / MA) ×",
+      "(MA / CA) ×",
+      "(MA × CA) /",
+      "(MA + CA) ×"
     ],
     "answer": 2,
     "explanation": "IQ = (Mental Age / Chronological Age) × 100."
@@ -1069,10 +1069,10 @@
     "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
     "question": "The Right to Education (RTE) Act 2009 came into force in India on:",
     "options": [
-      "15th August 2009",
-      "1st April 2010",
-      "26th January 2010",
-      "2nd October 2009"
+      "15th August",
+      "1st April",
+      "26th January",
+      "2nd October"
     ],
     "answer": 2,
     "explanation": "RTE Act 2009 was enacted in 2009 and officially came into force across India on 1st April 2010."
@@ -1139,9 +1139,9 @@
     "topic": "Growth, Development & Maturation Principles",
     "question": "According to Elizebeth Hurlock, the childhood belongs to this age ( in years) ఎలిజబత్ హర్లాక్ ప్రకారం, బాలాదశవయస్సు (స్ంవత్ుర్లలలో)",
     "options": [
-      "10 20",
-      "15 25",
-      "3 to 10",
+      "10",
+      "15",
+      "3 to",
       "20 to"
     ],
     "answer": 3,

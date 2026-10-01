@@ -611,15 +611,17 @@ class AppController {
     this.dom.btnBookmark.classList.toggle('active', isBookmarked);
 
     // Populate options
-    this.dom.optionsGrid.innerHTML = '';
+    const optionLetters = ['A', 'B', 'C', 'D'];
     q.options.forEach((optText, index) => {
       const optBtn = document.createElement('button');
       optBtn.className = 'option-btn';
       optBtn.dataset.index = index + 1;
+      optBtn.setAttribute('aria-label', `Option ${index + 1} or ${optionLetters[index]}: ${optText}`);
 
       optBtn.innerHTML = `
         <span class="opt-number">${index + 1}</span>
         <span class="opt-text">${optText}</span>
+        <span class="opt-badge">Key: ${index + 1} or ${optionLetters[index]}</span>
       `;
 
       optBtn.addEventListener('click', () => {

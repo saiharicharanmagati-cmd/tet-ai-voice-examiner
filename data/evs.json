@@ -243,7 +243,7 @@
     "topic": "Human Eye",
     "question": "The most comfortable minimum distance of distinct vision for a normal eye is (in cm):",
     "options": [
-      "2.5 cm",
+      "5 cm",
       "250 cm",
       "25 cm",
       "2500 cm"
@@ -355,10 +355,10 @@
     "topic": "Governance, Society & Constitution",
     "question": "This article of the Constitution states that untouchability has been abolished / రాజ్యాంగంలోని ఈ అధికరణం అంటరానితనాన్ని నిషేధిస్తుంది:",
     "options": [
-      "Article 15",
-      "Article 16",
-      "Article 17",
-      "Article 18"
+      "Article",
+      "Article",
+      "Article",
+      "Article"
     ],
     "answer": 3,
     "explanation": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form."

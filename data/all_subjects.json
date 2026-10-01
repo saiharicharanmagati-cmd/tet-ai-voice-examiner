@@ -3356,7 +3356,7 @@
       "topic": "Human Eye",
       "question": "The most comfortable minimum distance of distinct vision for a normal eye is (in cm):",
       "options": [
-        "2.5 cm",
+        "5 cm",
         "250 cm",
         "25 cm",
         "2500 cm"
@@ -3468,10 +3468,10 @@
       "topic": "Governance, Society & Constitution",
       "question": "This article of the Constitution states that untouchability has been abolished / రాజ్యాంగంలోని ఈ అధికరణం అంటరానితనాన్ని నిషేధిస్తుంది:",
       "options": [
-        "Article 15",
-        "Article 16",
-        "Article 17",
-        "Article 18"
+        "Article",
+        "Article",
+        "Article",
+        "Article"
       ],
       "answer": 3,
       "explanation": "Article 17 of the Indian Constitution abolishes untouchability and forbids its practice in any form."
@@ -6257,7 +6257,7 @@
       "question": "If √1764 = 42 then √17.64 = ? / √1764 = 42 అయిన √17.64 = ?",
       "options": [
         "0.42",
-        "4.2",
+        "2",
         "0.042",
         "0.0042"
       ],
@@ -6284,10 +6284,10 @@
       "topic": "Pythagorean Triplets",
       "question": "Identify a Pythagorean triplet whose one number is 6 / 6 ఒక సంఖ్యగా గల పైథాగరియన్ త్రికమును గుర్తించండి:",
       "options": [
-        "6, 8, 10",
-        "6, 10, 12",
-        "6, 8, 12",
-        "6, 9, 15"
+        "6, 8,",
+        "6, 10,",
+        "6, 8,",
+        "6, 9,"
       ],
       "answer": 1,
       "explanation": "6^2 + 8^2 = 36 + 64 = 100 = 10^2. Hence (6, 8, 10) forms a Pythagorean triplet."
@@ -6314,8 +6314,8 @@
       "options": [
         "5:2",
         "5:3",
-        "2:5",
-        "3:5"
+        "5",
+        "5"
       ],
       "answer": 4,
       "explanation": "1.5 m = 150 cm. Ratio = 90 : 150 = 9 : 15 = 3 : 5."
@@ -6578,10 +6578,10 @@
       "topic": "Ratio",
       "question": "In a class, there are 51 boys and 68 girls. The ratio of the number of boys to girls is:",
       "options": [
-        "3:5",
-        "4:3",
-        "3:2",
-        "3:4"
+        "5",
+        "3",
+        "2",
+        "4"
       ],
       "answer": 4,
       "explanation": "51 / 68 = (17 × 3) / (17 × 4) = 3:4."
@@ -6774,10 +6774,10 @@
       "topic": "Ratio, Proportion & Averages",
       "question": "The average of 4.2, 3.8, and 7.6 is / 4.2, 3.8, 7.6 యొక్క సగటు:",
       "options": [
-        "4.8",
+        "8",
         "5.2",
         "6.3",
-        "3.8"
+        "8"
       ],
       "answer": 2,
       "explanation": "Sum = 4.2 + 3.8 + 7.6 = 15.6. Average = 15.6 / 3 = 5.2."
@@ -7362,10 +7362,10 @@
       "topic": "Ratio, Proportion & Averages",
       "question": "If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C is:",
       "options": [
-        "8 : 12 : 15",
-        "6 : 8 : 10",
-        "2 : 4 : 5",
-        "8 : 10 : 15"
+        "8 : 12 :",
+        "6 : 8 :",
+        "2 : 4 :",
+        "8 : 10 :"
       ],
       "answer": 1,
       "explanation": "Multiply A:B by 4 -> 8:12. Multiply B:C by 3 -> 12:15. Hence A:B:C = 8:12:15."
@@ -7502,10 +7502,10 @@
       "topic": "Ratio, Proportion & Averages",
       "question": "2, 3.8, 7.6 యొక్క సగటు",
       "options": [
-        "4.8",
+        "8",
         "5.2",
         "6.3",
-        "3.8 34 The decimal form of 2 rupees 5 paise is"
+        "8 34 The decimal form of 2 rupees 5 paise is"
       ],
       "answer": 4,
       "explanation": "Official AP TET key: Option 4 - '3.8 34 The decimal form of 2 rupees 5 paise is'."
@@ -7516,8 +7516,8 @@
       "topic": "Number System & Arithmetic",
       "question": "రుపాయిల 5 పైసలు యొక్క ద్శాింశ రూపిం",
       "options": [
-        "2.50",
-        "2.05",
+        "50",
+        "05",
         "25.0",
         "0.25 35 Sushant reads"
       ],
@@ -7614,9 +7614,9 @@
       "topic": "Number System & Arithmetic",
       "question": "= 42 + 32 . అయితే 6 ఒక్ సింఖ్యగా గల పైథాగరియన్ త్రిక్మును గురితించ్చము",
       "options": [
-        "6, 8, 10",
-        "6, 10, 12",
-        "6, 8, 12",
+        "6, 8,",
+        "6, 10,",
+        "6, 8,",
         "6, 9, 15 85 If 93 = 729 then √"
       ],
       "answer": 1,
@@ -7656,9 +7656,9 @@
       "topic": "Number System & Arithmetic",
       "question": "− 33 = 1 + 4 × 3 × 3 then (అయితే) 73 − 63 = ____________",
       "options": [
-        "1 + 7 × 6 × 3",
-        "1 + 5 × 4 × 3",
-        "7 + 3 × 6 × 3",
+        "1 + 7 × 6 ×",
+        "1 + 5 × 4 ×",
+        "7 + 3 × 6 ×",
         "3 + 6 × 5 × 3 102 If 83 = 512 then √"
       ],
       "answer": 2,
@@ -7670,9 +7670,9 @@
       "topic": "Number System & Arithmetic",
       "question": "పెనునల ఖ్ర్డదు ₹ 210 అయిన 4 పెనునల ఖ్ర్డదు",
       "options": [
-        "₹ 70",
-        "₹ 105",
-        "₹ 140",
+        "₹",
+        "₹",
+        "₹",
         "₹ 165 110 The ratio of 90 cm to 1.5m is"
       ],
       "answer": 3,
@@ -7882,10 +7882,10 @@
       "topic": "Moral & Emotional Development (Kohlberg, Erikson)",
       "question": "According to Kohlberg’s Moral developmental theory, 'the good boy good girl attitude' reflects in this stage:",
       "options": [
-        "Stage 1",
-        "Stage 2",
-        "Stage 3",
-        "Stage 4"
+        "Stage",
+        "Stage",
+        "Stage",
+        "Stage"
       ],
       "answer": 3,
       "explanation": "Stage 3 (Conventional level) is the 'Good boy / Nice girl' orientation of interpersonal accord."
@@ -7952,8 +7952,8 @@
       "topic": "Intelligence, Creativity & Individual Differences",
       "question": "Formula for Intelligence Quotient (IQ) is:",
       "options": [
-        "(Mental Age / Chronological Age) × 100",
-        "(Chronological Age / Mental Age) × 100",
+        "(Mental Age / Chronological Age) ×",
+        "(Chronological Age / Mental Age) ×",
         "Mental Age / Chronological Age",
         "Chronological Age / Mental Age"
       ],
@@ -8067,7 +8067,7 @@
         "E.L. Thorndike",
         "Ivan Pavlov",
         "Kohler (కొహెలర్)",
-        "B.F. Skinner"
+        "F. Skinner"
       ],
       "answer": 3,
       "explanation": "Wolfgang Köhler conducted famous experiments on Sultan the chimpanzee formulating Insightful Learning."
@@ -8092,10 +8092,10 @@
       "topic": "National Education Policy",
       "question": "Structure of school education recommended in NEP 2020 / NEP 2020 లో విద్యా నిర్మాణం:",
       "options": [
-        "10 + 2 + 3",
-        "11 + 1 + 3",
-        "5 + 3 + 3 + 4",
-        "10 + 3 + 3"
+        "10 + 2 +",
+        "11 + 1 +",
+        "5 + 3 + 3 +",
+        "10 + 3 +"
       ],
       "answer": 3,
       "explanation": "NEP 2020 replaces the 10+2 system with the 5+3+3+4 pedagogical structure."
@@ -8106,10 +8106,10 @@
       "topic": "Educational Acts",
       "question": "RTE 2009 (Right to Education Act) came into force on / RTE 2009 అమలులోనికి వచ్చిన తేదీ:",
       "options": [
-        "1 Jan 2010",
-        "1 Jan 2009",
-        "1 April 2010 (1 ఏప్రిల్ 2010)",
-        "1 April 2009"
+        "1 Jan",
+        "1 Jan",
+        "1 April 2010 (1 ఏప్రిల్",
+        "1 April"
       ],
       "answer": 3,
       "explanation": "The Right of Children to Free and Compulsory Education Act came into legal force across India on 1st April 2010."
@@ -8372,10 +8372,10 @@
       "topic": "Growth, Development & Maturation Principles",
       "question": "According to Elizabeth Hurlock, childhood belongs to this age range (in years):",
       "options": [
-        "10 to 20",
-        "15 to 25",
-        "3 to 10",
-        "20 to 30"
+        "10 to",
+        "15 to",
+        "3 to",
+        "20 to"
       ],
       "answer": 3,
       "explanation": "Hurlock defines early childhood (2-6) and late childhood (6-10/12)."
@@ -8653,7 +8653,7 @@
       "question": "Which psychologist placed a hungry cat in a puzzle box to formulate the 'Trial and Error' theory of learning?",
       "options": [
         "E.L. Thorndike",
-        "B.F. Skinner",
+        "F. Skinner",
         "Ivan Pavlov",
         "Wolfgang Kohler"
       ],
@@ -8708,10 +8708,10 @@
       "topic": "Intelligence, Creativity & Individual Differences",
       "question": "The formula to calculate Intelligence Quotient (IQ) developed by William Stern and refined by Lewis Terman is:",
       "options": [
-        "(CA / MA) × 100",
-        "(MA / CA) × 100",
-        "(MA × CA) / 100",
-        "(MA + CA) × 10"
+        "(CA / MA) ×",
+        "(MA / CA) ×",
+        "(MA × CA) /",
+        "(MA + CA) ×"
       ],
       "answer": 2,
       "explanation": "IQ = (Mental Age / Chronological Age) × 100."
@@ -8806,10 +8806,10 @@
       "topic": "Educational Acts, RTE 2009 & NEP Frameworks",
       "question": "The Right to Education (RTE) Act 2009 came into force in India on:",
       "options": [
-        "15th August 2009",
-        "1st April 2010",
-        "26th January 2010",
-        "2nd October 2009"
+        "15th August",
+        "1st April",
+        "26th January",
+        "2nd October"
       ],
       "answer": 2,
       "explanation": "RTE Act 2009 was enacted in 2009 and officially came into force across India on 1st April 2010."
@@ -8876,9 +8876,9 @@
       "topic": "Growth, Development & Maturation Principles",
       "question": "According to Elizebeth Hurlock, the childhood belongs to this age ( in years) ఎలిజబత్ హర్లాక్ ప్రకారం, బాలాదశవయస్సు (స్ంవత్ుర్లలలో)",
       "options": [
-        "10 20",
-        "15 25",
-        "3 to 10",
+        "10",
+        "15",
+        "3 to",
         "20 to"
       ],
       "answer": 3,
